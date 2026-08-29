@@ -1,12 +1,6 @@
 (() => {
   const headerDate = document.querySelector('#header-date');
-  const button = document.querySelector('#refresh-dashboard');
-  const content = document.querySelector('#dashboard-content');
-  const status = document.querySelector('#refresh-status');
-  const updatedAt = document.querySelector('#updated-at');
-  const nextUpdateAt = document.querySelector('#next-update-at');
   const headerWeather = document.querySelector('.header-weather');
-  let browserCoordinates = null;
 
   const weatherIcon = (code) => {
     if (code === 0) return '☀';
@@ -98,59 +92,11 @@
   if ('geolocation' in navigator) {
     navigator.geolocation.getCurrentPosition(
       ({ coords }) => {
-        browserCoordinates = { latitude: coords.latitude, longitude: coords.longitude };
-        updateLocalWeather(browserCoordinates);
+        updateLocalWeather({ latitude: coords.latitude, longitude: coords.longitude });
       },
       () => {},
       { enableHighAccuracy: false, timeout: 8000, maximumAge: 600000 }
     );
   }
 
-  if (!button || !content || !status || !updatedAt) return;
-
-  button.addEventListener('click', async () => {
-    if (button.disabled) return;
-
-    const originalLabel = button.textContent;
-    button.disabled = true;
-    button.textContent = '[ CONECTANDO... ]';
-    status.textContent = 'ACTUALIZANDO';
-    content.classList.add('is-refreshing');
-
-    try {
-      const pageUrl = new URL('index.html', document.baseURI);
-      pageUrl.searchParams.set('refresh', Date.now());
-      const response = await fetch(pageUrl, { cache: 'no-store' });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-
-      const html = await response.text();
-      const nextDocument = new DOMParser().parseFromString(html, 'text/html');
-      const nextContent = nextDocument.querySelector('#dashboard-content');
-      const nextUpdatedAt = nextDocument.querySelector('#updated-at');
-      const nextScheduledAt = nextDocument.querySelector('#next-update-at');
-      const nextHeaderWeather = nextDocument.querySelector('.header-weather');
-      if (!nextContent || !nextUpdatedAt || !nextScheduledAt) throw new Error('Respuesta incompleta');
-
-      content.innerHTML = nextContent.innerHTML;
-      if (headerWeather && nextHeaderWeather) headerWeather.innerHTML = nextHeaderWeather.innerHTML;
-      if (browserCoordinates) updateLocalWeather(browserCoordinates);
-      updatedAt.textContent = nextUpdatedAt.textContent;
-      updatedAt.dataset.localDatetime = nextUpdatedAt.dataset.localDatetime;
-      updatedAt.dateTime = nextUpdatedAt.dateTime;
-      nextUpdateAt.textContent = nextScheduledAt.textContent;
-      nextUpdateAt.dataset.localDatetime = nextScheduledAt.dataset.localDatetime;
-      nextUpdateAt.dateTime = nextScheduledAt.dateTime;
-      formatScheduleDates();
-      status.textContent = 'ACTIVO';
-      button.textContent = '[ SEÑAL ACTUALIZADA ]';
-      window.setTimeout(() => { button.textContent = originalLabel; }, 1600);
-    } catch (error) {
-      console.error('No se pudo actualizar Neo News:', error);
-      status.textContent = 'ERROR';
-      button.textContent = '[ REINTENTAR ]';
-    } finally {
-      content.classList.remove('is-refreshing');
-      button.disabled = false;
-    }
-  });
 })();
