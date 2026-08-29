@@ -1,0 +1,359 @@
+{
+  "categories": [
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "eyebrow": "Radar nacional",
+      "articles": [
+        {
+          "id": "c5066dbae80e",
+          "title": "Con banderas argentinas. El festejo de las jugadoras de Bélgica con Las Leonas, tras su polémico gol anulado frente a Países Bajos",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/deportes/hockey/las-jugadoras-de-belgica-festejaron-el-triunfo-de-las-leonas-tras-su-polemico-gol-anulado-frente-a-nid29082026/",
+          "image": "",
+          "source": "La Nación",
+          "published": "2026-08-29T20:14:44.284763+00:00"
+        },
+        {
+          "id": "2019ef9ea0af",
+          "title": "Así fue la emotiva tanda de penales que le dio el título del mundo a Las Leonas ante Países Bajos",
+          "summary": "",
+          "url": "https://www.infobae.com/deportes/2026/08/29/asi-fueron-los-electrizantes-penales-australianos-que-le-dieron-el-titulo-del-mundo-a-las-leonas-ante-paises-bajos/",
+          "image": "https://www.infobae.com/resizer/v2/DLLMFYYXZRDRFLSUL27VRWXYOY.jpg?auth=98679d8f5575ddf7d426e9e690d41b4b3a463ca5e4cc4c9832a924d645355da7&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-08-29T20:14:44.230628+00:00"
+        },
+        {
+          "id": "51e97487855f",
+          "title": "El RIGI suma inversiones pero todavía no alcanza para reemplazar el empleo que se perdió en la era Milei",
+          "summary": "Los proyectos aprobados por el Gobierno no llegan a sumar el 30% de los puestos formales que cayeron. Los que están todavía en evaluación alcanzan al equivalente del 67%.",
+          "url": "https://www.clarin.com/economia/rigi-suma-inversiones-todavia-alcanza-reemplazar-empleo-perdio-milei_0_sRgOx3Msbr.html",
+          "image": "https://www.clarin.com/img/2026/07/26/mDHbw0rRA_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-08-29T19:23:58+00:00"
+        },
+        {
+          "id": "68891d2cb7f9",
+          "title": "Las Leonas se consagraron campeonas del Mundial de Hockey 2026",
+          "summary": "La Selección argentina femenina de hockey levantó su tercer copa del mundo tras vencer al conjunto local. El penal definitorio fue convertido por Sofía Cairó.",
+          "url": "https://www.ambito.com/deportes/las-leonas-se-consagraron-campeonas-del-mundial-hockey-2026-n6316167",
+          "image": "https://media.ambito.com/p/51fd02b896d26ef9ba434d16acbc4dda/adjuntos/239/imagenes/043/611/0043611975/leonas-campeonas-mundial-hockey-captura.jpg",
+          "source": "Ámbito",
+          "published": "2026-08-29T16:13:00+00:00"
+        },
+        {
+          "id": "e5cd84e58b0e",
+          "title": "Con la voz quebrada. Cerimedo habló por primera vez desde la cárcel y apuntó contra el vicepresidente de Bolivia",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/politica/cerimedo-hablo-por-primera-vez-desde-la-carcel-en-una-audiencia-cautelar-y-apunto-contra-el-nid29082026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/cerimedo-va-180-dias-a-palmasola-por-el-atentado-YH5O42XGRFEIRFK5CYNJCKUP5A.JPG?auth=6a1ab77a232fc3a3556fd8885e585bf43bb65ced40afa0960369e2b27bcec3eb&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-08-29T20:14:44.284658+00:00"
+        },
+        {
+          "id": "a8e9d9945e30",
+          "title": "Tensión en Avellaneda: policías sufrieron una salvaje agresión vecinal cuando intentaban remolcar un auto mal estacionado",
+          "summary": "",
+          "url": "https://www.infobae.com/sociedad/policiales/2026/08/29/tension-en-avellaneda-policias-sufrieron-una-salvaje-agresion-vecinal-cuando-intentaban-remolcar-un-auto-mal-estacionado/",
+          "image": "",
+          "source": "Infobae",
+          "published": "2026-08-29T20:14:44.230539+00:00"
+        },
+        {
+          "id": "cc450733d810",
+          "title": "El deseperado pedido de oración de la actriz Macarena Paz por la salud de su hija de 4 años",
+          "summary": "La pequeña nació con una patología genética que no tiene cura. Junto a su pareja, la intérprete difundió un mensaje de fe en las redes.",
+          "url": "https://www.clarin.com/fama/deseperado-pedido-oracion-actriz-macarena-paz-salud-hija-4-anos_0_Fgukzbh3H8.html",
+          "image": "https://www.clarin.com/img/2026/08/29/6bkajNP0t_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-08-29T19:23:07+00:00"
+        },
+        {
+          "id": "0087356d5186",
+          "title": "Vaca Muerta acelera y el petróleo desplazaría a la soja como principal exportador antes de fin de año",
+          "summary": "El crecimiento de las exportaciones vinculadas al sector energético achicó con fuerza la distancia con el histórico liderazgo sojero. Durante el primer semestre de 2026, el complejo petrolero-petroquímico generó ingresos por u$s8.116 millon",
+          "url": "https://www.ambito.com/economia/vaca-muerta-acelera-y-el-petroleo-desplazaria-la-soja-como-principal-exportador-antes-fin-ano-n6316189",
+          "image": "https://media.ambito.com/p/3c7744dac5354a648d20a7730d030400/adjuntos/239/imagenes/043/596/0043596121/1200x675/2209x1393:2229x1413/petroleo-argentina.jpg",
+          "source": "Ámbito",
+          "published": "2026-08-29T15:39:00+00:00"
+        },
+        {
+          "id": "5c0a46f99bc2",
+          "title": "“Esto es la guerra”. El miedo que esconden los insultos de Milei",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/ideas/el-miedo-que-esconden-los-insultos-de-milei-nid28082026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/milei-en-su-visita-del-jueves-a-la-escuela-4APIOITIHJBWBDYGOCB5TE2OAA.jpg?auth=4e3f294ba5bda4a11473d1b1076088049b4e0de771e575e0f548188895ee89ac&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-08-29T20:14:44.284553+00:00"
+        },
+        {
+          "id": "3277f9c03fda",
+          "title": "El escándalo financiero en EEUU con conexiones en la Argentina frenó una operación de USD 10.000 millones",
+          "summary": "",
+          "url": "https://www.infobae.com/economia/2026/08/29/el-escandalo-financiero-en-eeuu-con-conexiones-en-la-argentina-freno-una-operacion-de-usd-10000-millones/",
+          "image": "https://www.infobae.com/resizer/v2/4RO3AUCSPUVGDU7G6S66PPCQGI.jpg?auth=39f24c45fb654cd4d72b328e6e2f67a2c7f4fd89c80718e63c5a0392fac557be&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-08-29T20:14:44.230469+00:00"
+        },
+        {
+          "id": "e78031e5a24b",
+          "title": "Investigan por lavado a la camporista que compró el piso de abajo del departamento de Cristina Kirchner",
+          "summary": "El fiscal Taiano impulsa sumar ese delito al de fraude a la UOM tras la compra de ese inmueble de 190 mil dólares y una docena de viajes al exterior de Soledad Calle. Le adjudican dos autos y dos casas. Ella no niega.",
+          "url": "https://www.clarin.com/politica/investigan-lavado-camporista-compro-piso-abajo-departamento-cristina-kirchner_0_R3pnJry2mz.html",
+          "image": "https://www.clarin.com/img/2026/08/26/Q5rFUKFXB_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-08-29T19:17:00+00:00"
+        },
+        {
+          "id": "827a050a4a82",
+          "title": "EEUU y Venezuela acordaron un histórico pacto petrolero: qué se sabe hasta ahora",
+          "summary": "El acuerdo anunciado por Donald Trump contempla el control mayoritario de 17 yacimientos y más de 65.000 millones de barriles de reservas venezolanas.",
+          "url": "https://www.ambito.com/mundo/eeuu-y-venezuela-acordaron-un-historico-pacto-petrolero-que-se-sabe-ahora-n6316179",
+          "image": "https://media.ambito.com/p/f799c6c5e254544350db4aba56a1edf8/adjuntos/239/imagenes/043/611/0043611698/1200x675/487x189:507x209/trump-venezuela.jpeg",
+          "source": "Ámbito",
+          "published": "2026-08-29T14:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "slug": "finanzas",
+      "name": "Finanzas",
+      "eyebrow": "Mercados & economía",
+      "articles": [
+        {
+          "id": "dafce8c94179",
+          "title": "Dólar hoy: a cuánto cotiza este sábado 29 de agosto",
+          "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+          "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-29-agosto-n6316142",
+          "image": "https://media.ambito.com/p/3949748e354d833ee62cf0002c07a343/adjuntos/239/imagenes/042/744/0042744221/dolar-blue-vivo-inversiones-mercados-bonos.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-29T19:42:00+00:00"
+        },
+        {
+          "id": "5b1f4211798b",
+          "title": "Dólar blue hoy: a cuánto opera este sábado 29 de agosto",
+          "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+          "url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-29-agosto-n6316143",
+          "image": "https://media.ambito.com/p/3949748e354d833ee62cf0002c07a343/adjuntos/239/imagenes/042/744/0042744221/dolar-blue-vivo-inversiones-mercados-bonos.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-29T19:42:00+00:00"
+        },
+        {
+          "id": "796b21d6b939",
+          "title": "Abanico de inversiones para los FAL: solo 8 ON, vía libre para bonos soberanos y por ahora provinciales excluidos",
+          "summary": "El esquema comenzará a regir en noviembre y movería unos u$s2.000 millones durante el primer año. El Poder Ejecutivo estableció límites en los porcentajes a invertir en bonos subsoberanos y corporativos, además de restricciones en función d",
+          "url": "https://www.ambito.com/finanzas/abanico-inversiones-los-fal-solo-8-on-via-libre-bonos-soberanos-y-ahora-provinciales-excluidos-n6316033",
+          "image": "https://media.ambito.com/p/1a37f78d76c3d235b011ee952b195909/adjuntos/239/imagenes/043/560/0043560264/1200x675/3342x1808:3362x1828/mercados-finanzas-bolsas-acciones-inversiones-cedears-riesgo-pais-vivo.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-28T23:42:00+00:00"
+        },
+        {
+          "id": "1f7d417c2eac",
+          "title": "La morosidad en las familias volvió a crecer en julio y marcó un nuevo récord, según estimación de privados",
+          "summary": "La irregularidad de los préstamos al sector privado alcanzó el 7,73% en julio, según la consultora 1816. La mora de las familias trepó al 12,94%, mientras que en financieras no bancarias llegó al 33,7%.",
+          "url": "https://www.ambito.com/finanzas/la-morosidad-las-familias-volvio-crecer-julio-y-marco-un-nuevo-record-segun-estimacion-privados-n6316079",
+          "image": "https://media.ambito.com/p/ca56082c14800e203db8789fce436e61/adjuntos/239/imagenes/043/578/0043578335/1200x675/582x742:602x762/creditos-anses-1500-x-1000.png",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-28T22:14:00+00:00"
+        },
+        {
+          "id": "8008d44d5ca7",
+          "title": "El S&P Merval frenó en la semana una larga racha negativa, pero el riesgo país siguió arriba de los 500 puntos",
+          "summary": "Las acciones locales mostraron una recuperación luego de varias ruedas de presión, con mejor desempeño de bancos y servicios públicos. En paralelo, los bonos soberanos mejoraron de forma moderada, aunque la prima de riesgo se mantuvo elevad",
+          "url": "https://www.ambito.com/finanzas/los-bonos-dolares-y-los-adrs-operan-mayoria-bajas-wall-street-n6315883",
+          "image": "https://media.ambito.com/p/a83136875778b44ee75cd723d3806ac0/adjuntos/239/imagenes/043/611/0043611156/1200x675/smart/cierre_semanal_bolsa_16x9.png",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-28T21:54:00+00:00"
+        },
+        {
+          "id": "56392de3b24a",
+          "title": "Wall Street cerró en rojo: Kevin Warsh endureció el tono y agitó el temor a una suba de tasas",
+          "summary": "Los principales índices de Nueva York cerraron en rojo luego de que el presidente de la Fed advirtiera que la inflación sigue elevada. El mercado elevó al 59% la probabilidad de una suba de tasas en septiembre.",
+          "url": "https://www.ambito.com/finanzas/wall-street-anticipa-caidas-la-espera-un-discurso-clave-kevin-warsh-n6315788",
+          "image": "https://media.ambito.com/p/11113a855a3e877ee656b42444c044f0/adjuntos/239/imagenes/041/501/0041501458/1200x675/smart/wall-streetjpg.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-28T21:26:00+00:00"
+        },
+        {
+          "id": "334e94f6f1d6",
+          "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 28 de agosto",
+          "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+          "url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-28-agosto-n6315781",
+          "image": "https://media.ambito.com/p/e8141c0682bf6fceb4d73f3d187680c3/adjuntos/239/imagenes/043/411/0043411160/1200x675/1814x962:1834x982/mercados-finanzas-bolsas-acciones-merval-adr-cedears-vivo-riesgo-pais.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-28T21:22:00+00:00"
+        },
+        {
+          "id": "1e2274e20740",
+          "title": "Las compras del BCRA superaron la barrera de u$s14.000 millones en lo que va de 2026",
+          "summary": "La autoridad monetaria compró u$s82 millones y cerró agosto con un saldo semanal de u$s256 millones, aunque las reservas bajaron u$s1.069 millones y perforaron los u$s50.000 millones. El dato llegó en una rueda con dólar mayorista estable, ",
+          "url": "https://www.ambito.com/finanzas/las-compras-del-bcra-superaron-la-barrera-us14000-millones-lo-que-va-2026-n6316050",
+          "image": "https://media.ambito.com/p/94329f95a8c489a18074ac76e7d1eba7/adjuntos/239/imagenes/043/416/0043416983/1200x675/smart/dolar-banco-central-bcra.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-08-28T21:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "slug": "ia",
+      "name": "Inteligencia Artificial",
+      "eyebrow": "Señal tecnológica",
+      "articles": [
+        {
+          "id": "092c8de02e8b",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "image": "",
+          "source": "OpenAI",
+          "published": "2026-08-28T06:00:00+00:00"
+        },
+        {
+          "id": "69b225fb598b",
+          "title": "The inside story on why OpenAI agents hacked Hugging Face",
+          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents underto",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "image": "",
+          "source": "MIT Technology Review AI",
+          "published": "2026-08-26T19:00:00+00:00"
+        },
+        {
+          "id": "0b00c80d502c",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "image": "",
+          "source": "OpenAI",
+          "published": "2026-08-28T02:00:00+00:00"
+        },
+        {
+          "id": "f53aafc869b1",
+          "title": "Raised on AI",
+          "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footpr",
+          "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+          "image": "",
+          "source": "MIT Technology Review AI",
+          "published": "2026-08-26T09:00:00+00:00"
+        },
+        {
+          "id": "3062d8cdad5f",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "image": "",
+          "source": "OpenAI",
+          "published": "2026-08-27T09:00:00+00:00"
+        },
+        {
+          "id": "9fbcf87c86fa",
+          "title": "AI models flub these intelligence tests. Can you fare any better?",
+          "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “m",
+          "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+          "image": "",
+          "source": "MIT Technology Review AI",
+          "published": "2026-08-26T09:00:00+00:00"
+        },
+        {
+          "id": "57e276283c19",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "image": "",
+          "source": "OpenAI",
+          "published": "2026-08-27T03:00:00+00:00"
+        },
+        {
+          "id": "12fc95881938",
+          "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+          "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference",
+          "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+          "image": "",
+          "source": "MIT Technology Review AI",
+          "published": "2026-08-26T07:01:00+00:00"
+        },
+        {
+          "id": "cdfc10030b4b",
+          "title": "Learning never stops: How AI makes learning continuous",
+          "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+          "url": "https://openai.com/index/learning-never-stops",
+          "image": "",
+          "source": "OpenAI",
+          "published": "2026-08-26T10:00:00+00:00"
+        },
+        {
+          "id": "f898977be79d",
+          "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+          "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key face",
+          "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+          "image": "",
+          "source": "MIT Technology Review AI",
+          "published": "2026-08-25T09:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "name": "Oficial",
+      "buy": 1485,
+      "sell": 1535
+    },
+    {
+      "name": "Blue",
+      "buy": 1535,
+      "sell": 1555
+    },
+    {
+      "name": "Dólar MEP",
+      "buy": 1534.9,
+      "sell": 1544.1
+    },
+    {
+      "name": "Dólar CCL",
+      "buy": 1602.3,
+      "sell": 1603.8
+    },
+    {
+      "name": "Cripto",
+      "buy": 1593.77,
+      "sell": 1596.79
+    }
+  ],
+  "weather": {
+    "provider": "Open-Meteo",
+    "location": "Zelaya, Buenos Aires",
+    "temperature": 18.3,
+    "apparent": 15.9,
+    "humidity": 49,
+    "precipitation": 0.0,
+    "wind": 11.9,
+    "condition": "Nublado",
+    "icon": "☁",
+    "days": [
+      {
+        "date": "2026-08-29T00:00:00",
+        "condition": "Nublado",
+        "max": 19.7,
+        "min": 6.4,
+        "rain_probability": 0
+      },
+      {
+        "date": "2026-08-30T00:00:00",
+        "condition": "Nublado",
+        "max": 21.4,
+        "min": 6.1,
+        "rain_probability": 0
+      },
+      {
+        "date": "2026-08-31T00:00:00",
+        "condition": "Nublado",
+        "max": 20.4,
+        "min": 9.7,
+        "rain_probability": 6
+      }
+    ]
+  },
+  "errors": [],
+  "updated_at": "2026-08-29T17:14:45.641929-03:00",
+  "next_update_at": "2026-08-29T17:17:00-03:00"
+}

@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#030a05">
+  <meta name="description" content="Neo News: noticias de Argentina, finanzas, dólar e inteligencia artificial.">
+  <link rel="canonical" href="https://leosecotaro.com.ar/neo-news/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:site_name" content="Neo News">
+  <meta property="og:title" content="Neo News — La señal detrás del ruido">
+  <meta property="og:description" content="Argentina, mercados e inteligencia artificial en una portada limpia y directa.">
+  <meta property="og:url" content="https://leosecotaro.com.ar/neo-news/">
+  <meta property="og:image" content="https://leosecotaro.com.ar/neo-news/static/og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Neo News — La señal detrás del ruido">
+  <meta name="twitter:description" content="Argentina, mercados e inteligencia artificial en una portada limpia y directa.">
+  <meta name="twitter:image" content="https://leosecotaro.com.ar/neo-news/static/og.png">
+  <title>NEO NEWS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="static/navigation.css">
+  <link rel="stylesheet" href="static/weather.css">
+  <script src="static/app.js" defer></script>
+</head>
+<body>
+  <div class="matrix-rain" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="header-main">
+      <a class="brand" href="#top" aria-label="Neo News, inicio">
+        <span class="brand-mark">N</span>
+        <span><b>NEO</b> NEWS</span>
+      </a>
+      
+      <div class="header-weather" aria-label="Clima en Zelaya, Buenos Aires">
+        <span class="header-weather-icon" aria-hidden="true">☁</span>
+        <strong>18°</strong>
+        <span class="header-weather-condition">NUBLADO</span>
+        <span class="header-weather-location">ZELAYA, BUENOS AIRES</span>
+      </div>
+      <time class="header-date" id="header-date"></time>
+      
+    </div>
+    <nav class="nav-actions" aria-label="Navegación principal">
+      <a href="#top">PORTADA</a>
+      <a href="#argentina">ARGENTINA</a>
+      <a href="#finanzas">FINANZAS</a>
+      <a href="#ia">IA</a>
+    </nav>
+  </header>
+  <main id="top">
+<section class="hero">
+  <div>
+    <p class="kicker"><span class="pulse"></span> SISTEMA EN LÍNEA</p>
+    <h1>La señal detrás<br><em>del ruido.</em></h1>
+    <p class="hero-copy">Argentina, mercados e inteligencia artificial. Una lectura limpia, directa y sin algoritmos decidiendo por vos.</p>
+  </div>
+  <div class="terminal-card">
+    <div class="terminal-top"><span></span><span></span><span></span><b>neo@news:~</b></div>
+    <div class="terminal-body">
+      <p>&gt; conectando fuentes<span class="blink">_</span></p>
+      <p>&gt; actualizado: <time id="updated-at" data-local-datetime="2026-08-29T17:14:45.641929-03:00" datetime="2026-08-29T17:14:45.641929-03:00">29/08 · 17:14</time></p>
+      <p>&gt; próxima señal: <time id="next-update-at" data-local-datetime="2026-08-29T17:17:00-03:00" datetime="2026-08-29T17:17:00-03:00">29/08 · 17:17</time> <small class="schedule-estimate">ESTIMADA</small></p>
+      <p>&gt; estado: <strong id="refresh-status" aria-live="polite">ACTIVO</strong></p>
+      <button class="signal-refresh" id="refresh-dashboard" type="button">[ ACTUALIZAR SEÑAL ]</button>
+    </div>
+  </div>
+</section>
+
+<div id="dashboard-content">
+<section class="ticker" aria-label="Cotizaciones del dólar">
+  <div class="section-label"><span>01</span> DÓLAR AHORA</div>
+  <div class="quote-strip">
+    
+      <article class="quote">
+        <p>Oficial</p>
+        <div><span>COMPRA <b>$1,485.00</b></span><span>VENTA <b>$1,535.00</b></span></div>
+      </article>
+    
+      <article class="quote">
+        <p>Blue</p>
+        <div><span>COMPRA <b>$1,535.00</b></span><span>VENTA <b>$1,555.00</b></span></div>
+      </article>
+    
+      <article class="quote">
+        <p>Dólar MEP</p>
+        <div><span>COMPRA <b>$1,534.90</b></span><span>VENTA <b>$1,544.10</b></span></div>
+      </article>
+    
+      <article class="quote">
+        <p>Dólar CCL</p>
+        <div><span>COMPRA <b>$1,602.30</b></span><span>VENTA <b>$1,603.80</b></span></div>
+      </article>
+    
+      <article class="quote">
+        <p>Cripto</p>
+        <div><span>COMPRA <b>$1,593.77</b></span><span>VENTA <b>$1,596.79</b></span></div>
+      </article>
+    
+  </div>
+</section>
+
+
+
+
+<section class="news-section" id="argentina">
+  <div class="section-heading">
+    <div class="section-label"><span>02</span> Radar nacional</div>
+    <h2>Argentina</h2>
+  </div>
+  <div class="news-grid">
+    
+    <article class="news-card featured">
+      
+      <div class="card-content">
+        <p class="meta"><span>La Nación</span> 29.08 · 17:14</p>
+        <h3><a href="https://www.lanacion.com.ar/deportes/hockey/las-jugadoras-de-belgica-festejaron-el-triunfo-de-las-leonas-tras-su-polemico-gol-anulado-frente-a-nid29082026/" target="_blank" rel="noopener noreferrer">Con banderas argentinas. El festejo de las jugadoras de Bélgica con Las Leonas, tras su polémico gol anulado frente a Países Bajos</a></h3>
+        
+        <a class="read-more" href="https://www.lanacion.com.ar/deportes/hockey/las-jugadoras-de-belgica-festejaron-el-triunfo-de-las-leonas-tras-su-polemico-gol-anulado-frente-a-nid29082026/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://www.infobae.com/resizer/v2/DLLMFYYXZRDRFLSUL27VRWXYOY.jpg?auth=98679d8f5575ddf7d426e9e690d41b4b3a463ca5e4cc4c9832a924d645355da7&amp;smart=true&amp;width=350&amp;height=197&amp;quality=85" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Infobae</span> 29.08 · 17:14</p>
+        <h3><a href="https://www.infobae.com/deportes/2026/08/29/asi-fueron-los-electrizantes-penales-australianos-que-le-dieron-el-titulo-del-mundo-a-las-leonas-ante-paises-bajos/" target="_blank" rel="noopener noreferrer">Así fue la emotiva tanda de penales que le dio el título del mundo a Las Leonas ante Países Bajos</a></h3>
+        
+        <a class="read-more" href="https://www.infobae.com/deportes/2026/08/29/asi-fueron-los-electrizantes-penales-australianos-que-le-dieron-el-titulo-del-mundo-a-las-leonas-ante-paises-bajos/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://www.clarin.com/img/2026/07/26/mDHbw0rRA_1200x630__1.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Clarín</span> 29.08 · 16:23</p>
+        <h3><a href="https://www.clarin.com/economia/rigi-suma-inversiones-todavia-alcanza-reemplazar-empleo-perdio-milei_0_sRgOx3Msbr.html" target="_blank" rel="noopener noreferrer">El RIGI suma inversiones pero todavía no alcanza para reemplazar el empleo que se perdió en la era Milei</a></h3>
+        <p class="summary">Los proyectos aprobados por el Gobierno no llegan a sumar el 30% de los puestos formales que cayeron. Los que están todavía en evaluación alcanzan al equivalente del 67%.</p>
+        <a class="read-more" href="https://www.clarin.com/economia/rigi-suma-inversiones-todavia-alcanza-reemplazar-empleo-perdio-milei_0_sRgOx3Msbr.html" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/51fd02b896d26ef9ba434d16acbc4dda/adjuntos/239/imagenes/043/611/0043611975/leonas-campeonas-mundial-hockey-captura.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito</span> 29.08 · 13:13</p>
+        <h3><a href="https://www.ambito.com/deportes/las-leonas-se-consagraron-campeonas-del-mundial-hockey-2026-n6316167" target="_blank" rel="noopener noreferrer">Las Leonas se consagraron campeonas del Mundial de Hockey 2026</a></h3>
+        <p class="summary">La Selección argentina femenina de hockey levantó su tercer copa del mundo tras vencer al conjunto local. El penal definitorio fue convertido por Sofía Cairó.</p>
+        <a class="read-more" href="https://www.ambito.com/deportes/las-leonas-se-consagraron-campeonas-del-mundial-hockey-2026-n6316167" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://www.lanacion.com.ar/resizer/v2/cerimedo-va-180-dias-a-palmasola-por-el-atentado-YH5O42XGRFEIRFK5CYNJCKUP5A.JPG?auth=6a1ab77a232fc3a3556fd8885e585bf43bb65ced40afa0960369e2b27bcec3eb&amp;width=302&amp;height=201&amp;quality=70&amp;smart=true" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>La Nación</span> 29.08 · 17:14</p>
+        <h3><a href="https://www.lanacion.com.ar/politica/cerimedo-hablo-por-primera-vez-desde-la-carcel-en-una-audiencia-cautelar-y-apunto-contra-el-nid29082026/" target="_blank" rel="noopener noreferrer">Con la voz quebrada. Cerimedo habló por primera vez desde la cárcel y apuntó contra el vicepresidente de Bolivia</a></h3>
+        
+        <a class="read-more" href="https://www.lanacion.com.ar/politica/cerimedo-hablo-por-primera-vez-desde-la-carcel-en-una-audiencia-cautelar-y-apunto-contra-el-nid29082026/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>Infobae</span> 29.08 · 17:14</p>
+        <h3><a href="https://www.infobae.com/sociedad/policiales/2026/08/29/tension-en-avellaneda-policias-sufrieron-una-salvaje-agresion-vecinal-cuando-intentaban-remolcar-un-auto-mal-estacionado/" target="_blank" rel="noopener noreferrer">Tensión en Avellaneda: policías sufrieron una salvaje agresión vecinal cuando intentaban remolcar un auto mal estacionado</a></h3>
+        
+        <a class="read-more" href="https://www.infobae.com/sociedad/policiales/2026/08/29/tension-en-avellaneda-policias-sufrieron-una-salvaje-agresion-vecinal-cuando-intentaban-remolcar-un-auto-mal-estacionado/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://www.clarin.com/img/2026/08/29/6bkajNP0t_1200x630__1.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Clarín</span> 29.08 · 16:23</p>
+        <h3><a href="https://www.clarin.com/fama/deseperado-pedido-oracion-actriz-macarena-paz-salud-hija-4-anos_0_Fgukzbh3H8.html" target="_blank" rel="noopener noreferrer">El deseperado pedido de oración de la actriz Macarena Paz por la salud de su hija de 4 años</a></h3>
+        <p class="summary">La pequeña nació con una patología genética que no tiene cura. Junto a su pareja, la intérprete difundió un mensaje de fe en las redes.</p>
+        <a class="read-more" href="https://www.clarin.com/fama/deseperado-pedido-oracion-actriz-macarena-paz-salud-hija-4-anos_0_Fgukzbh3H8.html" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/3c7744dac5354a648d20a7730d030400/adjuntos/239/imagenes/043/596/0043596121/1200x675/2209x1393:2229x1413/petroleo-argentina.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito</span> 29.08 · 12:39</p>
+        <h3><a href="https://www.ambito.com/economia/vaca-muerta-acelera-y-el-petroleo-desplazaria-la-soja-como-principal-exportador-antes-fin-ano-n6316189" target="_blank" rel="noopener noreferrer">Vaca Muerta acelera y el petróleo desplazaría a la soja como principal exportador antes de fin de año</a></h3>
+        <p class="summary">El crecimiento de las exportaciones vinculadas al sector energético achicó con fuerza la distancia con el histórico liderazgo sojero. Durante el primer semestre de 2026, el complejo petrolero-petroquímico generó ingresos por u$s8.116 millon</p>
+        <a class="read-more" href="https://www.ambito.com/economia/vaca-muerta-acelera-y-el-petroleo-desplazaria-la-soja-como-principal-exportador-antes-fin-ano-n6316189" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://www.lanacion.com.ar/resizer/v2/milei-en-su-visita-del-jueves-a-la-escuela-4APIOITIHJBWBDYGOCB5TE2OAA.jpg?auth=4e3f294ba5bda4a11473d1b1076088049b4e0de771e575e0f548188895ee89ac&amp;width=302&amp;height=201&amp;quality=70&amp;smart=true" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>La Nación</span> 29.08 · 17:14</p>
+        <h3><a href="https://www.lanacion.com.ar/ideas/el-miedo-que-esconden-los-insultos-de-milei-nid28082026/" target="_blank" rel="noopener noreferrer">“Esto es la guerra”. El miedo que esconden los insultos de Milei</a></h3>
+        
+        <a class="read-more" href="https://www.lanacion.com.ar/ideas/el-miedo-que-esconden-los-insultos-de-milei-nid28082026/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://www.infobae.com/resizer/v2/4RO3AUCSPUVGDU7G6S66PPCQGI.jpg?auth=39f24c45fb654cd4d72b328e6e2f67a2c7f4fd89c80718e63c5a0392fac557be&amp;smart=true&amp;width=350&amp;height=197&amp;quality=85" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Infobae</span> 29.08 · 17:14</p>
+        <h3><a href="https://www.infobae.com/economia/2026/08/29/el-escandalo-financiero-en-eeuu-con-conexiones-en-la-argentina-freno-una-operacion-de-usd-10000-millones/" target="_blank" rel="noopener noreferrer">El escándalo financiero en EEUU con conexiones en la Argentina frenó una operación de USD 10.000 millones</a></h3>
+        
+        <a class="read-more" href="https://www.infobae.com/economia/2026/08/29/el-escandalo-financiero-en-eeuu-con-conexiones-en-la-argentina-freno-una-operacion-de-usd-10000-millones/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://www.clarin.com/img/2026/08/26/Q5rFUKFXB_1200x630__1.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Clarín</span> 29.08 · 16:17</p>
+        <h3><a href="https://www.clarin.com/politica/investigan-lavado-camporista-compro-piso-abajo-departamento-cristina-kirchner_0_R3pnJry2mz.html" target="_blank" rel="noopener noreferrer">Investigan por lavado a la camporista que compró el piso de abajo del departamento de Cristina Kirchner</a></h3>
+        <p class="summary">El fiscal Taiano impulsa sumar ese delito al de fraude a la UOM tras la compra de ese inmueble de 190 mil dólares y una docena de viajes al exterior de Soledad Calle. Le adjudican dos autos y dos casas. Ella no niega.</p>
+        <a class="read-more" href="https://www.clarin.com/politica/investigan-lavado-camporista-compro-piso-abajo-departamento-cristina-kirchner_0_R3pnJry2mz.html" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/f799c6c5e254544350db4aba56a1edf8/adjuntos/239/imagenes/043/611/0043611698/1200x675/487x189:507x209/trump-venezuela.jpeg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito</span> 29.08 · 11:30</p>
+        <h3><a href="https://www.ambito.com/mundo/eeuu-y-venezuela-acordaron-un-historico-pacto-petrolero-que-se-sabe-ahora-n6316179" target="_blank" rel="noopener noreferrer">EEUU y Venezuela acordaron un histórico pacto petrolero: qué se sabe hasta ahora</a></h3>
+        <p class="summary">El acuerdo anunciado por Donald Trump contempla el control mayoritario de 17 yacimientos y más de 65.000 millones de barriles de reservas venezolanas.</p>
+        <a class="read-more" href="https://www.ambito.com/mundo/eeuu-y-venezuela-acordaron-un-historico-pacto-petrolero-que-se-sabe-ahora-n6316179" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+  </div>
+</section>
+
+<section class="news-section" id="finanzas">
+  <div class="section-heading">
+    <div class="section-label"><span>03</span> Mercados &amp; economía</div>
+    <h2>Finanzas</h2>
+  </div>
+  <div class="news-grid">
+    
+    <article class="news-card featured">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/3949748e354d833ee62cf0002c07a343/adjuntos/239/imagenes/042/744/0042744221/dolar-blue-vivo-inversiones-mercados-bonos.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 29.08 · 16:42</p>
+        <h3><a href="https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-29-agosto-n6316142" target="_blank" rel="noopener noreferrer">Dólar hoy: a cuánto cotiza este sábado 29 de agosto</a></h3>
+        <p class="summary">Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.</p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-29-agosto-n6316142" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/3949748e354d833ee62cf0002c07a343/adjuntos/239/imagenes/042/744/0042744221/dolar-blue-vivo-inversiones-mercados-bonos.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 29.08 · 16:42</p>
+        <h3><a href="https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-29-agosto-n6316143" target="_blank" rel="noopener noreferrer">Dólar blue hoy: a cuánto opera este sábado 29 de agosto</a></h3>
+        <p class="summary">Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.</p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-29-agosto-n6316143" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/1a37f78d76c3d235b011ee952b195909/adjuntos/239/imagenes/043/560/0043560264/1200x675/3342x1808:3362x1828/mercados-finanzas-bolsas-acciones-inversiones-cedears-riesgo-pais-vivo.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 28.08 · 20:42</p>
+        <h3><a href="https://www.ambito.com/finanzas/abanico-inversiones-los-fal-solo-8-on-via-libre-bonos-soberanos-y-ahora-provinciales-excluidos-n6316033" target="_blank" rel="noopener noreferrer">Abanico de inversiones para los FAL: solo 8 ON, vía libre para bonos soberanos y por ahora provinciales excluidos</a></h3>
+        <p class="summary">El esquema comenzará a regir en noviembre y movería unos u$s2.000 millones durante el primer año. El Poder Ejecutivo estableció límites en los porcentajes a invertir en bonos subsoberanos y corporativos, además de restricciones en función d</p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/abanico-inversiones-los-fal-solo-8-on-via-libre-bonos-soberanos-y-ahora-provinciales-excluidos-n6316033" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/ca56082c14800e203db8789fce436e61/adjuntos/239/imagenes/043/578/0043578335/1200x675/582x742:602x762/creditos-anses-1500-x-1000.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 28.08 · 19:14</p>
+        <h3><a href="https://www.ambito.com/finanzas/la-morosidad-las-familias-volvio-crecer-julio-y-marco-un-nuevo-record-segun-estimacion-privados-n6316079" target="_blank" rel="noopener noreferrer">La morosidad en las familias volvió a crecer en julio y marcó un nuevo récord, según estimación de privados</a></h3>
+        <p class="summary">La irregularidad de los préstamos al sector privado alcanzó el 7,73% en julio, según la consultora 1816. La mora de las familias trepó al 12,94%, mientras que en financieras no bancarias llegó al 33,7%.</p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/la-morosidad-las-familias-volvio-crecer-julio-y-marco-un-nuevo-record-segun-estimacion-privados-n6316079" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/a83136875778b44ee75cd723d3806ac0/adjuntos/239/imagenes/043/611/0043611156/1200x675/smart/cierre_semanal_bolsa_16x9.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 28.08 · 18:54</p>
+        <h3><a href="https://www.ambito.com/finanzas/los-bonos-dolares-y-los-adrs-operan-mayoria-bajas-wall-street-n6315883" target="_blank" rel="noopener noreferrer">El S&amp;P Merval frenó en la semana una larga racha negativa, pero el riesgo país siguió arriba de los 500 puntos</a></h3>
+        <p class="summary">Las acciones locales mostraron una recuperación luego de varias ruedas de presión, con mejor desempeño de bancos y servicios públicos. En paralelo, los bonos soberanos mejoraron de forma moderada, aunque la prima de riesgo se mantuvo elevad</p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/los-bonos-dolares-y-los-adrs-operan-mayoria-bajas-wall-street-n6315883" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/11113a855a3e877ee656b42444c044f0/adjuntos/239/imagenes/041/501/0041501458/1200x675/smart/wall-streetjpg.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 28.08 · 18:26</p>
+        <h3><a href="https://www.ambito.com/finanzas/wall-street-anticipa-caidas-la-espera-un-discurso-clave-kevin-warsh-n6315788" target="_blank" rel="noopener noreferrer">Wall Street cerró en rojo: Kevin Warsh endureció el tono y agitó el temor a una suba de tasas</a></h3>
+        <p class="summary">Los principales índices de Nueva York cerraron en rojo luego de que el presidente de la Fed advirtiera que la inflación sigue elevada. El mercado elevó al 59% la probabilidad de una suba de tasas en septiembre.</p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/wall-street-anticipa-caidas-la-espera-un-discurso-clave-kevin-warsh-n6315788" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/e8141c0682bf6fceb4d73f3d187680c3/adjuntos/239/imagenes/043/411/0043411160/1200x675/1814x962:1834x982/mercados-finanzas-bolsas-acciones-merval-adr-cedears-vivo-riesgo-pais.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 28.08 · 18:22</p>
+        <h3><a href="https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-28-agosto-n6315781" target="_blank" rel="noopener noreferrer">Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 28 de agosto</a></h3>
+        <p class="summary">Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.</p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-28-agosto-n6315781" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      <div class="image-wrap"><img src="https://media.ambito.com/p/94329f95a8c489a18074ac76e7d1eba7/adjuntos/239/imagenes/043/416/0043416983/1200x675/smart/dolar-banco-central-bcra.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>
+      <div class="card-content">
+        <p class="meta"><span>Ámbito Finanzas</span> 28.08 · 18:19</p>
+        <h3><a href="https://www.ambito.com/finanzas/las-compras-del-bcra-superaron-la-barrera-us14000-millones-lo-que-va-2026-n6316050" target="_blank" rel="noopener noreferrer">Las compras del BCRA superaron la barrera de u$s14.000 millones en lo que va de 2026</a></h3>
+        <p class="summary">La autoridad monetaria compró u$s82 millones y cerró agosto con un saldo semanal de u$s256 millones, aunque las reservas bajaron u$s1.069 millones y perforaron los u$s50.000 millones. El dato llegó en una rueda con dólar mayorista estable, </p>
+        <a class="read-more" href="https://www.ambito.com/finanzas/las-compras-del-bcra-superaron-la-barrera-us14000-millones-lo-que-va-2026-n6316050" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+  </div>
+</section>
+
+<section class="news-section" id="ia">
+  <div class="section-heading">
+    <div class="section-label"><span>04</span> Señal tecnológica</div>
+    <h2>Inteligencia Artificial</h2>
+  </div>
+  <div class="news-grid">
+    
+    <article class="news-card featured">
+      
+      <div class="card-content">
+        <p class="meta"><span>OpenAI</span> 28.08 · 03:00</p>
+        <h3><a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex" target="_blank" rel="noopener noreferrer">Our decision on Cursor following its acquisition by SpaceX</a></h3>
+        <p class="summary">Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.</p>
+        <a class="read-more" href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>MIT Technology Review AI</span> 26.08 · 16:00</p>
+        <h3><a href="https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/" target="_blank" rel="noopener noreferrer">The inside story on why OpenAI agents hacked Hugging Face</a></h3>
+        <p class="summary">The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents underto</p>
+        <a class="read-more" href="https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>OpenAI</span> 27.08 · 23:00</p>
+        <h3><a href="https://openai.com/index/supporting-next-generation-ai-startups-thailand" target="_blank" rel="noopener noreferrer">Supporting Thailand’s next generation of AI startups</a></h3>
+        <p class="summary">OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</p>
+        <a class="read-more" href="https://openai.com/index/supporting-next-generation-ai-startups-thailand" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>MIT Technology Review AI</span> 26.08 · 06:00</p>
+        <h3><a href="https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/" target="_blank" rel="noopener noreferrer">Raised on AI</a></h3>
+        <p class="summary">When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footpr</p>
+        <a class="read-more" href="https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>OpenAI</span> 27.08 · 06:00</p>
+        <h3><a href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training" target="_blank" rel="noopener noreferrer">Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</a></h3>
+        <p class="summary">A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.</p>
+        <a class="read-more" href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>MIT Technology Review AI</span> 26.08 · 06:00</p>
+        <h3><a href="https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/" target="_blank" rel="noopener noreferrer">AI models flub these intelligence tests. Can you fare any better?</a></h3>
+        <p class="summary">Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “m</p>
+        <a class="read-more" href="https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>OpenAI</span> 27.08 · 00:00</p>
+        <h3><a href="https://openai.com/index/expanding-our-presence-in-brazil" target="_blank" rel="noopener noreferrer">Expanding OpenAI’s presence in Brazil</a></h3>
+        <p class="summary">OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.</p>
+        <a class="read-more" href="https://openai.com/index/expanding-our-presence-in-brazil" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>MIT Technology Review AI</span> 26.08 · 04:01</p>
+        <h3><a href="https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/" target="_blank" rel="noopener noreferrer">Bill Gates says we’ve passed AI’s danger thresholds. Now what?</a></h3>
+        <p class="summary">It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference</p>
+        <a class="read-more" href="https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>OpenAI</span> 26.08 · 07:00</p>
+        <h3><a href="https://openai.com/index/learning-never-stops" target="_blank" rel="noopener noreferrer">Learning never stops: How AI makes learning continuous</a></h3>
+        <p class="summary">OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</p>
+        <a class="read-more" href="https://openai.com/index/learning-never-stops" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+    <article class="news-card ">
+      
+      <div class="card-content">
+        <p class="meta"><span>MIT Technology Review AI</span> 25.08 · 06:00</p>
+        <h3><a href="https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/" target="_blank" rel="noopener noreferrer">I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.</a></h3>
+        <p class="summary">Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key face</p>
+        <a class="read-more" href="https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/" target="_blank" rel="noopener noreferrer">LEER FUENTE <span>↗</span></a>
+      </div>
+    </article>
+    
+  </div>
+</section>
+
+</div>
+</main>
+  <footer>
+    <span>NEO NEWS // INFORMACIÓN EN TIEMPO REAL</span>
+    <span>Despertá. La señal está ahí.</span>
+  </footer>
+</body>
+</html>
