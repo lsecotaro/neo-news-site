@@ -86,8 +86,86 @@
     }
   };
 
+  const findBocaPosition = (payload, tournament) => {
+    for (const group of payload.children || []) {
+      const entry = group.standings?.entries?.find(({ team }) => String(team?.id) === '5');
+      if (!entry) continue;
+      const stats = Object.fromEntries((entry.stats || []).map((stat) => [stat.name, stat.value]));
+      return {
+        tournament,
+        group: (group.name || '').replace(/^Group\s+/i, 'Grupo '),
+        rank: Number(stats.rank || 0),
+        points: Number(stats.points || 0)
+      };
+    }
+    return null;
+  };
+
+  const updateBoca = async () => {
+    const strip = document.querySelector('#boca-strip');
+    if (!strip) return;
+
+    const urls = [
+      'https://www.thesportsdb.com/api/v1/json/3/eventsnext.php?id=135156',
+      'https://site.api.espn.com/apis/v2/sports/soccer/arg.1/standings',
+      'https://site.api.espn.com/apis/v2/sports/soccer/conmebol.libertadores/standings'
+    ];
+
+    try {
+      const results = await Promise.allSettled(
+        urls.map(async (url) => {
+          const response = await fetch(url, { cache: 'no-store' });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          return response.json();
+        })
+      );
+      if (results[0].status !== 'fulfilled') throw results[0].reason;
+
+      const event = results[0].value.events?.[0];
+      if (!event) throw new Error('Sin próximos partidos');
+      const matchDate = new Date(`${event.strTimestamp}Z`);
+      if (Number.isNaN(matchDate.getTime())) throw new Error('Fecha inválida');
+
+      const teams = strip.querySelector('#boca-match-teams');
+      teams.append(document.createTextNode(`${event.strHomeTeam} `));
+      const versus = document.createElement('i');
+      versus.textContent = 'VS';
+      teams.append(versus, document.createTextNode(` ${event.strAwayTeam}`));
+
+      const date = strip.querySelector('#boca-match-date');
+      date.dateTime = matchDate.toISOString();
+      date.textContent = new Intl.DateTimeFormat('es-AR', {
+        weekday: 'short', day: '2-digit', month: '2-digit',
+        hour: '2-digit', minute: '2-digit'
+      }).format(matchDate).replace(',', '').replaceAll('.', '').toUpperCase();
+      strip.querySelector('#boca-match-tournament').textContent = event.strLeague;
+
+      const positions = [
+        results[1].status === 'fulfilled' && findBocaPosition(results[1].value, 'Liga Profesional'),
+        results[2].status === 'fulfilled' && findBocaPosition(results[2].value, 'Libertadores')
+      ].filter(Boolean);
+      const container = strip.querySelector('#boca-positions');
+      positions.forEach((position) => {
+        const item = document.createElement('div');
+        const tournament = document.createElement('span');
+        tournament.textContent = position.tournament;
+        const rank = document.createElement('strong');
+        rank.textContent = `${position.rank}°`;
+        const detail = document.createElement('small');
+        detail.textContent = `${position.group} · ${position.points} PTS`;
+        item.append(tournament, rank, detail);
+        container.append(item);
+      });
+
+      strip.hidden = false;
+    } catch (error) {
+      console.warn('No se pudo obtener la información de Boca:', error);
+    }
+  };
+
   updateDate();
   formatScheduleDates();
+  updateBoca();
 
   if ('geolocation' in navigator) {
     navigator.geolocation.getCurrentPosition(

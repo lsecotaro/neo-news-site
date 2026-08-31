@@ -9,6 +9,8 @@
   background: rgba(7, 17, 9, .28);
 }
 
+.boca-strip[hidden] { display: none; }
+
 .boca-match p {
   margin: 0 0 7px;
   color: #59705e;
