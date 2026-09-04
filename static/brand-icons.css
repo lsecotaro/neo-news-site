@@ -1,0 +1,14 @@
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid var(--green);
+  border-radius: 8px;
+  background: linear-gradient(135deg, rgba(84, 255, 128, .1), rgba(84, 255, 128, .02));
+  color: var(--green);
+  box-shadow: 0 0 18px rgba(84, 255, 128, .1);
+  clip-path: none;
+}
+
+.brand-mark svg { width: 18px; height: 18px; }
