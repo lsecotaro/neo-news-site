@@ -6,31 +6,67 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
-          "id": "6b978eb4f6e7",
-          "title": "Un argentino detenido. Múltiple asesinato en México: aseguran que el agresor cometió el crimen por “Bitcoins” y luego se fue a un restaurante",
+          "id": "e46c94fe56d4",
+          "title": "\"Era un kamikaze\". Ganó más de US$100 millones, fue un noqueador serial y hoy sufre demencia: el sicario del ring",
           "summary": "",
-          "url": "https://www.lanacion.com.ar/el-mundo/multiple-asesinato-en-mexico-aseguran-que-el-agresor-cometio-el-crimen-por-bitcoins-y-luego-se-fue-a-nid05092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/diego-sebastian-rosen-el-argentino-detenido-en-GLCTID6RKFDF7L6XFFRRMVYKTU.jpg?auth=a750050224b2aa55cc87bdcb7cd1f495a690b7d08b0f7f88d71f8f4e84f5f49a&width=302&height=201&quality=70&smart=true",
+          "url": "https://www.lanacion.com.ar/deportes/boxeo/gano-mas-de-us-100-millones-fue-un-noqueador-serial-y-hoy-sufre-demencia-la-cobra-hearns-el-sicario-nid05092026/",
+          "image": "",
           "source": "La Nación",
-          "published": "2026-09-05T16:05:07.411230+00:00"
+          "published": "2026-09-05T18:18:46.411007+00:00"
         },
         {
-          "id": "35b782e85e50",
-          "title": "De estudiante ejemplar a “El Padrino” del campus: así cayó el presunto jefe de una red de cocaína en Penn State",
+          "id": "2d013c588758",
+          "title": "Acusan a un hombre de apuñalar mortalmente a su madre dentro de su apartamento en Brickell",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/05/de-estudiante-ejemplar-a-el-padrino-del-campus-asi-cayo-el-presunto-jefe-de-una-red-de-cocaina-en-penn-state/",
-          "image": "https://www.infobae.com/resizer/v2/RGTRIOBRDND5NBD7VRZOYG76XA.jpg?auth=cbbd9cce9f20cacd9375fdc4426eb8387d0c0ef22eeabafd48ef9eb888a3fda4&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/05/acusan-a-un-hombre-de-apunalar-mortalmente-a-su-madre-dentro-de-su-apartamento-en-brickell/",
+          "image": "https://www.infobae.com/resizer/v2/WZ2DBTI5HVG6BLCHVYESGYTBDM.jpeg?auth=310285d6bfe630ff2e90fafa7761fe389871c38389450521126bac3a61bf1876&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-05T16:05:07.254592+00:00"
+          "published": "2026-09-05T18:18:46.241689+00:00"
         },
         {
-          "id": "2040ce48f5a9",
-          "title": "Quiniela de la Provincia: resultado del sorteo de la Primera de hoy, sábado 05 de septiembre",
-          "summary": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
-          "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-primera-hoy-sabado-05-septiembre_0_4hSvXjFBUE.html",
-          "image": "https://www.clarin.com/img/2020/06/24/1-70u4KCz_1200x630__1.jpg",
+          "id": "faac102d1627",
+          "title": "Murió Ricardo “Oveja” Stec, histórico percusionista de Los Palmeras, a los 66 años",
+          "summary": "El músico santafesino tenía una extensa trayectoria y fue parte de la agrupación entre 1988 y 1992. Participó en cinco discos durante su paso por una de las bandas más emblemáticas de la cumbia.",
+          "url": "https://www.clarin.com/espectaculos/murio-ricardo-oveja-stec-historico-percusionista-palmeras-66-anos_0_KtEb9Ezczl.html",
+          "image": "https://www.clarin.com/img/2026/09/05/zazgJam5k_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-05T15:34:53+00:00"
+          "published": "2026-09-05T18:05:31+00:00"
+        },
+        {
+          "id": "da702bd09593",
+          "title": "Dólar: a cuánto llegará a fin de año, según los gurúes de la City",
+          "summary": "El BCRA difundió las proyecciones de 47 participantes del mercado. Para diciembre, esperan un dólar a $1.630, mientras que las expectativas cambiarias se corrigieron a la baja frente al relevamiento anterior.",
+          "url": "https://www.ambito.com/finanzas/dolar-cuanto-llegara-fin-ano-segun-los-gurues-la-city-n6318874",
+          "image": "https://media.ambito.com/p/0df3beedee71726bbb793004d0dccc9d/adjuntos/239/imagenes/043/585/0043585624/1200x675/859x358:879x378/dolar-blue.jpg",
+          "source": "Ámbito",
+          "published": "2026-09-05T16:24:00+00:00"
+        },
+        {
+          "id": "9681654842e9",
+          "title": "Comunicado oficial. Malvinas: la Asamblea Legislativa en las islas le respondió a Milei tras la cadena nacional",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/politica/malvinas-la-asamblea-legislativa-en-las-islas-emitio-un-comunicado-en-respuesta-al-discurso-de-milei-nid05092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/los-kelpers-votaran-si-desean-seguir-o-no-bajo-el-ZFWKZMC3QRESHKEUDHLLJNQMH4.jpg?auth=03e558bbb229d9f4fe47c87192b67dbce305eb6372fd0f5b5f9076a583a47d07&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-05T18:18:46.410724+00:00"
+        },
+        {
+          "id": "4377b0a4d1c4",
+          "title": "Cómo funciona Stand Your Ground, la ley de legítima defensa en Florida que absolvió a una mujer tras dispararle a un hombre en un Walmart",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/05/como-funciona-stand-your-ground-la-ley-de-legitima-defensa-en-florida-que-libro-de-cargos-a-una-mujer-tras-dispararle-a-un-hombre-en-un-walmart/",
+          "image": "https://www.infobae.com/resizer/v2/6VHCK2GPOZBZPFKMPTMDP6ZSJY.jpg?auth=cf83a94ec845df80c8a56eecccd77a52021f75cb60b36ff35d247a396519597d&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-05T18:18:46.241472+00:00"
+        },
+        {
+          "id": "c35b826a04c4",
+          "title": "Miss Mundo: la candidata argentina sorprendió a todos en la final vestida de Messi",
+          "summary": "Alina Akselrad, quien representaba al país en el certamen de belleza, salió a competir en la definición con un atuendo con distintas imágenes de La Pulga. Quedó entre las 20 mujeres más hermosas del planeta. El título fue para la competidor",
+          "url": "https://www.clarin.com/sociedad/miss-mundo-candidata-argentina-sorprendio-final-vestida-messi_0_uAiVWfw4KI.html",
+          "image": "https://www.clarin.com/img/2026/09/05/B_hFeCWHo_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-05T18:03:48+00:00"
         },
         {
           "id": "0f444a6c4c03",
@@ -42,31 +78,31 @@
           "published": "2026-09-05T14:28:00+00:00"
         },
         {
-          "id": "e46c94fe56d4",
-          "title": "\"Era un kamikaze\". Ganó más de US$ 100 millones, fue un noqueador serial y hoy sufre demencia: el sicario del ring",
+          "id": "c5d299f1b744",
+          "title": "El francés larga primero. El emocionante abrazo de Colapinto con Gasly tras conseguir la pole position en Monza",
           "summary": "",
-          "url": "https://www.lanacion.com.ar/deportes/boxeo/gano-mas-de-us-100-millones-fue-un-noqueador-serial-y-hoy-sufre-demencia-la-cobra-hearns-el-sicario-nid05092026/",
+          "url": "https://www.lanacion.com.ar/deportes/automovilismo/el-abrazo-de-colapinto-con-gasly-el-frances-consiguio-la-pole-position-en-el-gran-premio-de-italia-nid05092026/",
           "image": "",
           "source": "La Nación",
-          "published": "2026-09-05T16:05:07.410971+00:00"
+          "published": "2026-09-05T18:18:46.410474+00:00"
         },
         {
-          "id": "cd6ba073ec00",
-          "title": "Las autoridades sanitarias confirmaron tres casos nuevos de sarampión vinculados a una guardería en Atlanta",
+          "id": "6a79e9355b0f",
+          "title": "Así son las estrictas reglas del exclusivo Indian Creek de Miami",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/05/las-autoridades-sanitarias-confirmaron-tres-casos-nuevos-de-sarampion-vinculados-a-una-guarderia-en-atlanta/",
-          "image": "https://www.infobae.com/resizer/v2/G76K2MYFLNFMTHAVWBYW3Y4EMA.jpg?auth=d4b58bc8a76a9f0d921e2bfd91fbf7b673f20f33dce52808f848bfff938ec1ee&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/05/asi-son-las-estrictas-reglas-del-exclusivo-indian-creek-de-miami/",
+          "image": "https://www.infobae.com/resizer/v2/DQTLRNPRNBEEZGRAGXIDZSU2FM.jpg?auth=a3fa8e99936584f4a303da079e1c0fb806bbbb84ba8fab44336799433ecf4392&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-05T16:05:07.254340+00:00"
+          "published": "2026-09-05T18:18:46.241226+00:00"
         },
         {
-          "id": "120e9c08e759",
-          "title": "Sorpresa de Alpine en Monza: Gasly logró la pole y Colapinto largará 7° tras realizar la mejor clasificación de su carrera",
-          "summary": "El piloto francés consiguió el mejor tiempo y largará desde la primera fila. En tanto, el argentino también tuvo una buena actuación en el estreno de las actualizaciones en su coche. La escudería francesa dio el golpe en el circuito italian",
-          "url": "https://www.clarin.com/deportes/sorpresa-alpine-monza-gasly-logro-pole-colapinto-largara-7-realizar-mejor-clasificacion-carrera_0_cOU7DY5yJq.html",
-          "image": "https://www.clarin.com/img/2026/09/05/g_85OrL1V_1200x630__1.jpg",
+          "id": "8158e923b48b",
+          "title": "Lautaro Martínez, implacable: apareció por duplicado y el Inter remontó un partidazo ante Napoli para seguir con puntaje perfecto",
+          "summary": "El delantero argentino marcó el empate y, en tiempo de descuento, el gol del 3-2 definitivo para completar la remontada del equipo de Milán. El conjunto de Lautaro llegó a los nueve puntos, conserva puntaje ideal y se mantiene como único lí",
+          "url": "https://www.clarin.com/deportes/lautaro-martinez-implacable-aparecio-duplicado-inter-remonto-partidazo-napoli-seguir-puntaje-perfecto_0_U1TgBvDZGn.html",
+          "image": "https://www.clarin.com/img/2026/09/05/ZnXvq7Kg8_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-05T15:31:25+00:00"
+          "published": "2026-09-05T18:00:36+00:00"
         },
         {
           "id": "ee8fdc8969f0",
@@ -76,42 +112,6 @@
           "image": "https://media.ambito.com/p/1ffbe41c27d82202fc3143bf815a67d7/adjuntos/239/imagenes/042/395/0042395658/1200x675/426x268:446x288/baja-edad-imputabilidad-2jpg.jpg",
           "source": "Ámbito",
           "published": "2026-09-05T13:46:00+00:00"
-        },
-        {
-          "id": "3563d8df8019",
-          "title": "Por la madrugada. Detuvieron al exgobernador Sergio Urribarri: rechazaron sus argumentos de “estrés” y “depresión”",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/politica/el-exgobernador-urribarri-dice-que-tiene-estres-postraumatico-y-depresion-nid04092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/sergio-KPIPMIDOYFD5BKGO3B3FSAYTNE.jpg?auth=20d645c7ce195538f1f8d91bd58b3414d44831396eecf3f86432c45a72a6dfec&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-05T16:05:07.410701+00:00"
-        },
-        {
-          "id": "9782a6a9d64f",
-          "title": "Parece sólido, pero la TSA lo considera un líquido: el alimento cotidiano que podrían quitarte en el equipaje de mano",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/05/parece-solido-pero-la-tsa-lo-considera-un-liquido-el-alimento-cotidiano-que-podrian-quitarte-en-el-equipaje-de-mano/",
-          "image": "https://www.infobae.com/resizer/v2/OEUYQHJ57BFNJCERRKYODB56GQ.JPG?auth=8b5f7cfece870b08039c46794002305526e18032b47b4fe659c42df7e573ceeb&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-05T16:05:07.254082+00:00"
-        },
-        {
-          "id": "8b73f68ebc88",
-          "title": "Los hermanos Gallagher se borran de la conferencia de prensa en Venecia en la que debían presentar su documental del concierto \"Oasis: Don't Look Back in Anger\".",
-          "summary": "Liam y Noel llegaron juntos para el estreno de la película sobre la reconciliación de Oasis, pero evitaron hablar con los periodistas. Oasis: Don't Look Back in Anger muestra desde adentro el regreso de la banda, su gira y el reencuentro de",
-          "url": "https://www.clarin.com/espectaculos/hermanos-gallagher-borran-conferencia-prensa-venecia-debian-presentar-documental-concierto-oasis-dont-look-back-in-anger_0_eWvqM45Lw1.html",
-          "image": "https://www.clarin.com/img/2026/09/05/0JcGMHS-D_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-05T15:25:05+00:00"
-        },
-        {
-          "id": "077ff3461420",
-          "title": "La emergencia de un avión Pampa en Mendoza expone la incertidumbre sobre la continuidad de FAdeA",
-          "summary": "El aterrizaje de emergencia de un Pampa en Mendoza expuso fallas en el sostenimiento de la flota y las tensiones entre la Fuerza Aérea, FAdeA y Defensa.",
-          "url": "https://www.ambito.com/politica/la-emergencia-un-avion-pampa-mendoza-expone-la-incertidumbre-la-continuidad-fadea-n6318857",
-          "image": "https://media.ambito.com/p/0c81fecacc5279841894b65fe035e1f5/adjuntos/239/imagenes/043/624/0043624240/1200x675/515x400:535x420/emergencia-pampa.png",
-          "source": "Ámbito",
-          "published": "2026-09-05T12:28:05+00:00"
         }
       ]
     },
@@ -125,7 +125,7 @@
           "title": "Deuda en pesos: Economía enfrenta vencimientos por más de $20 billones en septiembre, ¿qué espera el mercado?",
           "summary": "Para la primera mitad del mes, el Gobierno tiene que renovar $8,4 billones, mientras que para el cierre tiene otros $12,35 billones.",
           "url": "https://www.ambito.com/finanzas/deuda-pesos-economia-enfrenta-vencimientos-mas-20-billones-septiembre-que-espera-el-mercado-n6318794",
-          "image": "https://media.ambito.com/p/f6a0d3c042c0e5a0a70a0806af56f40a/adjuntos/239/imagenes/043/532/0043532258/1200x675/smart/ministerio-economia.png",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-05T10:00:00+00:00"
         },
@@ -134,7 +134,7 @@
           "title": "Los 4 FCI en pesos que más subieron en el año: la cobertura contra la inflación mantiene liderazgo",
           "summary": "El grueso sigue estando en los FCI money market, que se llevan casi el 75% del patrimonio en pesos y este año recibieron $7,1 billones.",
           "url": "https://www.ambito.com/finanzas/los-4-fci-pesos-que-mas-subieron-el-ano-la-cobertura-contra-la-inflacion-mantiene-liderazgo-n6318618",
-          "image": "https://media.ambito.com/p/a6c8aa9ae0056cf1cd22d9191f6e4d6b/adjuntos/239/imagenes/042/518/0042518001/pesosjpg.jpg",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-04T23:55:00+00:00"
         },
@@ -143,18 +143,9 @@
           "title": "Las acciones de las petroleras que impulsan la explotación en Malvinas se hundieron hasta 6,3%",
           "summary": "La británica Rockhopper y la israelí Navitas Petroleum cayeron con fuerza en las bolsas de Londres y Tel Aviv luego de que el presidente anunciara sanciones.",
           "url": "https://www.ambito.com/finanzas/las-acciones-las-petroleras-que-impulsan-la-explotacion-malvinas-se-hunden-7-n6318496",
-          "image": "https://media.ambito.com/p/60a21ba7d3a97d2b64f432033f788089/adjuntos/239/imagenes/043/384/0043384637/bolsa-caida-bonos-acciones-cedears.jpg",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-04T23:47:00+00:00"
-        },
-        {
-          "id": "daf35bcf9add",
-          "title": "Los gurúes de la city estimaron una inflación de entre 1,6% y 1,8% hasta febrero y empeoraron fuerte pronóstico del PBI",
-          "summary": "El BCRA publicó los resultados del REM realizado a fines de agosto. En materia de inflación no hubo cambios considerables; para agosto el consenso estimó un 1,7%.",
-          "url": "https://www.ambito.com/finanzas/dolar-inflacion-y-pbi-los-gurues-la-city-actualizan-hoy-sus-proyecciones-economicas-n6318570",
-          "image": "https://media.ambito.com/p/9da5411355352fc3608d90fdbe9457e2/adjuntos/239/imagenes/043/507/0043507301/1200x675/smart/inflacion-peso-dolar.jpg",
-          "source": "Ámbito Finanzas",
-          "published": "2026-09-04T22:22:00+00:00"
         }
       ]
     },
@@ -279,18 +270,18 @@
     },
     {
       "name": "Cripto",
-      "buy": 1572.81,
-      "sell": 1576.2
+      "buy": 1572.23,
+      "sell": 1574.88
     }
   ],
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 11.9,
-    "apparent": 8.1,
-    "humidity": 48,
+    "temperature": 12.1,
+    "apparent": 6.7,
+    "humidity": 40,
     "precipitation": 0.0,
-    "wind": 19.6,
+    "wind": 21.3,
     "condition": "Mayormente despejado",
     "icon": "◒",
     "days": [
@@ -318,6 +309,6 @@
     ]
   },
   "errors": [],
-  "updated_at": "2026-09-05T13:05:08.119929-03:00",
-  "next_update_at": "2026-09-05T13:17:00-03:00"
+  "updated_at": "2026-09-05T15:18:47.199564-03:00",
+  "next_update_at": "2026-09-05T16:17:00-03:00"
 }
