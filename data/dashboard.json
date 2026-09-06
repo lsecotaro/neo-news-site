@@ -6,85 +6,13 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
-          "id": "721df09b6bb4",
-          "title": "Claves. Malvinas: razones y sinrazones",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/opinion/malvinas-razones-y-sinrazones-nid06092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/donald-trump-y-andy-QYIOVT6QUZCD3NI5JIUHEH4THI.jpg?auth=ab227e850e3238f463965b100bfbada312708ec04160ef37d8c2dfe9002b9074&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-06T17:02:52.184853+00:00"
-        },
-        {
-          "id": "5194f4786c31",
-          "title": "Los padres del autor del tiroteo en la mezquita de San Diego afirman que un centro de salud mental no siguió alertas del FBI",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/06/los-padres-de-un-autor-del-tiroteo-en-la-mezquita-de-san-diego-afirman-que-un-centro-de-salud-mental-no-siguio-alertas-del-fbi/",
-          "image": "https://www.infobae.com/resizer/v2/U7KBWYYGHJB5FONL3BKTF3Q6II.JPG?auth=7758cfd07c77943788a898e6f63f69dfa772ff83834142071a8b582e514671e0&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-06T17:02:52.473985+00:00"
-        },
-        {
-          "id": "6465e977f473",
-          "title": "Poner una cinta amarilla en el picaporte de la puerta de tu casa: para qué sirve y por qué recomiendan hacerlo",
-          "summary": "Ese pequeño detalle en la entrada de la vivienda tiene una historia que va mucho más allá de la decoración.",
-          "url": "https://www.clarin.com/estados-unidos/poner-cinta-amarilla-picaporte-puerta-casa-sirve-recomiendan-hacerlo_0_aVOtZ5Rdw9.html",
-          "image": "https://www.clarin.com/img/2026/07/31/pzXG9lGvl_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-06T16:31:17+00:00"
-        },
-        {
-          "id": "3240e06181eb",
-          "title": "Sam Altman admitió que la industria de la IA falló al explicar sus beneficios en medio de una creciente resistencia",
-          "summary": "El CEO de OpenAI reconoció que las empresas del sector no lograron comunicar cómo la inteligencia artificial puede ampliar la creatividad y la autonomía de las personas. Cuáles fueron sus principales definiciones y anuncio de un nuevo robot",
-          "url": "https://www.ambito.com/tecnologia/sam-altman-admitio-que-la-industria-la-ia-fallo-al-explicar-sus-beneficios-medio-una-creciente-resistencia-n6319076",
-          "image": "https://media.ambito.com/p/90c439b356b60d8d42f9c8c945dc5661/adjuntos/239/imagenes/042/515/0042515305/1200x675/smart/sam-altman-1jpg.jpg",
-          "source": "Ámbito",
-          "published": "2026-09-06T16:14:00+00:00"
-        },
-        {
           "id": "43d9d48d0ab1",
           "title": "Más lejos del poder. El “no” que quebró la relación de María Corina Machado con Washington y la apuesta que frena la transición",
           "summary": "",
           "url": "https://www.lanacion.com.ar/el-mundo/el-no-que-quebro-la-relacion-de-maria-corina-machado-con-washington-y-las-dudas-sobre-el-acuerdo-nid06092026/",
           "image": "https://www.lanacion.com.ar/resizer/v2/maria-corina-machado-el-dia-de-la-asuncion-de-QS7ERMERO5HBXJF6UMMGU564VI.JPG?auth=06b1085f08b0c306bee206f3f71a4208410fa07e04384f09fe49e8185bc54f7d&width=302&height=201&quality=70&smart=true",
           "source": "La Nación",
-          "published": "2026-09-06T17:02:52.184639+00:00"
-        },
-        {
-          "id": "0ca195051dac",
-          "title": "Murió Robin Morgan a los 85 años: la poeta que reescribió el feminismo con palabras, protestas y un expediente del FBI",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/06/murio-robin-morgan-a-los-85-anos-la-poeta-que-reescribio-el-feminismo-con-palabras-protestas-y-un-expediente-del-fbi/",
-          "image": "https://www.infobae.com/resizer/v2/N5YIARDTH5AIXF3LVTR262OJCA.jpg?auth=e16611150dd110ebb7dc26f998dc05eefcb486ee262697418e4a9d1116289ccb&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-06T17:02:52.473809+00:00"
-        },
-        {
-          "id": "6034d9a28cad",
-          "title": "María García, 30 años, dejó Oviedo para vivir en una casa aislada en el monte: “Todo lo que había en la ciudad me parecía que estaba vacío”",
-          "summary": "Hace seis años encontró una casa abandonada, habló con su dueño y la compró, desde entonces su proyecto personal es restaurarla.",
-          "url": "https://www.clarin.com/internacional/maria-garcia-30-anos-dejo-oviedo-vivir-casa-aislada-monte-ciudad-parecia-vacio_0_QcCk8nLYv1.html",
-          "image": "https://www.clarin.com/img/2026/09/06/B-O2mVxNh_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-06T16:29:17+00:00"
-        },
-        {
-          "id": "d8b343ff8838",
-          "title": "Entre lágrimas, Franco Colapinto se quebró tras el Gran Premio de Italia: \"Fue muy frustrante, desaproveché una gran oportunidad\"",
-          "summary": "El argentino se emocionó luego de la carrera en Monza y habló des despiste que lo relegó en la grilla. Pese al incidente, se pudo recuperar y terminó sumando puntos.",
-          "url": "https://www.ambito.com/deportes/entre-lagrimas-franco-colapinto-se-quebro-el-gran-premio-italia-fue-muy-frustrante-desaproveche-una-gran-oportunidad-n6319077",
-          "image": "https://media.ambito.com/p/7aaa9c1b2e15adbd071d9040535934d4/adjuntos/239/imagenes/043/625/0043625376/1200x675/514x357:534x377/captura-colapinto-gp-italia-lagrimas-2026.jpg",
-          "source": "Ámbito",
-          "published": "2026-09-06T15:53:46+00:00"
-        },
-        {
-          "id": "518e17d13273",
-          "title": "El giro por Malvinas. Entre la oportunidad y la ilusión de la intervención americana",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/politica/el-giro-por-malvinas-entre-la-oportunidad-y-la-ilusion-de-una-intervencion-trumpista-nid05092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/el-presidente-javier-milei-frente-al-monumento-a-ILY6P66UP5FSXHUXT4Q5HGQQYA.JPG?auth=8b6e6b829516ca92125790edf62e50f6b16b3c1c88d8ee72b9ad0900fb2dc61f&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-06T17:02:52.184402+00:00"
+          "published": "2026-09-06T19:11:03.196058+00:00"
         },
         {
           "id": "c70d7c33dfef",
@@ -93,25 +21,97 @@
           "url": "https://www.infobae.com/estados-unidos/2026/09/06/los-estadounidenses-afrontan-precios-record-de-combustible-durante-el-feriado-del-dia-del-trabajo/",
           "image": "https://www.infobae.com/resizer/v2/QHRZ2NS5UNHLYBRE7G5JOY6GXY.jpg?auth=d2a58c7bcc163a4f6b0ce1e0934c6881b934f022d0b6ec84e5965813e7d8ba46&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-06T17:02:52.473612+00:00"
+          "published": "2026-09-06T19:11:02.864029+00:00"
         },
         {
-          "id": "6556ee57081f",
-          "title": "El gobierno de Trump pide otra vez a la Corte Suprema que permita restricciones al voto por correo",
-          "summary": "La administración de Trump busca revocar un fallo que bloquea restricciones al voto por correo, en medio de preparativos para elecciones clave. El tribunal supremo aún no decide sobre la legalidad del plan, mientras los demócratas lo consid",
-          "url": "https://www.clarin.com/estados-unidos/el-gobierno-de-trump-pide-otra-vez-a-la-corte-suprema-que-permita-restricciones-al-voto-por-correo_0_CpAgdbFiYi.html",
-          "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
+          "id": "fd806e1f4527",
+          "title": "El homenaje a Lionel Messi en medio del clásico de Rosario: los hinchas de Central aplaudieron, pero también ovacionaron a Fideo Di María",
+          "summary": "Tal como estableció la AFA, en el minuto 10 del encuentro en el estadio Gigante de Arroyito el encuentro se frenó un minuto. Mirá el video.",
+          "url": "https://www.clarin.com/deportes/homenaje-lionel-messi-medio-clasico-rosario-hinchas-central-aplaudieron-ovacionaron-fideo-di-maria_0_dpcpLDwgLM.html",
+          "image": "https://www.clarin.com/img/2026/09/06/N3qTHL5Gv_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-06T16:20:06+00:00"
+          "published": "2026-09-06T18:35:28+00:00"
         },
         {
-          "id": "b2e338ccd3f8",
-          "title": "ARA San Juan: la querella mayoritaria pidió penas efectivas, revisar las absoluciones y advirtió que \"la historia puede volver a repetirse\"",
-          "summary": "Dos querellas apelaron el fallo por el ARA San Juan: una pide agravar penas y otra, un nuevo juicio en Mar del Plata.",
-          "url": "https://www.ambito.com/politica/ara-san-juan-la-querella-mayoritaria-pidio-pena-efectiva-revisar-las-absoluciones-y-advirtio-que-la-historia-puede-volver-repetirse-n6319074",
-          "image": "https://media.ambito.com/p/27d3fd2eedaee84c37ed89838cd159f3/adjuntos/239/imagenes/040/723/0040723030/1200x675/323x334:343x354/replica-ara-san-juanjpg.jpg",
+          "id": "4eec9a3af026",
+          "title": "Créditos hipotecarios: el BCRA pone en marcha el fondeo de ANSES a bancos con una primera licitación por $200.000 millones",
+          "summary": "El esquema contempla diez subastas por un total de $2 billones para financiar préstamos hipotecarios. Los bancos que accedan a los fondos deberán ofrecer créditos a una tasa máxima de UVA + 7,5%.",
+          "url": "https://www.ambito.com/economia/creditos-hipotecarios-el-bcra-pone-marcha-el-fondeo-anses-bancos-una-primera-licitacion-200000-millones-n6319109",
+          "image": "https://media.ambito.com/p/760afcc164d9233736c922a8ec41ac22/adjuntos/239/imagenes/043/401/0043401669/1200x675/700x950:720x970/creditos-hipotecarios-foto-tasas.png",
           "source": "Ámbito",
-          "published": "2026-09-06T15:40:00+00:00"
+          "published": "2026-09-06T19:02:00+00:00"
+        },
+        {
+          "id": "4bf001f3e674",
+          "title": "\"Un socio confiable\". Xi Jinping sale a ofrecer a China como bastión de estabilidad frente al Estados Unidos de Trump",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/el-mundo/inusual-raid-de-viajes-xi-jinping-sale-a-ofrecer-a-china-como-bastion-de-estabilidad-frente-al-nid06092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/xi-jinping-busca-ampliar-su-poder-economico-y-4JGTIJOS4NBYRDQP6FNKD52XZU.JPG?auth=b1d5833cfe2d0e5b44d65573fe0d5f08485d5d6ca942b28319523e23606ba95f&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-06T19:11:03.195773+00:00"
+        },
+        {
+          "id": "76cdf2ff1a60",
+          "title": "Por primera vez desde el 11-S, la TSA permite entrar a las terminales sin pasaje",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/06/por-primera-vez-desde-el-11-s-la-tsa-permite-entrar-a-las-terminales-sin-pasaje/",
+          "image": "https://www.infobae.com/resizer/v2/CGIRORVKJFBLVP5NZ6PYZXR4PM.JPG?auth=37779d83f3e973cc79c1b9ac061c64efb92bfb7ac906336ea4bf8143d757c34e&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-06T19:11:02.863798+00:00"
+        },
+        {
+          "id": "252426dbb522",
+          "title": "Elisabeth Reynés, española, subcampeona en Miss Mundo 2026: “Soy disléxica. Sé lo que se siente dudar de uno mismo”",
+          "summary": "Con 22 años, la joven se alzó recientemente como subcampeona en el célebre certamen de belleza. La mallorquina publicó un libro infantil para quienes tienen el mismo trastorno del aprendizaje que ella.",
+          "url": "https://www.clarin.com/internacional/elisabeth-reynes-espanola-subcampeona-miss-mundo-2026-dislexica-siente-dudar-mismo_0_wC6eHHiQHg.html",
+          "image": "https://www.clarin.com/img/2026/09/06/rc93P1P_n_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-06T18:33:12+00:00"
+        },
+        {
+          "id": "aefa48aedeac",
+          "title": "Nacionalismo, inmigración y sintonía con Putin: AfD, el partido alemán de ultraderecha que busca romper con Europa",
+          "summary": "El avance electoral de AfD vuelve a poner bajo la lupa su programa, marcado por el nacionalismo, el endurecimiento migratorio y el rechazo al multiculturalismo.",
+          "url": "https://www.ambito.com/mundo/nacionalismo-inmigracion-y-seguridad-afd-el-partido-aleman-ultraderecha-que-busca-romper-europa-n6319101",
+          "image": "https://media.ambito.com/p/858d33866d338110c3bd333652b8d233/adjuntos/239/imagenes/043/625/0043625567/1200x675/628x398:648x418/afd-alemania-partido-ultraderecha.jpg",
+          "source": "Ámbito",
+          "published": "2026-09-06T18:07:00+00:00"
+        },
+        {
+          "id": "518e17d13273",
+          "title": "El giro por Malvinas. Entre la oportunidad y la ilusión de la intervención americana",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/politica/el-giro-por-malvinas-entre-la-oportunidad-y-la-ilusion-de-una-intervencion-trumpista-nid05092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/el-presidente-javier-milei-frente-al-monumento-a-ILY6P66UP5FSXHUXT4Q5HGQQYA.JPG?auth=8b6e6b829516ca92125790edf62e50f6b16b3c1c88d8ee72b9ad0900fb2dc61f&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-06T19:11:03.195467+00:00"
+        },
+        {
+          "id": "9dfd8df4382a",
+          "title": "Tres personas, entre ellas un niño, fueron encontradas muertas por disparos en una casa de California en llamas",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/06/tres-personas-entre-ellas-un-nino-fueron-encontradas-muertas-por-disparos-en-una-casa-de-california-en-llamas/",
+          "image": "https://www.infobae.com/resizer/v2/HBWV36BHXNEF7ATEOSOOVEC2ZY.png?auth=ff4adb89fe2705d184e3ff8bc9822c6d2edcc3bef35031a526ba707ef39bedce&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-06T19:11:02.863519+00:00"
+        },
+        {
+          "id": "406bfb223489",
+          "title": "Domingo, el hombre de 101 años que sigue trabajando en el campo, explica el secreto de su longevidad: “Hago de todo y va pasando el tiempo”",
+          "summary": "A su edad, este extremeño asegura que lo importante es mantenerse activo, pedir salud a Dios y disfrutar del trabajo al aire libre.",
+          "url": "https://www.clarin.com/internacional/domingo-hombre-101-anos-sigue-trabajando-campo-explica-secreto-longevidad-hago-va-pasando-tiempo_0_t8caAC3yYi.html",
+          "image": "https://www.clarin.com/img/2026/09/06/cC1lPsWdT_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-06T18:29:18+00:00"
+        },
+        {
+          "id": "6c9827038b31",
+          "title": "La ultraderecha da el golpe en Alemania con una victoria histórica de AfD en elecciones regionales",
+          "summary": "La ultraderechista Alternativa para Alemania (AfD) consigue un triunfo clave en las elecciones regionales de Alta-Sajonia.",
+          "url": "https://www.ambito.com/mundo/elecciones-alemania-altas-chances-la-ultraderecha-va-su-primer-gobierno-regional-n6319041",
+          "image": "https://media.ambito.com/p/2c7f18d866c6fff24fa022cc7ac29a8e/adjuntos/239/imagenes/043/625/0043625485/1200x675/466x368:486x388/ulrich-siegmund-afd-alemania-ultraderecha.jpg",
+          "source": "Ámbito",
+          "published": "2026-09-06T17:38:00+00:00"
         }
       ]
     },
@@ -121,6 +121,15 @@
       "eyebrow": "Mercados & economía",
       "articles": [
         {
+          "id": "c0071a9db47e",
+          "title": "Nike sale del S&P 100 tras caer a mínimos de 12 años y cuatro tecnológicas ocuparán su lugar",
+          "summary": "La acción perdió cerca de la mitad de su valor en el último año y acumula una baja de alrededor del 76% en cinco años. Dell Technologies, Palo Alto Networks, Arista Networks y SanDisk ingresarán al índice desde el 21 de septiembre.",
+          "url": "https://www.ambito.com/finanzas/nike-sale-del-sp-100-caer-minimos-12-anos-y-cuatro-tecnologicas-ocuparan-su-lugar-n6319105",
+          "image": "https://media.ambito.com/p/cf324ba89885bea11ce840d7d2e42310/adjuntos/239/imagenes/043/368/0043368910/1200x675/smart/nike.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-09-06T18:45:00+00:00"
+        },
+        {
           "id": "a46ae2ef08e3",
           "title": "Deuda en pesos: Economía enfrenta vencimientos por más de $20 billones en septiembre, ¿qué espera el mercado?",
           "summary": "Para la primera mitad del mes, el Gobierno tiene que renovar $8,4 billones, mientras que para el cierre tiene otros $12,35 billones.",
@@ -128,15 +137,6 @@
           "image": "https://media.ambito.com/p/f6a0d3c042c0e5a0a70a0806af56f40a/adjuntos/239/imagenes/043/532/0043532258/1200x675/smart/ministerio-economia.png",
           "source": "Ámbito Finanzas",
           "published": "2026-09-05T10:00:00+00:00"
-        },
-        {
-          "id": "b2ec15d20a4f",
-          "title": "Los 4 FCI en pesos que más subieron en el año: la cobertura contra la inflación mantiene liderazgo",
-          "summary": "El grueso sigue estando en los FCI money market, que se llevan casi el 75% del patrimonio en pesos y este año recibieron $7,1 billones.",
-          "url": "https://www.ambito.com/finanzas/los-4-fci-pesos-que-mas-subieron-el-ano-la-cobertura-contra-la-inflacion-mantiene-liderazgo-n6318618",
-          "image": "https://media.ambito.com/p/a6c8aa9ae0056cf1cd22d9191f6e4d6b/adjuntos/239/imagenes/042/518/0042518001/pesosjpg.jpg",
-          "source": "Ámbito Finanzas",
-          "published": "2026-09-04T23:55:00+00:00"
         }
       ]
     },
@@ -261,45 +261,45 @@
     },
     {
       "name": "Cripto",
-      "buy": 1574.62,
-      "sell": 1577.99
+      "buy": 1574.76,
+      "sell": 1578.77
     }
   ],
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 10.4,
-    "apparent": 7.4,
-    "humidity": 39,
+    "temperature": 9.9,
+    "apparent": 6.1,
+    "humidity": 40,
     "precipitation": 0.0,
-    "wind": 9.4,
-    "condition": "Parcialmente nublado",
-    "icon": "◒",
+    "wind": 8.4,
+    "condition": "Nublado",
+    "icon": "☁",
     "days": [
       {
         "date": "2026-09-06T00:00:00",
         "condition": "Nublado",
-        "max": 10.4,
+        "max": 10.2,
         "min": 1.0,
         "rain_probability": 0
       },
       {
         "date": "2026-09-07T00:00:00",
         "condition": "Mayormente despejado",
-        "max": 13.0,
-        "min": 1.5,
+        "max": 12.7,
+        "min": 1.6,
         "rain_probability": 0
       },
       {
         "date": "2026-09-08T00:00:00",
-        "condition": "Mayormente despejado",
-        "max": 17.0,
-        "min": 3.6,
+        "condition": "Despejado",
+        "max": 16.9,
+        "min": 3.5,
         "rain_probability": 0
       }
     ]
   },
   "errors": [],
-  "updated_at": "2026-09-06T14:02:53.128733-03:00",
-  "next_update_at": "2026-09-06T14:17:00-03:00"
+  "updated_at": "2026-09-06T16:11:03.873096-03:00",
+  "next_update_at": "2026-09-06T16:17:00-03:00"
 }
