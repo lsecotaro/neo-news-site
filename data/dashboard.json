@@ -6,40 +6,76 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
+          "id": "13ae7d8a9e86",
+          "title": "Observaciones. Bullrich se mostró preocupada por “la velocidad” de la recuperación y pidió que la baja de impuestos “llegue a todos”",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/politica/bullrich-se-mostro-preocupada-por-la-velocidad-de-la-recuperacion-y-pidio-que-la-baja-de-impuestos-nid11092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/santiago-bausili-presidente-del-banco-central-HT2DHEDZ3JDWPPOXCTZ3Q3GAPI.JPG?auth=cadf3c61e626d8dc07b5b30eba45060b2f4be6b16817c53a618ba0a8201ec764&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-12T05:48:01.569599+00:00"
+        },
+        {
+          "id": "8cd29dd86583",
+          "title": "Nashville aprueba en una votación unánime cambiar el nombre del aeropuerto en honor a Dolly Parton",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/11/nashville-aprueba-en-una-votacion-unanime-cambiar-el-nombre-del-aeropuerto-en-honor-a-dolly-parton/",
+          "image": "https://www.infobae.com/resizer/v2/YOBINB644RC3PEIJIV4UKABXK4.JPG?auth=5441230a7b4ed52f65969a26c01eadfaa656e1f57e7a9c0f18710ea37d9edb43&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-12T05:48:01.157125+00:00"
+        },
+        {
+          "id": "a60306b3a8a0",
+          "title": "Novatos Báez y Bernal guían a Cardenales a victoria 7-3 ante Medias Blancas",
+          "summary": "Los debutantes Báez y Bernal lideraron el ataque de San Luis con tres hits cada uno, superando a Chicago 7-3, que suma cuatro derrotas seguidas. La racha negativa de los Medias Blancas reduce su ventaja en la división, mientras Cleveland ac",
+          "url": "https://www.clarin.com/estados-unidos/novatos-baez-y-bernal-guian-a-cardenales-a-victoria-7-3-ante-medias-blancas_0_HtLy6S7IcL.html",
+          "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-12T05:20:05+00:00"
+        },
+        {
+          "id": "1f2477396423",
+          "title": "Los gobernadores se distancian de Javier Milei en la antesala de los debates por el Presupuesto 2027 y la reforma electoral",
+          "summary": "La Casa Rosada recibe señales de alerta desde el Congreso. La coparticipación volvió a caer en lo que va de 2026 y el Gobierno reactivó los ATN para aliviar a los distritos. Los mandatarios prevén que La Libertad Avanza competirá en sus pro",
+          "url": "https://www.ambito.com/ambito-nacional/los-gobernadores-se-distancian-javier-milei-la-antesala-los-debates-el-presupuesto-2027-y-la-reforma-electoral-n6321395",
+          "image": "https://media.ambito.com/p/80ecae09a3fbb036d8a57fc61880bd20/adjuntos/239/imagenes/043/551/0043551697/1200x675/smart/javier-milei.jpg",
+          "source": "Ámbito",
+          "published": "2026-09-12T03:00:00+00:00"
+        },
+        {
           "id": "041bdab0bc6c",
           "title": "\"Me llamó mucho la atención\". Cómo el jefe de Williams eligió a Colapinto, que hoy disfruta un Alpine mejor, pero padece en Madrid",
           "summary": "",
           "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-no-disfruta-madring-en-el-comienzo-el-piloto-de-alpine-fue-15-en-las-pruebas-nid11092026/",
           "image": "https://www.lanacion.com.ar/resizer/v2/franco-colapinto-circula-en-una-de-las-dos-URBR7GKZJBEZDANH7HW32MQDKY.jpg?auth=c67c03c0c6e179214fa2705e7813c4c97a966be96a570315ce958ea67f64e3f5&width=302&height=201&quality=70&smart=true",
           "source": "La Nación",
-          "published": "2026-09-12T00:18:31.733620+00:00"
+          "published": "2026-09-12T05:48:01.569335+00:00"
         },
         {
-          "id": "3757aa1ad0d5",
-          "title": "Adolescente de 15 años sobrevive sobre una embarcación volcada en el mar: dos hombres murieron y él fue hallado con hipotermia",
+          "id": "180ebc6e6247",
+          "title": "El exjugador de la NFL LeShon Johnson recibe cinco años de prisión por operar una red ilegal de peleas de perros",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/11/adolescente-de-15-anos-sobrevive-sobre-una-embarcacion-volcada-en-el-mar-dos-hombres-murieron-y-el-fue-hallado-con-hipotermia/",
-          "image": "https://www.infobae.com/resizer/v2/RIA3QL7XAZEZRIGXPVULJAMDTI.jpg?auth=f035e7eb7e190c402036637b7d1b66bf5a1569544fd52b44e0e7e949f24f2456&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/11/el-exjugador-de-la-nfl-leshon-johnson-recibe-cinco-anos-de-prision-por-operar-una-red-ilegal-de-peleas-de-perros/",
+          "image": "https://www.infobae.com/resizer/v2/6ITIJNWCTNEJNPWW2DYR6ADX64.png?auth=25301761c3a65bef87eb6598a76c411972a3aa1f9abeef8c5df13b37f90d6ad1&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-12T00:18:31.480489+00:00"
+          "published": "2026-09-12T05:48:01.156874+00:00"
         },
         {
-          "id": "a06ceaa4b691",
-          "title": "\"Súper Mastantuono\" y \"este es el verdadero\": los medios de Italia rendidos ante el hat-trick del ex River",
-          "summary": "El argentino convirtió los primeros tres goles de su ciclo en Fiorentina en el 4-2 frente a Venezia y fue la gran figura de la cuarta fecha de la Serie A. Los principales medios italianos destacaron su actuación y la repercusión llegó hasta",
-          "url": "https://www.clarin.com/deportes/super-mastantuono-verdadero-medios-italia-rendidos-hat-trick-ex-river_0_yEULS2881j.html",
-          "image": "https://www.clarin.com/img/2026/09/11/cHau8mpYFa_1200x630__1.jpg",
+          "id": "2de53a4214b4",
+          "title": "Gravísima lesión de Emanuel Mammana que tuvo que ser operado de urgencia tras el duelo frente a Newell's: quedará internado en Rosario",
+          "summary": "El defensor central de Vélez fue impactado por Tomás Marchiori, su propio arquero. El parte médico del club confirmó que sufrió un \"traumatismo de hemitorax derecho que le provocó la fractura de múltiples costillas y Neumotórax, pero que su",
+          "url": "https://www.clarin.com/deportes/gravisima-lesion-emanuel-mammana-operado-urgencia-duelo-frente-newells-quedara-internado-rosario_0_1JNWaVrMfE.html",
+          "image": "https://www.clarin.com/img/2026/09/12/TPzBuYycu_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-11T23:34:12+00:00"
+          "published": "2026-09-12T04:49:19+00:00"
         },
         {
-          "id": "74fde9a70825",
-          "title": "La CGT se reúne con el papa León XIV: qué le dirán y cómo puede influir en la visita a la Argentina",
-          "summary": "La delegación sindical llevará un diagnóstico duro sobre la situación del empleo y el endeudamiento familiar y hará gestiones. Es una previa del viaje al país del Sumo Pontífice que el Gobierno intenta controlar.",
-          "url": "https://www.ambito.com/politica/la-cgt-se-reune-el-papa-leon-xiv-que-le-diran-y-como-puede-influir-la-visita-la-argentina-n6321443",
-          "image": "https://media.ambito.com/p/662bdd0b2f0473c976d3f1499af89e31/adjuntos/239/imagenes/043/638/0043638041/1200x675/smart/jeronimo-leon-xiv-gerado-martinez.jpeg",
+          "id": "843283e3c182",
+          "title": "Cámaras empresarias miran al Congreso por nuevas legislaciones de minería, energía y ambiente",
+          "summary": "La incorporación de las tierras raras al Código de Minería y el marco regulatorio del mercado del carbono proyectan nuevas oportunidades de inversión. Presión para que se destrabe la ley de biocombustibles.",
+          "url": "https://www.ambito.com/politica/camaras-empresarias-miran-al-congreso-nuevas-legislaciones-mineria-energia-y-ambiente-n6321446",
+          "image": "https://media.ambito.com/p/75fee4965cdb74c075c121da4e43a4f2/adjuntos/239/imagenes/043/559/0043559688/1200x675/851x437:871x457/congreso-energia.png",
           "source": "Ámbito",
-          "published": "2026-09-11T23:06:00+00:00"
+          "published": "2026-09-12T03:00:00+00:00"
         },
         {
           "id": "82b27ca21a02",
@@ -48,70 +84,34 @@
           "url": "https://www.lanacion.com.ar/deportes/rugby/federico-martin-aramburu-los-padres-de-le-priol-pidieron-perdon-a-los-familiares-del-argentino-nid11092026/",
           "image": "https://www.lanacion.com.ar/resizer/v2/no-hay-fotografias-del-juicio-en-paris-que-6I5GXYBXXJBQ5DFHN7WOMA2FUE.JPG?auth=7214bbe6d679515371c57a1cfbbe86e22f016d3b4f548861e10a30acef720d45&width=302&height=201&quality=70&smart=true",
           "source": "La Nación",
-          "published": "2026-09-12T00:18:31.733394+00:00"
+          "published": "2026-09-12T05:48:01.569026+00:00"
         },
         {
-          "id": "cb7ec3cbd655",
-          "title": "A 25 años del 11-S, el Museo Smithsonian exhibe objetos recuperados tras los atentados",
+          "id": "a6918d3e9ad5",
+          "title": "La Cámara de Representantes de Estados Unidos inicia el trámite de una ley para ampliar las sanciones contra Rusia",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/11/a-25-anos-del-11-s-el-museo-smithsonian-exhibe-objetos-recuperados-tras-los-atentados/",
-          "image": "https://www.infobae.com/resizer/v2/JU75KDCZORG6LOOLBLDF4FMQSI.jpg?auth=d0709c13ed1c156cca3fc943eb84da9690f16a21e131c1184ea8d9450c9ee211&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/america/mundo/2026/09/12/la-camara-de-representantes-de-estados-unidos-inicia-el-tramite-de-una-ley-para-ampliar-las-sanciones-contra-rusia/",
+          "image": "https://www.infobae.com/resizer/v2/NUZCOG44KJFBRB7TBSXEV3BW4Q.JPG?auth=8ee02861a5127b1942a41937304fb65d67eea16eb96fc513cffebb7028bfa9de&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-12T00:18:31.480324+00:00"
+          "published": "2026-09-12T05:48:01.156643+00:00"
         },
         {
-          "id": "f5ca0b8ff4a7",
-          "title": "Endeudamiento y Discapacidad: en la pulseada con la oposición, LLA impulsará proyectos propios en Diputados",
-          "summary": "Sin margen para el rechazo, quieren armar una iniciativa con aliados y seducir a las \"bancadas del medio\" para imponerse en el recinto.",
-          "url": "https://www.clarin.com/politica/endeudamiento-discapacidad-pulseada-oposicion-lla-impulsara-proyectos-propios-diputados_0_hrUwgRUIfA.html",
-          "image": "https://www.clarin.com/img/2026/09/11/DttYnAWi5_1200x630__1.jpg",
+          "id": "edeee6b765dd",
+          "title": "Bravos superan 6-5 a Filis en 11 entradas al abrir serie clave del Este de la Nacional",
+          "summary": "Un doble de Baldwin en la 11.ª entrada selló la victoria de Atlanta 6-5 sobre Filadelfia, ampliando su ventaja divisional en la Liga Nacional. Los Filis tomaron ventaja en el 11.º con un sencillo de Arráez, pero Atlanta remontó con hits cla",
+          "url": "https://www.clarin.com/estados-unidos/bravos-superan-6-5-a-filis-en-11-entradas-al-abrir-serie-clave-del-este-de-la-nacional_0_D5M7Ipmo59.html",
+          "image": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-11T23:31:04+00:00"
+          "published": "2026-09-12T04:10:04+00:00"
         },
         {
-          "id": "8647a33543ae",
-          "title": "Fernando Jalil, hermano del gobernador de Catamarca, inscribió su partido y se reabre la carrera por la sucesión",
-          "summary": "La Justicia Electoral oficializó \"Encuentro Catamarca\", herramienta electoral que metió tensión en la mesa tripartita del peronismo provincial, integrado por Raúl Jalil, Lucía Corpacci y Gustavo Saadi, justo cuando este último parecía haber",
-          "url": "https://www.ambito.com/ambito-nacional/fernando-jalil-hermano-del-gobernador-catamarca-inscribio-su-partido-y-se-reabre-la-carrera-la-sucesion-n6321431",
-          "image": "https://media.ambito.com/p/f2c7cbd5ee8edc5c3b78e5185a6c1d09/adjuntos/239/imagenes/043/637/0043637988/1200x675/smart/fernandojalil1.jpg",
+          "id": "431b2e57551c",
+          "title": "Crisis habitacional: casi el 40% de los jóvenes de entre 25 y 35 años no puede independizarse",
+          "summary": "Dentro de los jóvenes que no lograron emanciparse, el 46% reside en hogares que presentan algún tipo de déficit habitacional. Estiman que hacen falta 2,5 millones de viviendas nuevas.",
+          "url": "https://www.ambito.com/economia/crisis-habitacional-casi-el-40-los-jovenes-25-y-35-anos-no-puede-independizarse-n6321401",
+          "image": "https://media.ambito.com/p/342cdddab208816c9e2451aecfd40b4b/adjuntos/239/imagenes/043/572/0043572550/1200x675/693x587:713x607/villa-del-parque-buenos-aires-alquileres-propiedades.jpg",
           "source": "Ámbito",
-          "published": "2026-09-11T22:36:00+00:00"
-        },
-        {
-          "id": "079c5461eec2",
-          "title": "Pensando en la Sudamericana. Rotación profunda: Boca recibe a Central Córdoba con nueve cambios en la formación titular",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-central-cordoba-en-vivo-nid11092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/leandro-brey-entran-en-calor-en-la-bombonera-SCSDHURORVDRROWQELDR4D4DJE.jpg?auth=bbd4a241b2ab8fa3bb0117863b3b6aa6862a82cbbd852ccbbc46bacf63e8c14b&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-12T00:18:31.733187+00:00"
-        },
-        {
-          "id": "5cd623051e8e",
-          "title": "Wall Street cerró con ganancias tras la moderación de los precios del petróleo y la publicación de datos de inflación",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/11/wall-street-cerro-con-ganancias-tras-la-moderacion-de-los-precios-del-petroleo-y-la-publicacion-de-datos-de-inflacion/",
-          "image": "https://www.infobae.com/resizer/v2/2O4AAGNM35CO5GTOHGQJEV4V2U.jpg?auth=c216187f83edc9682b7beaf8ad03c699a4778f0273a9c7b70cbf740f92a25061&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-12T00:18:31.480151+00:00"
-        },
-        {
-          "id": "e482a505e9c7",
-          "title": "Dos policías heridos de bala durante protesta por alza de precios de combustibles en Guatemala",
-          "summary": "Dos agentes fueron heridos en Guatemala durante un operativo para despejar vías bloqueadas por protestas contra el alza de combustibles. El gobierno atribuye el aumento del diésel al conflicto en Medio Oriente. Se sospecha que el crimen org",
-          "url": "https://www.clarin.com/estados-unidos/dos-policias-heridos-de-bala-durante-protesta-por-alza-de-precios-de-combustibles-en-guatemala_0_YEN41QbCvm.html",
-          "image": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-11T23:30:11+00:00"
-        },
-        {
-          "id": "0e858bff77db",
-          "title": "El S&P Merval extendió la recuperación por tercera semana consecutiva y el riesgo país tocó mínimos en un mes",
-          "summary": "Las acciones argentinas sostuvieron el avance semanal pese a la corrección de la última rueda, mientras la deuda soberana volvió a mostrar una mejora en la percepción de riesgo. En paralelo, la estabilidad cambiaria y la desaceleración de l",
-          "url": "https://www.ambito.com/finanzas/las-acciones-y-los-bonos-se-someten-la-ultima-rueda-semanal-la-mirada-puesta-wall-street-n6321149",
-          "image": "https://media.ambito.com/p/fb8a574d6aaf37e0fb2853ed3c3567a7/adjuntos/239/imagenes/043/638/0043638015/1200x675/smart/mercados-septiembre.png",
-          "source": "Ámbito",
-          "published": "2026-09-11T22:23:00+00:00"
+          "published": "2026-09-12T03:00:00+00:00"
         }
       ]
     },
@@ -120,6 +120,24 @@
       "name": "Finanzas",
       "eyebrow": "Mercados & economía",
       "articles": [
+        {
+          "id": "46967f1a2f4a",
+          "title": "Crédito caro y ahorro barato: por qué Argentina tiene una de las mayores brechas entre tasas de la región",
+          "summary": "La diferencia entre lo que pagan los bancos por los depósitos y lo que cobran por prestar se mantiene cerca de máximos históricos. El spread de tasas solo está detrás de Brasil entre los mercados de la región.",
+          "url": "https://www.ambito.com/finanzas/credito-caro-y-ahorro-barato-que-argentina-tiene-una-las-mayores-brechas-tasas-la-region-n6321421",
+          "image": "",
+          "source": "Ámbito Finanzas",
+          "published": "2026-09-12T00:27:00+00:00"
+        },
+        {
+          "id": "0e858bff77db",
+          "title": "El S&P Merval extendió la recuperación por tercera semana consecutiva y el riesgo país tocó mínimos en un mes",
+          "summary": "Las acciones argentinas sostuvieron el avance semanal pese a la corrección de la última rueda, mientras la deuda soberana volvió a mostrar una mejora en la percepción de riesgo. En paralelo, la estabilidad cambiaria y la desaceleración de l",
+          "url": "https://www.ambito.com/finanzas/las-acciones-y-los-bonos-se-someten-la-ultima-rueda-semanal-la-mirada-puesta-wall-street-n6321149",
+          "image": "",
+          "source": "Ámbito Finanzas",
+          "published": "2026-09-11T22:23:00+00:00"
+        },
         {
           "id": "8565d5e3033e",
           "title": "El BCRA tuvo la peor semana de compras desde que comenzó el programa de acumulación de reservas",
@@ -134,7 +152,7 @@
           "title": "Bitcoin cae 3% en la semana y pone en peligro el nivel de los u$s77.000",
           "summary": "Los precios del petróleo cayeron más del 3% tras la publicación del informe del Financial Times, que reflejaba cierta esperanza de una desescalada en el conflicto de Oriente Medio.",
           "url": "https://www.ambito.com/finanzas/bitcoin-pone-peligro-los-us77000-la-volatilidad-del-petroleo-y-los-riesgos-inflacionarios-n6321134",
-          "image": "https://media.ambito.com/p/629379d356e82133a97d282aacd87057/adjuntos/239/imagenes/043/408/0043408718/1200x675/976x541:996x561/bitcoin-criptomonedas-btc.jpg",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-11T21:26:00+00:00"
         },
@@ -143,27 +161,9 @@
           "title": "Deuda en pesos: Economía colocó títulos por $8,41 billones y logró un rollover del 103%",
           "summary": "El Tesoro recibió ofertas por $14,17 billones y obtuvo un financiamiento neto cercano a los $281.000 millones. La mayor parte de la demanda se concentró en una LECAP con vencimiento en noviembre. Hubo premios para los bonos dólar linked.",
           "url": "https://www.ambito.com/finanzas/deuda-pesos-economia-coloco-titulos-841-billones-y-logro-un-rollover-del-103-n6321209",
-          "image": "https://media.ambito.com/p/06db550874cfb04167414a86b90a1daa/adjuntos/239/imagenes/043/552/0043552738/1200x675/smart/ministerio-economia.jpg",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-11T21:10:00+00:00"
-        },
-        {
-          "id": "8f9445f0135f",
-          "title": "Wall Street rebotó ante la baja del petróleo que compensó altas expectativas de aumento de tasas",
-          "summary": "Las acciones y los bonos de largo plazo tuvieron un respiro con la baja de los precios del petróleo, mientras los operadores sopesaban el informe de inflación de agosto de EEUU que aumentó las posibilidades de suba de tasas.",
-          "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-rebotan-y-los-bonos-del-tesoro-se-calman-un-respiro-el-precio-del-petroleo-n6321088",
-          "image": "https://media.ambito.com/p/facb65edeaa15aa24bc280eb1e301f7b/adjuntos/239/imagenes/041/683/0041683197/wall-street-mercados-bolsas.jpg",
-          "source": "Ámbito Finanzas",
-          "published": "2026-09-11T21:08:00+00:00"
-        },
-        {
-          "id": "a75606f1e820",
-          "title": "El petróleo Brent frenó escalda y bajó, pero se mantuvo arriba de los u$s100",
-          "summary": "El precio del crudo retrocede este viernes después de que la Agencia Internacional de Energía recortara sus previsiones de demanda para 2026. Sin embargo, la referencia del mar del Norte se mantiene por encima de un nivel clave.",
-          "url": "https://www.ambito.com/finanzas/petroleo-el-brent-cae-pero-se-mantiene-los-us100-y-acumula-una-fuerte-suba-semanal-n6321229",
-          "image": "https://media.ambito.com/p/8570ffa1e75f7cd5353cefc7d9279fcd/adjuntos/239/imagenes/043/626/0043626122/1200x675/2456x1493:2476x1513/petroleo.jpg",
-          "source": "Ámbito Finanzas",
-          "published": "2026-09-11T20:57:00+00:00"
         }
       ]
     },
@@ -295,38 +295,38 @@
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 12.3,
-    "apparent": 10.9,
-    "humidity": 88,
+    "temperature": 11.1,
+    "apparent": 9.0,
+    "humidity": 95,
     "precipitation": 0.0,
-    "wind": 10.2,
+    "wind": 14.9,
     "condition": "Nublado",
     "icon": "☁",
     "days": [
       {
-        "date": "2026-09-11T00:00:00",
-        "condition": "Llovizna leve",
-        "max": 19.0,
-        "min": 9.8,
-        "rain_probability": 43
-      },
-      {
         "date": "2026-09-12T00:00:00",
         "condition": "Llovizna",
-        "max": 11.6,
-        "min": 7.4,
-        "rain_probability": 57
+        "max": 11.1,
+        "min": 7.8,
+        "rain_probability": 59
       },
       {
         "date": "2026-09-13T00:00:00",
         "condition": "Nublado",
-        "max": 11.0,
+        "max": 10.4,
         "min": 4.1,
         "rain_probability": 4
+      },
+      {
+        "date": "2026-09-14T00:00:00",
+        "condition": "Nublado",
+        "max": 13.9,
+        "min": 1.6,
+        "rain_probability": 2
       }
     ]
   },
   "errors": [],
-  "updated_at": "2026-09-11T21:18:32.322946-03:00",
-  "next_update_at": "2026-09-11T22:17:00-03:00"
+  "updated_at": "2026-09-12T02:48:02.054788-03:00",
+  "next_update_at": "2026-09-12T03:17:00-03:00"
 }
