@@ -6,112 +6,112 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
-          "id": "4d742bc03516",
-          "title": "Genio y figura. Por donde pasa Messi, hay historia: gol 100 con Inter Miami, una asistencia y otro título",
+          "id": "4fad146439a0",
+          "title": "Índice. La confianza del consumidor subió 2,4% en septiembre, impulsada por los sectores de bajos ingresos",
           "summary": "",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-camino-a-despedirse-de-la-seleccion-gol-100-con-inter-miami-y-otro-titulo-nid16092026/",
+          "url": "https://www.lanacion.com.ar/economia/la-confianza-del-consumidor-subio-24-en-septiembre-impulsada-por-los-hogares-de-bajos-ingresos-nid17092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/la-confianza-en-el-segmento-de-ingresos-bajos-JDPT2RFLWVEELDBT6NZ6S5N32A.jpg?auth=e519c271fa9f9442eddc2c75ea096405155f133ff9060cbf8c94e8dd5cacf9a8&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-17T18:14:19.224179+00:00"
+        },
+        {
+          "id": "ebed3e8620f9",
+          "title": "Florida distribuye más de 10 millones de dólares para captar nuevos agentes policiales",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/17/florida-distribuye-mas-de-10-millones-de-dolares-para-captar-nuevos-agentes-policiales/",
+          "image": "https://www.infobae.com/resizer/v2/5TNUVBOOLBBSLALGZPQNUEBALY.jpg?auth=98a2818aab1d6f38cf7015a1937c58667e1b27259bf668fce82d85fb2256bafe&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-17T18:14:19.086623+00:00"
+        },
+        {
+          "id": "373d08691a3c",
+          "title": "Sylvester Stallone vendió su rancho de 23 acres por 4 millones de dólares, casi la mitad de su precio de venta; luego se unió a Tom Cruise y Jack Nicholson para comprar 160 acres en Colorado",
+          "summary": "La operación se concretó en 1992 después de que la propiedad permaneciera en el mercado con fuertes rebajas.",
+          "url": "https://www.clarin.com/estados-unidos/sylvester-stallone-vendio-rancho-23-acres-4-millones-dolares-mitad-precio-venta-luego-unio-tom-cruise-jack-nicholson-comprar-160-acres-colorado_0_UUQrH3Pf8u.html",
+          "image": "https://www.clarin.com/img/2023/07/17/KLe-ty9HJ_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-17T17:35:49+00:00"
+        },
+        {
+          "id": "ded53ca43050",
+          "title": "Los bonos en dólares anotan mayoría de subas y el riesgo país cae debajo de los 510 puntos en Wall Street",
+          "summary": "Los títulos soberanos avanzan este jueves, a pesar de que la suba de tasas en EEUU plantea un escenario más desafiante para los emergentes. La renta variable argentina entra en terreno positivo.",
+          "url": "https://www.ambito.com/finanzas/los-bonos-argentinos-suben-pese-al-giro-hawkish-la-fed-y-acompanan-el-rebote-wall-street-n6323455",
+          "image": "https://media.ambito.com/p/625fbf6cc5656883b5d4768b68f0dc86/adjuntos/239/imagenes/043/284/0043284704/1200x675/smart/mercados-merval-bolsa-acciones-cedears-7.jpg",
+          "source": "Ámbito",
+          "published": "2026-09-17T17:50:00+00:00"
+        },
+        {
+          "id": "da688da7f318",
+          "title": "Lula vs. Bolsonaro. Una nueva encuesta muestra un escenario infartante para una segunda vuelta en Brasil",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-otra-encuesta-muestra-a-lula-da-silva-y-bolsonaro-en-empate-tecnico-en-una-nid17092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/lula-vs-bolsonaro-encuestas-al-13-de-IVP2GT4JWREVBAGSQBR45OOIOQ.jpg?auth=61521cf97ad83ba7d102d3f6c84964d1c5254fac4a432ae5f2d2bfcfe5cf8016&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-17T18:14:19.223883+00:00"
+        },
+        {
+          "id": "781b845117be",
+          "title": "Murió a los 35 años Cat Frazier, la bloguera que revolucionó internet con sus GIFs y su estilo retro",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/17/murio-a-los-35-anos-cat-frazer-la-bloguera-que-revoluciono-internet-con-sus-gifs-y-su-estilo-retro/",
+          "image": "https://www.infobae.com/resizer/v2/LUYOKA2QFZBZNMGMDABQMRVH5M.jpeg?auth=9d270319afb270cebdde5d5175c6ee365cf4c7d4fa86f1e0c6152be39e2e5970&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-17T18:14:19.086403+00:00"
+        },
+        {
+          "id": "2c53ee0b2216",
+          "title": "Sintió la discriminación y ahora promueve adopciones con perspectiva de discapacidad",
+          "summary": "Estefanía Romero nació con espina bífida y debe usar silla de ruedas desde siempre. Hace cuatro años empezó un proceso para adoptar a un nene y se topó con barreras físicas y culturales.",
+          "url": "https://www.clarin.com/zonales/sintio-discriminacion-ahora-promueve-adopciones-perspectiva-discapacidad_0_qFqLvHh84o.html",
+          "image": "https://www.clarin.com/img/2026/09/13/pJOnG9Kpy_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-17T17:33:40+00:00"
+        },
+        {
+          "id": "170c65dcb49c",
+          "title": "El Presupuesto 2027 prevé un crecimiento del 7,5% de las transferencias automáticas pero los ATN se mantendrán estancados",
+          "summary": "El proyecto enviado por Javier Milei proyecta una mejora de la situación fiscal de las provincias. Cinco distritos reportarían los mayores aumentos.",
+          "url": "https://www.ambito.com/ambito-nacional/el-presupuesto-2027-preve-un-crecimiento-del-75-las-transferencias-automaticas-pero-los-atn-se-mantendran-estancados-n6323546",
+          "image": "",
+          "source": "Ámbito",
+          "published": "2026-09-17T16:22:00+00:00"
+        },
+        {
+          "id": "bba97d202803",
+          "title": "Cuadernos. Mostraron imágenes del allanamiento al departamento de Cristina: tenía un vestidor blindado detrás de una cama",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/politica/el-juicio-por-los-cuadernos-de-las-coimas-mostraron-imagenes-del-allanamiento-al-departamento-de-nid17092026/",
           "image": "",
           "source": "La Nación",
-          "published": "2026-09-17T13:28:13.917742+00:00"
+          "published": "2026-09-17T18:14:19.223620+00:00"
         },
         {
-          "id": "b081fdd76463",
-          "title": "Florida registra una cuarta muerte por bacteria \"comecarne\" durante 2026",
+          "id": "ff14b1eb5f9d",
+          "title": "Una enfermera de Miami fue atacada por un paciente y ahora demanda al hospital por USD 5 millones",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/17/florida-registra-una-cuarta-muerte-por-bacteria-comecarne-durante-2026/",
-          "image": "https://www.infobae.com/resizer/v2/HD6EFVMEIBEDDHNUACK6BQPL4U.png?auth=06531cf3c66e76f2d7a355d6454c8bb2a86839bbdfa27244981438b8e0d06da8&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/17/una-enfermera-de-miami-fue-atacada-por-un-paciente-y-ahora-demanda-al-hospital-por-usd-5-millones/",
+          "image": "https://www.infobae.com/resizer/v2/DU7VJIMXCVE75LOUE4HUFPXHFU.png?auth=32ad00d5318b8bba76cffa52bfdb469ea8423dde86d4aa612bce5a328ff2b020&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-17T13:28:13.386460+00:00"
+          "published": "2026-09-17T18:14:19.086167+00:00"
         },
         {
-          "id": "9360b7193a90",
-          "title": "Un hombre compró un Camaro por 25.000 dólares en Houston; meses después descubrió que era robado y que venía de una subasta policial",
-          "summary": "Un joven de 20 años invirtió un anticipo de 7.000 dólares y cuotas mensuales por un Chevrolet Camaro SS de 25.000 dólares en Houston, Texas. Cuatro meses después, descubrió que el vehículo tenía el número de chasis (VIN) clonado y la policí",
-          "url": "https://www.clarin.com/estados-unidos/hombre-compro-camaro-25000-dolares-houston-meses-despues-descubrio-robado-venia-subasta-policial_0_1fGE477d9O.html",
-          "image": "https://www.clarin.com/img/2026/09/17/OvqOX7K66_1200x630__1.jpg",
+          "id": "582fd17d0dc1",
+          "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, jueves 17 de septiembre",
+          "summary": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+          "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-jueves-17-septiembre_0_eGuxDZfbMh.html",
+          "image": "https://www.clarin.com/img/2020/09/07/y1xcDRv4y_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-17T12:48:50+00:00"
+          "published": "2026-09-17T17:33:01+00:00"
         },
         {
-          "id": "6a1a00657c9e",
-          "title": "Lo publicó Ámbito, lo negó la Oficina de Respuesta Oficial y ahora lo confirma el Presupuesto 2027",
-          "summary": "El proyecto enviado al Congreso autoriza al Poder Ejecutivo a tomar un crédito de hasta u$s2.300 millones para adquirir tres submarinos convencionales. En febrero, Ámbito había revelado las gestiones con Francia por los Scorpène, una inform",
-          "url": "https://www.ambito.com/politica/lo-publico-ambito-lo-nego-la-oficina-respuesta-oficial-y-ahora-lo-confirma-el-presupuesto-2027-n6323348",
-          "image": "https://media.ambito.com/p/d4e690fb5d80fa465bb3edeb6308c495/adjuntos/239/imagenes/042/637/0042637294/1200x675/smart/submarino-nuclear.jpg",
+          "id": "f2ed6785917a",
+          "title": "La Armada apartó de funciones a los implicados en la trama de corrupción por sobresueldos",
+          "summary": "Tras el escándolo, las autoridades de Defensa ordenaron separar a los involucrados en un complejo entremado de más de 600 transferencias por unos $1.000 millones. El Consejo de Disciplina ya tiene el caso en su poder.",
+          "url": "https://www.ambito.com/politica/la-armada-aparto-funciones-los-implicados-la-trama-corrupcion-sobresueldos-n6323543",
+          "image": "https://media.ambito.com/p/f38fe7030e4f35fb00ff44a5c4dc7b09/adjuntos/239/imagenes/043/000/0043000875/1200x675/smart/juan-carlos-romay.jpg",
           "source": "Ámbito",
-          "published": "2026-09-17T12:23:00+00:00"
-        },
-        {
-          "id": "2f8be7b5cf64",
-          "title": "Visión oficial. El plan del BCRA para sostener la calma del dólar: cómo interviene, por qué compra menos y el “tsunami” que viene",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/economia/el-plan-del-bcra-para-sostener-la-calma-del-dolar-como-interviene-por-que-compra-menos-y-el-tsunami-nid16092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/el-equipo-economico-del-gobierno-de-javier-milei-WARK575MLNHL7EVKKUY7RO6ZQY.jpg?auth=9f3688c49ba91ef055bc47b30459ccd39a5d898306dd6fa5f644fd159677f5bd&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-17T13:28:13.917471+00:00"
-        },
-        {
-          "id": "1baa8bfa108f",
-          "title": "Un estudio revela que una nueva autopista interestatal entre Georgia y Texas podría reducir la congestión",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/17/un-estudio-revela-que-una-nueva-autopista-interestatal-entre-georgia-y-texas-podria-reducir-la-congestion/",
-          "image": "https://www.infobae.com/resizer/v2/7PNHYZT4SVBAPE2UNYW2IR5EEQ.jpg?auth=2f736a053c94d5cf6fbbd23333df38712e85b0913cba4f066c6f0f5887235b29&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-17T13:28:13.386250+00:00"
-        },
-        {
-          "id": "9560b7dfd773",
-          "title": "Vaca Muerta y el dilema de las rutas rotas: ¿Es hora de mirar al mar?",
-          "summary": "El éxito de la cuenca neuquina no puede sostenerse sobre el colapso de la infraestructura vial de otras regiones productivas. Un sistema multimodal fluvio-marítimo reduciría drásticamente costos y accidentes con muertes.",
-          "url": "https://www.clarin.com/rural/vaca-muerta-dilema-rutas-rotas-hora-mirar-mar_0_OhMlC38ITM.html",
-          "image": "https://www.clarin.com/img/2026/09/17/izVdy8xW3_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-17T12:46:10+00:00"
-        },
-        {
-          "id": "b904b17f5a6e",
-          "title": "La AGN detecta irregularidades y peligra la prórroga de Aeropuertos Argentina: el contrato debe vencer en 2028",
-          "summary": "Un informe de la Auditoría General expone graves fallas en el contrato prorrogado en 2020 y deja al desnudo el apuro de la gestión actual de Javier Milei por sellar una prórroga hasta 2066 que beneficie al holding de Eduardo Eurnekian. Si s",
-          "url": "https://www.ambito.com/politica/la-agn-detecta-irregularidades-y-peligra-la-prorroga-aeropuertos-argentina-el-contrato-debe-vencer-2028-n6323273",
-          "image": "https://media.ambito.com/p/933cc6bf005a1e0ac21dddb868c37b3b/adjuntos/239/imagenes/043/647/0043647915/1200x675/smart/eduardo-eurnekian-martin-eurnekian-daniel-ketchibachian.jpg",
-          "source": "Ámbito",
-          "published": "2026-09-17T11:20:00+00:00"
-        },
-        {
-          "id": "15086cba179f",
-          "title": "Tensión. Acusaciones cruzadas en el Gobierno por los cambios en la emergencia en Discapacidad que incluyó el Presupuesto",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/politica/acusaciones-cruzadas-en-el-gobierno-por-los-cambios-en-la-emergencia-en-discapacidad-que-incluyo-el-nid16092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/junto-a-ministros-legisladores-nacionales-y-XHC7OVH6E5AMTFLCMHG5SWV2BM.jpg?auth=445b7655481dc919a62574ae69928a52409e32d3acf557938e199dbfbf9ecd9d&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-17T13:28:13.917185+00:00"
-        },
-        {
-          "id": "305e52085a15",
-          "title": "Hallan muerta a una mujer en un cesto de basura en Brooklyn",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/17/hallan-muerta-a-una-mujer-en-un-cesto-de-basura-en-brooklyn/",
-          "image": "https://www.infobae.com/resizer/v2/DYIR46CTKNEARCC3UTWQ3H5WD4.jpg?auth=0c49872908b126adcf619b0247a0336940175ca02d156a56046d2b8596a7ff6a&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-17T13:28:13.386019+00:00"
-        },
-        {
-          "id": "0d74dbe7ff3b",
-          "title": "\"Tsunami del Himalaya\": un estudio reveló cómo el cambio climático agravó la devastadora riada de Nepal",
-          "summary": "Un informe de World Weather Attribution afirma que por efecto de la acción humana las temperaturas en la zona fueron más altas de lo habitual en los dos meses previos. Esto fue un factor desestabilizador que actuó sobre una predisposición g",
-          "url": "https://www.clarin.com/mundo/tsunami-himalaya-estudio-revelo-cambio-climatico-agravo-devastadora-riada-nepal_0_V5HG9SYcXK.html",
-          "image": "https://www.clarin.com/img/2026/09/17/sV9yQJHzF_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-17T12:40:58+00:00"
-        },
-        {
-          "id": "d2f1e53269dc",
-          "title": "Malvinas, sanciones y Seguridad Nacional: qué dice el proyecto de ley del Gobierno que llegó al Congreso",
-          "summary": "La iniciativa ingresó a Diputados con ocho títulos y un amplio paquete de cambios en materia de soberanía, Seguridad, Defensa e infraestructura crítica.",
-          "url": "https://www.ambito.com/politica/malvinas-sanciones-y-seguridad-nacional-que-dice-el-proyecto-del-gobierno-que-llego-al-congreso-n6323325",
-          "image": "https://media.ambito.com/p/376d613df23d63e79b0b8e1aa188ba24/adjuntos/239/imagenes/042/672/0042672157/ejercito-fuerzas-armadas-desfile-militar-9-juliojpeg.jpeg",
-          "source": "Ámbito",
-          "published": "2026-09-17T10:59:30+00:00"
+          "published": "2026-09-17T16:09:00+00:00"
         }
       ]
     },
@@ -121,40 +121,31 @@
       "eyebrow": "Mercados & economía",
       "articles": [
         {
-          "id": "a38416e51c8e",
-          "title": "Bitcoin recupera los u$s76.000 a pesar de la suba de tasas de la Fed y el revés de la Ley Clarity",
-          "summary": "A pesar del alza en las tasas de interés dispuesta por la Reserva Federal, Bitcoin ha logrado superar los u$s76.000, en un contexto marcado por la incertidumbre regulatoria en Estados Unidos.",
-          "url": "https://www.ambito.com/finanzas/bitcoin-recupera-los-us76000-pesar-la-suba-tasas-la-fed-y-el-reves-la-ley-clarity-n6323378",
-          "image": "https://media.ambito.com/p/629379d356e82133a97d282aacd87057/adjuntos/239/imagenes/043/408/0043408718/1200x675/976x541:996x561/bitcoin-criptomonedas-btc.jpg",
+          "id": "3893c53fdeab",
+          "title": "Las acciones de Microsoft retrocedieron, mientras su dividendo trimestral se incrementó 8%",
+          "summary": "La acción retrocedió un 1,37% tras llevar la remuneración a u$s0,98 por papel, en una clara señal de que los inversores priorizan el crecimiento derivado de la IA sobre la retribución de capital. Los detalles, en la nota.",
+          "url": "https://www.ambito.com/finanzas/las-acciones-microsoft-retrocedieron-mientras-su-dividendo-trimestral-se-incremento-8-n6323593",
+          "image": "https://media.ambito.com/p/2dfd509eb2f94ed58ef1bcee4a4f3024/adjuntos/239/imagenes/042/596/0042596333/microsoft-ia.jpg",
           "source": "Ámbito Finanzas",
-          "published": "2026-09-17T12:45:00+00:00"
-        },
-        {
-          "id": "c9af24dc5393",
-          "title": "El Banco de Inglaterra mantuvo la tasa en 3,75%, pero advirtió que podría volver a subirla por la inflación",
-          "summary": "La decisión estuvo en línea con lo esperado por el mercado, aunque tres de los nueve miembros votaron por elevar la tasa al 4%. El organismo proyectó que la inflación podría superar ligeramente el 4% a comienzos de 2027 y alertó por el impa",
-          "url": "https://www.ambito.com/finanzas/el-banco-inglaterra-mantuvo-la-tasa-375-pero-advirtio-que-podria-volver-subirla-la-inflacion-n6323337",
-          "image": "https://media.ambito.com/p/00b6378914dcb2bfd84128e8d8728c4e/adjuntos/239/imagenes/040/210/0040210843/banco-central-de-inglaterra-presenta-un-documento-de-debate-sobre-las-oportunidades-y-desafios-a-considerar-en-la-emision-de-una-moneda-digitaljpg.jpg",
-          "source": "Ámbito Finanzas",
-          "published": "2026-09-17T12:30:00+00:00"
-        },
-        {
-          "id": "28a294efdc01",
-          "title": "Un gigante de Wall Street prevé que la Fed volverá a subir las tasas de interés en octubre",
-          "summary": "Tras el tono más duro de la Reserva Federal, Goldman Sachs anticipa un escenario base de dos subidas para este año, con octubre cómo fecha clave. Según la herramienta FedWatch, habría un 50% de posibilidad de esa posibilidad.",
-          "url": "https://www.ambito.com/finanzas/un-gigante-wall-street-preve-que-la-fed-volvera-subir-las-tasas-interes-octubre-n6323350",
-          "image": "https://media.ambito.com/p/73ac26d550c09e29bba1049917efd050/adjuntos/239/imagenes/043/360/0043360704/1200x675/414x311:434x331/goldman-sachs.jpg",
-          "source": "Ámbito Finanzas",
-          "published": "2026-09-17T12:26:00+00:00"
+          "published": "2026-09-17T17:51:00+00:00"
         },
         {
           "id": "f600a99d8c74",
-          "title": "Los futuros de Wall Street y los bonos del Tesoro rebotan, mientras el petróleo se toma un respiro",
+          "title": "Wall Street y los bonos del Tesoro repuntan luego de que el petróleo se tomara un respiro",
           "summary": "Las acciones estadounidenses repuntan junto con los bonos del Tesoro, ya que la caída de los precios del petróleo reforzó el optimismo de que se pueda mantener la inflación bajo control, un día después de que la Reserva Federal subiera las ",
           "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-y-los-bonos-del-tesoro-rebotan-mientras-el-petroleo-se-toma-un-respiro-n6323339",
-          "image": "https://media.ambito.com/p/e8888b60bee01a0c7e07db714c2cec7b/adjuntos/239/imagenes/043/079/0043079899/1200x675/1115x437:1135x457/wall-street.jpg",
+          "image": "https://media.ambito.com/p/d94e29613e2d1c21dc3354e00aa1212f/adjuntos/239/imagenes/041/841/0041841432/wall-street-mercados-nysejpg.jpg",
           "source": "Ámbito Finanzas",
-          "published": "2026-09-17T12:01:00+00:00"
+          "published": "2026-09-17T14:59:00+00:00"
+        },
+        {
+          "id": "5bdb69543526",
+          "title": "OpenAI tantea al mercado con una ronda de inversión por u$s1,2 billones antes de salir a Wall Street",
+          "summary": "La creadora de ChatGPT mantiene conversaciones preliminares con inversores para una nueva ronda de capital. La operación supondría un salto de más del 40% frente a su última valoración y llegaría después de postergar su salida a bolsa, que ",
+          "url": "https://www.ambito.com/finanzas/openai-tantea-al-mercado-una-ronda-inversion-us12-billones-antes-salir-wall-street-n6323431",
+          "image": "https://media.ambito.com/p/88cc645287e2cbfd9d9b731367120eb1/adjuntos/239/imagenes/043/643/0043643610/1200x675/smart/open-ai.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-09-17T14:13:00+00:00"
         }
       ]
     },
@@ -264,33 +255,33 @@
     },
     {
       "name": "Blue",
-      "buy": 1540,
-      "sell": 1560
+      "buy": 1535,
+      "sell": 1555
     },
     {
       "name": "Dólar MEP",
-      "buy": 1534.1,
-      "sell": 1542.1
+      "buy": 1533.7,
+      "sell": 1535.6
     },
     {
       "name": "Dólar CCL",
-      "buy": 1597.9,
-      "sell": 1600.2
+      "buy": 1595.9,
+      "sell": 1596.7
     },
     {
       "name": "Cripto",
-      "buy": 1590.62,
-      "sell": 1596.01
+      "buy": 1592.69,
+      "sell": 1597.17
     }
   ],
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 17.4,
-    "apparent": 16.7,
-    "humidity": 70,
+    "temperature": 24.3,
+    "apparent": 23.7,
+    "humidity": 45,
     "precipitation": 0.0,
-    "wind": 9.8,
+    "wind": 11.9,
     "condition": "Despejado",
     "icon": "☀",
     "days": [
@@ -313,11 +304,11 @@
         "condition": "Nublado",
         "max": 23.8,
         "min": 14.0,
-        "rain_probability": 14
+        "rain_probability": 8
       }
     ]
   },
   "errors": [],
-  "updated_at": "2026-09-17T10:28:14.725093-03:00",
-  "next_update_at": "2026-09-17T11:17:00-03:00"
+  "updated_at": "2026-09-17T15:14:19.478711-03:00",
+  "next_update_at": "2026-09-17T15:17:00-03:00"
 }
