@@ -6,31 +6,103 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
+          "id": "426f8df84f99",
+          "title": "De no creer. No amamos lo suficiente a Javi",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/opinion/no-amamos-lo-suficiente-a-javi-nid25092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Flanacionar%2Ffe91ef4e-c101-451e-b5c6-e74d7cc41098.png?auth=5a72bd5f94e28a0e3b6b72ca203c2d58f0303da0e401599c53a7c158fd67559e&width=80&quality=70&smart=false",
+          "source": "La Nación",
+          "published": "2026-09-26T13:05:48.975661+00:00"
+        },
+        {
+          "id": "a344963e5423",
+          "title": "Mega Millions: ganadores del 25 de septiembre de 2026",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/26/mega-millions-ganadores-del-25-de-septiembre-de-2026/",
+          "image": "https://www.infobae.com/resizer/v2/EXQC3EASVRBW3NYXR4QU5PPOFE.jpg?auth=b5ec9342648285bd8c9b78dd3c46bc8ceab2e56e08173bf96be5585fb9c3e988&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-26T13:05:48.750495+00:00"
+        },
+        {
+          "id": "aa9d1dbe1abc",
+          "title": "Una multitud marchó en Madrid contra Pedro Sánchez: exigieron su renuncia y elecciones inmediatas",
+          "summary": "Se trató de la segunda Marcha por la Dignidad, que también puso el foco en la crisis migratoria en Ceuta.",
+          "url": "https://www.clarin.com/mundo/multitud-marcho-madrid-pedro-sanchez-exigieron-renuncia-elecciones-inmediatas_0_N8Ovj3Yp1I.html",
+          "image": "https://www.clarin.com/img/2026/09/26/BfkFXQDpU_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-26T12:24:28+00:00"
+        },
+        {
+          "id": "926a951b3966",
+          "title": "Ingresos Brutos: Catamarca elimina el impuesto a la industria y reaviva el debate fiscal con las provincias",
+          "summary": "La medida anunciada por el gobernador Raúl Jalil apunta a aliviar la carga sobre las fábricas. En territorio bonaerense, los industriales pidieron excluir del tributo a pymes que facturen hasta $3.200 millones al año.",
+          "url": "https://www.ambito.com/economia/ingresos-brutos-catamarca-elimina-el-impuesto-la-industria-y-reaviva-el-debate-fiscal-las-provincias-n6326748",
+          "image": "https://media.ambito.com/p/77d801d591d29539d32a92d9807f9d95/adjuntos/239/imagenes/043/665/0043665015/1200x675/smart/catamarca-uia.png",
+          "source": "Ámbito",
+          "published": "2026-09-26T11:00:00+00:00"
+        },
+        {
           "id": "b9a9bf8cdbbb",
           "title": "“Era un supermercado de bebés”. La increíble historia de la partera que los vendía al precio de un departamento",
           "summary": "",
           "url": "https://www.lanacion.com.ar/sociedad/era-un-supermercado-de-bebes-la-increible-historia-de-la-partera-que-los-vendia-al-precio-de-un-nid26092026/",
           "image": "",
           "source": "La Nación",
-          "published": "2026-09-26T07:41:46.716314+00:00"
+          "published": "2026-09-26T13:05:48.975418+00:00"
         },
         {
-          "id": "2a35fa13c2fc",
-          "title": "Asesinan a balazos a un hombre frente al Metro Hidalgo; caen dos presuntos responsables tras persecución",
+          "id": "7b7ee2781329",
+          "title": "Un conductor en contramano provocó un choque de siete vehículos en Florida",
           "summary": "",
-          "url": "https://www.infobae.com/mexico/2026/09/26/asesinan-a-balazos-a-un-hombre-frente-al-metro-hidalgo-caen-dos-presuntos-responsables-tras-persecucion/",
-          "image": "https://www.infobae.com/resizer/v2/J5237JAHJRDQXILHER3J755VWA.jpg?auth=997a7c88f5bffdf4f197ac6c195fb62f7a5c6475c98e5c1714061bbf05b28682&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/26/un-conductor-en-contramano-provoco-un-choque-de-siete-vehiculos-en-florida/",
+          "image": "https://www.infobae.com/resizer/v2/HINSQ3OM3NCHVJULZ25JCPGNRM.jpeg?auth=68eec712c1e3f5ce4e3e643b91ad3e788457b49b592e9b3f4d68d6fe0ad010a6&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-26T07:41:46.520968+00:00"
+          "published": "2026-09-26T13:05:48.750264+00:00"
         },
         {
-          "id": "44903798c76d",
-          "title": "Es oficial | Desde el 1 de octubre, en Florida cambian los documentos obligatorios para registrar un vehículo",
-          "summary": "Se exigirá un comprobante de domicilio y una licencia REAL ID, un pasaporte estadounidense o uno extranjero con formulario I-94.",
-          "url": "https://www.clarin.com/estados-unidos/oficial-1-octubre-florida-cambian-documentos-obligatorios-registrar-vehiculo_0_VD8847dZWd.html",
-          "image": "https://www.clarin.com/img/2026/09/25/wiBB5AdNW_1200x630__1.jpg",
+          "id": "5f811e826dbb",
+          "title": "El universo de Narcisa Hirsch deslumbra en el Museo de Arte Contemporáneo de Rosario",
+          "summary": "Narcisa Hirsch, un viaje incógnito propone volver sobre la obra de una figura fundamental del cine experimental argentino y latinoamericano. La muestra reúne distintas etapas y lenguajes de una producción atravesada por el movimiento.",
+          "url": "https://www.clarin.com/cultura/universo-narcisa-hirsch-deslumbra-museo-arte-contemporaneo-rosario_0_aj4ugXwMbP.html",
+          "image": "https://www.clarin.com/img/2026/09/24/5mKeWeL4J_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-26T07:00:11+00:00"
+          "published": "2026-09-26T12:06:16+00:00"
+        },
+        {
+          "id": "0b3fc9c6d9c8",
+          "title": "El derrumbe de la actividad en julio enciende alarmas de recesión y abre la discusión por incentivos económicos",
+          "summary": "Tras la contracción de la economía en julio y el riesgo de una recesión técnica, analistas advierten que un menor nivel de actividad podría golpear la recaudación y sumar presión sobre el programa financiero del Gobierno.",
+          "url": "https://www.ambito.com/economia/el-derrumbe-la-actividad-julio-enciende-alarmas-recesion-y-abre-la-discusion-incentivos-economicos-n6326700",
+          "image": "https://media.ambito.com/p/0ccfe46bc78e1508388c11e7a1fe62e2/adjuntos/239/imagenes/030/147/0030147895/1200x675/smart/tras-dos-subas-la-actividad-economica-cayo-un-22-febrero.jpg",
+          "source": "Ámbito",
+          "published": "2026-09-26T10:00:00+00:00"
+        },
+        {
+          "id": "169427d60481",
+          "title": "Relanzada caótica. Así fue la maniobra con la que Colapinto provocó el triple choque con Gasly y Norris",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/deportes/asi-fue-la-maniobra-con-la-que-colapinto-provoco-el-triple-choque-con-gasly-y-norris-nid26092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/el-momento-en-que-los-tres-corredores-salen-de-la-W5INTVWUKJGK7EDDEDRNGJE2BI.png?auth=8a127c993cec5f3679009d1d00549d686a03fdff92c86ed467bd3bd92b1f1605&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-26T13:05:48.975156+00:00"
+        },
+        {
+          "id": "e46a7dac88a2",
+          "title": "Hallan muertos a dos turistas en Atenas tras la explosión de un edificio",
+          "summary": "",
+          "url": "https://www.infobae.com/america/mundo/2026/09/26/hallan-muertos-a-dos-turistas-en-atenas-tras-la-explosion-de-un-edificio/",
+          "image": "https://www.infobae.com/resizer/v2/NDOEULQQRNFCXBHMGNBUM3ALAE.jpg?auth=3f4c9d954fa6b36621edb471151dc9c0a6df431a5a4efc1ae39d515c3a648279&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-26T13:05:48.750051+00:00"
+        },
+        {
+          "id": "c571b270571d",
+          "title": "Estudiantes vs Rosario Central, por la Supercopa Internacional 2026 EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+          "summary": "Juegan en el Madre de Ciudades, desde las 16. El Pincha llega como ganador del Trofeo de Campeones, mientras que el Canalla es el campeón de la tabla anual 2025. Por ESPN Premium.",
+          "url": "https://www.clarin.com/deportes/estudiantes-vs-rosario-central-supercopa-internacional-2026-vivo-hora-juegan-formaciones-ver-partido_0_iqz2Qru6Za.html",
+          "image": "https://www.clarin.com/img/2026/09/26/rt5P03EG3_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-26T12:05:45+00:00"
         },
         {
           "id": "351e1071fa59",
@@ -38,78 +110,6 @@
           "summary": "El panorama de la deuda global, principalmente la de EEUU, echó más leña al fuego a la situación de los bonos soberanos argentinos, que vienen experimentando un revés desde agosto.",
           "url": "https://www.ambito.com/finanzas/la-turbulencia-los-bonos-eeuu-tambien-golpea-la-deuda-local-y-empuja-al-alza-el-riesgo-pais-n6326763",
           "image": "https://media.ambito.com/p/44b69fd18b1732c2b1418dcd99890653/adjuntos/239/imagenes/043/468/0043468734/1200x675/2835x1200:2855x1220/mercados-bolsas-acciones-riesgo-pais-cedears-finanzas-inversiones-vivo.jpg",
-          "source": "Ámbito",
-          "published": "2026-09-26T03:00:00+00:00"
-        },
-        {
-          "id": "8c7baeb5c941",
-          "title": "Tensión en los mercados financieros. El riesgo país subió más de 30 puntos en el día y ya se ubicó por encima de 600",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-subir-y-ya-supera-los-600-puntos-nid25092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/el-riesgo-pais-acumulo-una-escala-de-casi-100-IXQEB7Z65BHDXE3WJFSEMFXGOM.jpg?auth=43368352be7b843459ca3e742fe214c2b3bd7330c37c4f30d2e57044d473d377&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-26T07:41:46.716150+00:00"
-        },
-        {
-          "id": "49723f7bb961",
-          "title": "Sin visa y con vigilancia de la Guardia Nacional: así cumplirá Ernesto Ruffo la prisión domiciliaria en Ensenada",
-          "summary": "",
-          "url": "https://www.infobae.com/mexico/2026/09/25/sin-pasaporte-ni-visa-y-con-vigilancia-permanente-de-la-guardia-nacional-asi-cumplira-ernesto-ruffo-la-prision-domiciliaria-en-ensenada/",
-          "image": "https://www.infobae.com/resizer/v2/ODCIX6P2XVA7JNZEBA7AYJQG2A.jpg?auth=0ca9e83abc774a0bdaa2a4350ee13f1fa2959c716d8695a885c6b416c3b8edaa&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-26T07:41:46.520830+00:00"
-        },
-        {
-          "id": "dac62e5d11c7",
-          "title": "Dólar blue hoy: a cuánto cotiza este sábado 26 de septiembre",
-          "summary": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-          "url": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-26-septiembre_0_pG9ZtYDtmm.html",
-          "image": "https://www.clarin.com/img/2020/11/10/ta7hQ1oRl_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-26T07:00:07+00:00"
-        },
-        {
-          "id": "3c4b6d8e0ec9",
-          "title": "Malvinas: impulsan una reunión del Parlasur en Tierra del Fuego como gesto de respaldo regional",
-          "summary": "La iniciativa busca reunir a representantes de Brasil, Paraguay, Uruguay y Bolivia en Ushuaia y sumar volumen al reclamo por soberanía. Apuntan a fines de octubre o principios de noviembre, dependiendo de las elecciones brasileñas.",
-          "url": "https://www.ambito.com/ambito-nacional/malvinas-impulsan-una-reunion-del-parlasur-tierra-del-fuego-como-gesto-respaldo-regional-n6326817",
-          "image": "https://media.ambito.com/p/2fd88c9b3b883e98b5ca601f8431c502/adjuntos/239/imagenes/043/665/0043665412/1200x675/smart/ushuaia-malvinas.jpg",
-          "source": "Ámbito",
-          "published": "2026-09-26T03:00:00+00:00"
-        },
-        {
-          "id": "426f8df84f99",
-          "title": "De no creer. No amamos lo suficiente a Javi",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/opinion/no-amamos-lo-suficiente-a-javi-nid25092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Flanacionar%2Ffe91ef4e-c101-451e-b5c6-e74d7cc41098.png?auth=5a72bd5f94e28a0e3b6b72ca203c2d58f0303da0e401599c53a7c158fd67559e&width=80&quality=70&smart=false",
-          "source": "La Nación",
-          "published": "2026-09-26T07:41:46.715999+00:00"
-        },
-        {
-          "id": "5d2456086658",
-          "title": "EN VIVO | Clima en México hoy 26 de septiembre: ¿cuál es la ruta del huracán Polo y qué estados afectará?",
-          "summary": "",
-          "url": "https://www.infobae.com/mexico/2026/09/26/en-vivo-clima-en-mexico-hoy-26-de-septiembre-cual-es-la-ruta-del-huracan-polo-y-que-estados-afectara/",
-          "image": "",
-          "source": "Infobae",
-          "published": "2026-09-26T07:41:46.520679+00:00"
-        },
-        {
-          "id": "c26909866e7a",
-          "title": "Cita del día del poeta William Wordsworth: “¿Qué importa si el resplandor que una vez fue tan brillante se ha desvanecido para siempre de mi vista? Aunque nada pueda devolver la hora de esplendor en la hierba, de gloria en la flor; no nos lamentaremos, sino que encontraremos fuerza en lo que queda”",
-          "summary": "Hay frases que atraviesan distintas épocas porque ponen en palabras experiencias de la vida cotidiana.",
-          "url": "https://www.clarin.com/estados-unidos/cita-dia-poeta-william-wordsworth-importa-resplandor-vez-brillante-desvanecido-siempre-vista-pueda-devolver-hora-esplendor-hierba-gloria-flor-lamentaremos-encontraremos-fuerza-queda_0_Q5qrrMlGWy.html",
-          "image": "https://www.clarin.com/img/2026/09/11/nUONbK1Vt_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-26T06:56:11+00:00"
-        },
-        {
-          "id": "62ab244473be",
-          "title": "Ciencia en el Presupuesto 2027: funciones de ciberseguridad inflan los fondos, en medio de los reclamos del sector",
-          "summary": "La Secretaría de Ciencia, Innovación y Tecnología acapara financiamiento, mientras caen los montos para el Conicet. El conflicto por el presupuesto universitario atraviesa el debate que iniciará en el Congreso.",
-          "url": "https://www.ambito.com/politica/ciencia-el-presupuesto-2027-funciones-ciberseguridad-inflan-los-fondos-medio-los-reclamos-del-sector-n6326915",
-          "image": "https://media.ambito.com/p/11011649ef296da3dca41f081fe2ff8a/adjuntos/239/imagenes/042/460/0042460658/conicet-protesta.jpg",
           "source": "Ámbito",
           "published": "2026-09-26T03:00:00+00:00"
         }
@@ -125,7 +125,7 @@
           "title": "Bitcoin lucha por sostener los u$s84.000 y en la semana anota incremento de casi 4%",
           "summary": "El mercado cripto muestra un comportamiento dispar, en medio de la persistente presión de los bonos de EEUU.",
           "url": "https://www.ambito.com/finanzas/bitcoin-rebota-los-us84000-y-el-mercado-cripto-vuelve-al-verde-pese-los-bonos-eeuu-n6326585",
-          "image": "https://media.ambito.com/p/de7d882a0b50b2a637527e710d787005/adjuntos/239/imagenes/041/326/0041326511/criptomonedas-bitcoin.jpg",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-26T00:08:00+00:00"
         },
@@ -134,7 +134,7 @@
           "title": "Se profundizó el deterioro local: el riesgo país saltó casi 20% en la semana y tocó máximos desde marzo",
           "summary": "La suba de las tasas en Estados Unidos coincidió con una menor acumulación de divisas del BCRA y señales de debilidad en la actividad, una combinación que deterioró la demanda por activos argentinos. La corrección se concentró en la deuda d",
           "url": "https://www.ambito.com/finanzas/el-riesgo-pais-se-acerca-los-600-puntos-y-los-bonos-dolares-no-detienen-su-caida-n6326633",
-          "image": "https://media.ambito.com/p/9b6394105437a073f938f17d6ce1acd3/adjuntos/239/imagenes/043/665/0043665593/1200x675/smart/mercados-septiembre.png",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-25T22:12:00+00:00"
         },
@@ -143,7 +143,7 @@
           "title": "Wall Street rebotó por el alivio en petróleo y bonos, mientras crecen las expectativas de tregua entre EEUU e Irán",
           "summary": "Los principales índices de Nueva York cerraron en verde, en una jornada atravesada por menor presión sobre los activos financieros y señales geopolíticas más constructivas. Los inversores también siguieron atentos a la expectativa de nuevas",
           "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-ensayan-un-rebote-y-el-petroleo-se-mantiene-encima-los-us105-n6326518",
-          "image": "https://media.ambito.com/p/0e836136971e1732e4fdba0e1440b334/adjuntos/239/imagenes/043/498/0043498116/1200x675/1138x736:1158x756/wall-street-nyse-nasdaq-dow-jones-mercados.jpg",
+          "image": "",
           "source": "Ámbito Finanzas",
           "published": "2026-09-25T21:59:00+00:00"
         }
@@ -270,45 +270,45 @@
     },
     {
       "name": "Cripto",
-      "buy": 1609.84,
-      "sell": 1612.51
+      "buy": 1601.23,
+      "sell": 1606.69
     }
   ],
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 14.3,
-    "apparent": 12.3,
-    "humidity": 66,
+    "temperature": 18.2,
+    "apparent": 16.2,
+    "humidity": 62,
     "precipitation": 0.0,
-    "wind": 10.2,
-    "condition": "Parcialmente nublado",
-    "icon": "◒",
+    "wind": 17.1,
+    "condition": "Despejado",
+    "icon": "☀",
     "days": [
       {
         "date": "2026-09-26T00:00:00",
         "condition": "Nublado",
-        "max": 22.4,
+        "max": 22.5,
         "min": 13.1,
-        "rain_probability": 29
+        "rain_probability": 23
       },
       {
         "date": "2026-09-27T00:00:00",
         "condition": "Tormenta",
-        "max": 20.4,
-        "min": 11.6,
-        "rain_probability": 51
+        "max": 23.2,
+        "min": 12.5,
+        "rain_probability": 56
       },
       {
         "date": "2026-09-28T00:00:00",
-        "condition": "Nublado",
-        "max": 20.1,
-        "min": 15.0,
-        "rain_probability": 51
+        "condition": "Tormenta",
+        "max": 19.6,
+        "min": 14.4,
+        "rain_probability": 29
       }
     ]
   },
   "errors": [],
-  "updated_at": "2026-09-26T04:41:47.576984-03:00",
-  "next_update_at": "2026-09-26T05:17:00-03:00"
+  "updated_at": "2026-09-26T10:05:49.807304-03:00",
+  "next_update_at": "2026-09-26T10:17:00-03:00"
 }
