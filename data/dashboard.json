@@ -6,31 +6,94 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
-          "id": "37f8a0ca4aef",
-          "title": "Podría caer granizo. Alerta amarilla por tormentas fuertes para la ciudad de Buenos Aires y el Conurbano",
+          "id": "20eac72bfd5f",
+          "title": "Inteligencia artificial. OpenAI frena el entrenamiento de sus modelos luego de que actuaran de modo independiente otra vez",
           "summary": "",
-          "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-lluvias-para-este-domingo-27-de-septiembre-las-provincias-nid27092026/",
-          "image": "",
+          "url": "https://www.lanacion.com.ar/el-mundo/openai-frena-el-entrenamiento-de-sus-modelos-luego-que-actuaran-de-modo-independiente-otra-vez-nid27092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/el-logo-de-open-RGRAOZRKQRGBLHXAHZ42EHB6WM.JPG?auth=04c15e72245ba539a5799da300fa5feb5b5639225e3b77b04ee54f98572e7091&width=302&height=201&quality=70&smart=true",
           "source": "La Nación",
-          "published": "2026-09-27T18:24:40.477425+00:00"
+          "published": "2026-09-27T22:11:43.747152+00:00"
         },
         {
-          "id": "d49f70298319",
-          "title": "Fallo de software en el Boeing 737 Max: la FAA abre una investigación que amenaza las entregas y certificaciones pendientes",
+          "id": "ccc3d124a12c",
+          "title": "La búsqueda científica que permitió identificar al cangrejo de río más grande conocido de Norteamérica",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/27/fallo-de-software-en-el-boeing-737-max-la-faa-abre-una-investigacion-que-amenaza-las-entregas-y-certificaciones-pendientes/",
-          "image": "https://www.infobae.com/resizer/v2/OMMKP4VKTFFOXLFYNS2KLIZNEM.JPG?auth=47909af1c1b50478b872d6778d27e21c1a85beeaf12de021e7f26f35ad2e0f45&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/27/la-busqueda-cientifica-que-permitio-identificar-al-cangrejo-de-rio-mas-grande-conocido-de-norteamerica/",
+          "image": "https://www.infobae.com/resizer/v2/PDR5254CHFBG5KBA7W7DHYVQYY.jpg?auth=34fbd520df522cff64fd997e5361693c7d2cd5253178c7cfc818387d5a34684f&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-09-27T18:24:40.117650+00:00"
+          "published": "2026-09-27T22:11:43.616307+00:00"
         },
         {
-          "id": "d70a6ec8807a",
-          "title": "La psicología dice que las personas a las que les cuesta confiar en las figuras de autoridad no siempre son rebeldes o están dañadas, sino que suelen haber aprendido a confiar en quienes explican sus razones",
-          "summary": "La relación con padres, docentes y otras figuras de autoridad comienza a construirse desde la infancia. Con el tiempo, esas primeras experiencias pueden influir en la forma de evaluar a quienes tienen poder.",
-          "url": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-cuesta-confiar-figuras-autoridad-siempre-rebeldes-danadas-suelen-aprendido-confiar-explican-razones_0_NG9ETKUiaD.html",
-          "image": "https://www.clarin.com/img/2026/09/01/r-lV7Dwwe_1200x630__1.jpg",
+          "id": "2223e1836500",
+          "title": "La carta de despedida de Baby Etchecopar a \"El Negro\" Oro: \"Me provocaste las mejores carcajadas de mi vida\"",
+          "summary": "El periodista y conductor compartió unas emotivas palabras en recuerdo de su amigo. González Oro falleció el viernes, a los 74 años.",
+          "url": "https://www.clarin.com/fama/carta-despedida-baby-etchecopar-negro-oro-provocaste-mejores-carcajadas-vida_0_JzZKXrEkZx.html",
+          "image": "https://www.clarin.com/img/2026/09/25/WJTSmVGiM_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-09-27T17:30:30+00:00"
+          "published": "2026-09-27T21:25:26+00:00"
+        },
+        {
+          "id": "381e4c4c08aa",
+          "title": "Con un triplete de Enner Valencia, Boca venció a Racing en la Copa Argentina",
+          "summary": "El Xeneize le ganó 3-2 a la Academia en una ráfaga de goles sobre el cierre del partido. Los de Vojvoda se imponían por dos tantos, pero no pudieron mantener la ventaja y se despidieron de la competencia.",
+          "url": "https://www.ambito.com/deportes/boca-vs-racing-la-copa-argentina-horario-tv-y-formaciones-confirmadas-n6327223",
+          "image": "https://media.ambito.com/p/4470da4d1b585e3deec614f827cda0d1/adjuntos/239/imagenes/043/667/0043667998/1200x675/smart/enner.png",
+          "source": "Ámbito",
+          "published": "2026-09-27T21:59:00+00:00"
+        },
+        {
+          "id": "e5559c50bb8e",
+          "title": "Cardenal Rossi. “León XIV encontrará una Argentina cascoteada, socialmente bajoneada y en la que se escucha un lenguaje triunfalista”",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/politica/cardenal-angel-rossi-leon-xiv-encontrara-una-argentina-cascoteada-socialmente-bajoneada-y-en-la-que-nid27092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/el-arzobispo-de-cordoba-cardenal-angel-rossi-dijo-EUI2U2TOIRGD7C3SFGRTMVUGQM.jpeg?auth=64d8f6f3d6f4b248074b19469cfe09d6f0aa97ef2ba64a5f881f4f5511d6d510&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-09-27T22:11:43.746968+00:00"
+        },
+        {
+          "id": "113e388606da",
+          "title": "Qantas lanzará en 2028 el primer vuelo sin escala entre Australia y Nueva York",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/27/el-primer-vuelo-sin-escala-entre-australia-y-nueva-york-qantas-lo-lanzara-en-2028/",
+          "image": "https://www.infobae.com/resizer/v2/ZKAFWZU5ENH4JP6RIVOUC5BCFY?auth=1238babb1dfc49e0c6e3b77da82d0d7e91f391187fd27871499f0572a2940337&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-27T22:11:43.616157+00:00"
+        },
+        {
+          "id": "a85ae915d39c",
+          "title": "Descubrimiento histórico en Miramar: hallan una nueva especie fósil de un marsupial \"dientes de sable\" de hace 2 millones de años",
+          "summary": "Los restos hallados en acantilados corresponden al tilacosmílido más reciente previo a la extinción del grupo. Estiman que pesaba 100 kilos. El esqueleto parcial aporta datos clave sobre la evolución de los depredadores sudamericanos.",
+          "url": "https://www.clarin.com/sociedad/descubrimiento-historico-miramar-hallan-nueva-especie-fosil-marsupial-dientes-sable-hace-2-millones-anos_0_vuPsLVUrmm.html",
+          "image": "https://www.clarin.com/img/2026/09/27/tLl_cDV83_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-27T21:23:27+00:00"
+        },
+        {
+          "id": "ed0381b549f3",
+          "title": "A un paso de la recesión: los números del INDEC desmienten el relato oficial de crecimiento",
+          "summary": "Aunque el discurso oficial celebre meses de expansión, los últimos datos oficiales confirman que la actividad productiva ya está cayendo.",
+          "url": "https://www.ambito.com/economia/a-un-paso-la-recesion-los-numeros-del-indec-desmienten-el-relato-oficial-crecimiento-n6327240",
+          "image": "https://media.ambito.com/p/bb1733448ac5cc5502ed4d978de30c7a/adjuntos/239/imagenes/042/751/0042751795/foto-centro-industrial.jpg",
+          "source": "Ámbito",
+          "published": "2026-09-27T21:27:00+00:00"
+        },
+        {
+          "id": "c8eb8e31a234",
+          "title": "Dos personas fueron hospitalizadas tras ser apuñaladas en su departamento en Miami",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/09/27/dos-personas-fueron-hospitalizadas-tras-ser-apunaladas-en-su-departamento-en-miami/",
+          "image": "https://www.infobae.com/resizer/v2/L3L6TAICLRFO7BGTBT7JNUSY7Y.png?auth=a6e5f95c2340ca20be71d639af85c68a45bc8ca41ced5f7758f8034163709645&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-09-27T22:11:43.616001+00:00"
+        },
+        {
+          "id": "d522eb84e7b9",
+          "title": "El Gobierno pule un paquete de leyes para agravar las penas e instalar el discurso de mano dura como eje de la campaña",
+          "summary": "Establece figuras contra “motochorros” y “trapitos”, castiga con más dureza las entraderas a domicilios o salideras bancarias y sanciona penalmente al extranjero que ingrese ilegalmente al país. Según el borrador al que accedió Clarín, tamb",
+          "url": "https://www.clarin.com/politica/gobierno-pule-paquete-leyes-agravar-penas-instalar-discurso-mano-dura-eje-campana_0_vqdGVTrDnV.html",
+          "image": "https://www.clarin.com/img/2026/09/27/-xN9nBpvj_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-09-27T21:20:55+00:00"
         },
         {
           "id": "d4308b7392b5",
@@ -39,79 +102,16 @@
           "url": "https://www.ambito.com/informacion-general/alerta-amarilla-tormentas-y-granizo-el-amba-y-otras-ocho-provincias-cuando-llueve-y-que-hora-cambia-el-clima-n6327122",
           "image": "https://media.ambito.com/p/44d304ae5a9e0e86432b505d206862c2/adjuntos/239/imagenes/043/667/0043667920/1200x675/smart/clima-mapa-tormenta-alerta-meteorologica-27092026.jpg",
           "source": "Ámbito",
-          "published": "2026-09-27T17:52:00+00:00"
+          "published": "2026-09-27T20:33:00+00:00"
         },
         {
-          "id": "537fcb8b38bc",
-          "title": "\"Ciclo cumplido\". Ya nadie le cree al fútbol argentino: la tarde que debería indicar el principio del fin",
+          "id": "0698147b8bbf",
+          "title": "Malvinas. El ministro de Defensa de Kast respaldó la autodeterminación de los isleños y su relación comercial con Chile",
           "summary": "",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/ya-nadie-le-cree-al-futbol-argentino-la-tarde-que-deberia-indicar-el-principio-del-fin-nid26092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/juan-sebastian-veron-se-lanza-contra-el-arbitro-CMP5UOVXF5HQRH7FCRRGOKDOEY.JPG?auth=658cb0c03b0d2094e048204c9e6a50cec31715e57a694c8dd20637bc2cbf8e0b&width=302&height=201&quality=70&smart=true",
+          "url": "https://www.lanacion.com.ar/politica/malvinas-el-ministro-de-defensa-de-kast-respaldo-la-autodeterminacion-de-los-islenos-y-su-relacion-nid27092026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/fernando-barros-tocornal-ministro-de-defensa-de-S6C3YJG4KZDZNJHWIZ6TOOA53U.JPG?auth=1f65440f591ad9a431ddabe8a3d6b41058bd2b3418dfda6c1d062551a0c40889&width=302&height=201&quality=70&smart=true",
           "source": "La Nación",
-          "published": "2026-09-27T18:24:40.476968+00:00"
-        },
-        {
-          "id": "bd89fdaed117",
-          "title": "Un joven de 18 años fue detenido tras el hallazgo de una mujer desmembrada en un complejo de apartamentos en Georgia",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/27/un-joven-de-18-anos-fue-detenido-tras-el-hallazgo-de-una-mujer-desmembrada-en-un-complejo-de-apartamentos-en-georgia/",
-          "image": "https://www.infobae.com/resizer/v2/IA7MTRH5RNEMLNVPTHNK4KADEI.png?auth=e2665c7d5996df06b71a210c63e4af57190644c78688d1d107fc1893b27a23c6&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-27T18:24:40.117437+00:00"
-        },
-        {
-          "id": "38180f0d3fec",
-          "title": "Sylvester Stallone, actor de Hollywood de 80 años, rechazó 360.000 dólares por Rocky cuando casi no tenía dinero: “Se iba a terminar y yo iba a quedar amargado”",
-          "summary": "Tenía 29 años, poco dinero y escasas oportunidades como actor cuando Hollywood quiso comprarle la historia con una condición: que otra estrella interpretara al protagonista.",
-          "url": "https://www.clarin.com/estados-unidos/sylvester-stallone-actor-hollywood-80-anos-rechazo-360000-dolares-rocky-dinero-iba-terminar-iba-quedar-amargado_0_4CuEtdoMyW.html",
-          "image": "https://www.clarin.com/img/2025/12/03/zriDcDocl_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-27T17:29:46+00:00"
-        },
-        {
-          "id": "98376b601cab",
-          "title": "ANSES paga una ayuda a personas que se quedaron sin trabajo: quiénes pueden cobrarla y cómo pedirla",
-          "summary": "La asistencia está destinada a trabajadores registrados que perdieron su empleo por causas ajenas a su voluntad. El beneficio se paga entre dos y 12 meses, según los aportes y salarios previos, y puede extenderse por otros seis meses para l",
-          "url": "https://www.ambito.com/informacion-general/anses-paga-una-ayuda-quienes-se-quedaron-trabajo-quienes-pueden-cobrarla-y-como-pedirla-n6327191",
-          "image": "https://media.ambito.com/p/9ea3256670924461f38caedf47475523/adjuntos/239/imagenes/042/526/0042526859/desempleo-cabajpg.jpg",
-          "source": "Ámbito",
-          "published": "2026-09-27T17:43:00+00:00"
-        },
-        {
-          "id": "14cb30459d5c",
-          "title": "Magalí Bianco y Mario Suli. Los guardianes de Milei que sobrevivieron a los cambios en Olivos",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/politica/los-guardianes-de-milei-que-sobrevivieron-a-los-cambios-en-olivos-nid27092026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/magali-bianco-y-mario-WU4ZMXRLGZE25GV447C5H7DXNA.jpg?auth=fc78bf018e72e435f0be1bf91cbd08f7e328431e73dda3e8c092ffaed28c9714&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-09-27T18:24:40.476525+00:00"
-        },
-        {
-          "id": "b35cad810309",
-          "title": "Huracanes en el Pacífico amenazan con inundaciones y erosión de playas en el sur de California",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/09/27/huracanes-en-el-pacifico-amenazan-con-inundaciones-y-erosion-de-playas-en-el-sur-de-california/",
-          "image": "https://www.infobae.com/resizer/v2/EFQ3HPG5ZJCVZPRD6THLVF2C64.JPG?auth=20447dfee1ff97a2fe403832da7bd6d8e367c8925236553b22ef06f7029736eb&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-09-27T18:24:40.117182+00:00"
-        },
-        {
-          "id": "007d0c7449c2",
-          "title": "Una potente tormenta golpea la costa este de Estados Unidos: un muerto, inundaciones y casi 150.000 hogares sin electricidad",
-          "summary": "El fenómeno conocido como “nor’easter” provocó fuertes vientos, caída de árboles, cortes de energía y problemas en los aeropuertos desde Carolina del Norte hasta Nueva Inglaterra. Nueva York y Nueva Jersey declararon emergencias en varias z",
-          "url": "https://www.clarin.com/estados-unidos/potente-tormenta-golpea-costa-estados-unidos-muerto-inundaciones-150000-hogares-electricidad_0_KU5M6UDRFS.html",
-          "image": "https://www.clarin.com/img/2026/09/27/HL0BzvVIf_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-09-27T17:20:27+00:00"
-        },
-        {
-          "id": "af9f4f42c097",
-          "title": "Tour petrolero en Vaca Muerta: Chevron abrió El Trapial, mostró operaciones y prometió triplicar producción de petróleo y gas no convencional",
-          "summary": "Chevron abrió por primera vez en 25 años las puertas de El Trapial a periodistas. Energy Report recorrió pozos, plantas, caminos y campamentos para conocer cómo se produce petróleo y gas no convencional en Vaca Muerta.",
-          "url": "https://www.ambito.com/energia/tour-petrolero-vaca-muerta-chevron-abrio-el-trapial-mostro-operaciones-y-prometio-triplicar-produccion-petroleo-y-gas-no-convencional-n6327159",
-          "image": "https://media.ambito.com/p/e7b4eea98b53e92f87895faf5bcb708f/adjuntos/239/imagenes/043/667/0043667680/chevron-el-trapil-vaca-muerta-rig.jpeg",
-          "source": "Ámbito",
-          "published": "2026-09-27T17:05:00+00:00"
+          "published": "2026-09-27T22:11:43.746580+00:00"
         }
       ]
     },
@@ -120,6 +120,15 @@
       "name": "Finanzas",
       "eyebrow": "Mercados & economía",
       "articles": [
+        {
+          "id": "ebf9808dda64",
+          "title": "El boom de los pagos con QR: crecieron casi 70% en un año y movieron $2,9 billones por mes",
+          "summary": "En agosto se realizaron 117,2 millones de operaciones con códigos QR interoperables, un 67,5% más que un año atrás, según el BCRA. El crecimiento contrasta con la caída en el uso de las tarjetas de débito y crédito.",
+          "url": "https://www.ambito.com/finanzas/el-boom-los-pagos-qr-crecieron-casi-70-un-ano-y-movieron-29-billones-mes-n6327202",
+          "image": "https://media.ambito.com/p/4bb7dc93baabf6be31640e6b59d0f531/adjuntos/239/imagenes/043/246/0043246760/pago-nfc-banco-provincia-cuenta-dni.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-09-27T18:44:00+00:00"
+        },
         {
           "id": "09e4757d5653",
           "title": "Tasas en máximos y deuda récord: la renta fija pone en alerta al G20",
@@ -146,15 +155,6 @@
           "image": "https://media.ambito.com/p/44b69fd18b1732c2b1418dcd99890653/adjuntos/239/imagenes/043/468/0043468734/1200x675/2835x1200:2855x1220/mercados-bolsas-acciones-riesgo-pais-cedears-finanzas-inversiones-vivo.jpg",
           "source": "Ámbito Finanzas",
           "published": "2026-09-26T03:00:00+00:00"
-        },
-        {
-          "id": "377cb27392a0",
-          "title": "Bitcoin lucha por sostener los u$s84.000 y en la semana anota incremento de casi 4%",
-          "summary": "El mercado cripto muestra un comportamiento dispar, en medio de la persistente presión de los bonos de EEUU.",
-          "url": "https://www.ambito.com/finanzas/bitcoin-rebota-los-us84000-y-el-mercado-cripto-vuelve-al-verde-pese-los-bonos-eeuu-n6326585",
-          "image": "https://media.ambito.com/p/de7d882a0b50b2a637527e710d787005/adjuntos/239/imagenes/041/326/0041326511/criptomonedas-bitcoin.jpg",
-          "source": "Ámbito Finanzas",
-          "published": "2026-09-26T00:08:00+00:00"
         }
       ]
     },
@@ -279,25 +279,25 @@
     },
     {
       "name": "Cripto",
-      "buy": 1610.38,
-      "sell": 1612
+      "buy": 1609.31,
+      "sell": 1613.92
     }
   ],
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 19.9,
-    "apparent": 19.0,
-    "humidity": 70,
-    "precipitation": 0.1,
-    "wind": 15.5,
-    "condition": "Llovizna leve",
-    "icon": "☂",
+    "temperature": 15.9,
+    "apparent": 14.9,
+    "humidity": 89,
+    "precipitation": 0.0,
+    "wind": 15.8,
+    "condition": "Mayormente despejado",
+    "icon": "◒",
     "days": [
       {
         "date": "2026-09-27T00:00:00",
-        "condition": "Llovizna",
-        "max": 20.5,
+        "condition": "Chaparrones",
+        "max": 17.0,
         "min": 12.9,
         "rain_probability": 69
       },
@@ -305,19 +305,19 @@
         "date": "2026-09-28T00:00:00",
         "condition": "Llovizna leve",
         "max": 21.1,
-        "min": 15.0,
+        "min": 13.4,
         "rain_probability": 33
       },
       {
         "date": "2026-09-29T00:00:00",
-        "condition": "Llovizna",
-        "max": 20.3,
-        "min": 14.0,
+        "condition": "Chaparrones",
+        "max": 20.7,
+        "min": 14.4,
         "rain_probability": 84
       }
     ]
   },
   "errors": [],
-  "updated_at": "2026-09-27T15:24:41.277754-03:00",
-  "next_update_at": "2026-09-27T16:17:00-03:00"
+  "updated_at": "2026-09-27T19:11:44.145830-03:00",
+  "next_update_at": "2026-09-27T19:17:00-03:00"
 }
