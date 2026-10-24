@@ -6,31 +6,103 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
-          "id": "1f61c9fb58ac",
-          "title": "Quejas en Mendoza. Otro trastorno que el Súper Niño sacó a la luz y que las autoridades admiten es difícil de solucionar",
+          "id": "91adbd41483b",
+          "title": "Casi mil detenidos. Otro sábado de protestas en Francia: al menos 400.000 manifestantes, ciudades blindadas y algunos incidentes",
           "summary": "",
-          "url": "https://www.lanacion.com.ar/sociedad/reclamos-en-mendoza-otro-trastorno-que-el-super-nino-saco-a-la-luz-y-las-autoridades-admiten-nid24102026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/un-auto-termino-hundido-en-un-crater-en-el-acceso-3VOFOBZ2PBGUVH6RFSDMVYHPAE.jpeg?auth=76b4db758b21d4edaa7cd0878e662173535056af3fa480992e4d8c22b1f7c729&width=302&height=201&quality=70&smart=false&focal=159,116",
+          "url": "https://www.lanacion.com.ar/el-mundo/francia-y-una-nueva-protesta-contra-el-gobierno-calles-tomadas-locales-cerrados-y-70000-policias-nid24102026/",
+          "image": "",
           "source": "La Nación",
-          "published": "2026-10-24T20:50:11.817116+00:00"
+          "published": "2026-10-24T23:14:49.431153+00:00"
         },
         {
-          "id": "291adf7040fe",
-          "title": "Rescatan a decenas de gatos desnutridos y encuentran más de 70 animales muertos en una propiedad",
+          "id": "4865bedd9c5e",
+          "title": "Nueva York propone frenar los “bucles sin salida” en la atención al cliente automatizada",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/10/24/rescatan-a-decenas-de-gatos-desnutridos-y-encuentran-mas-de-70-animales-muertos-en-una-propiedad/",
-          "image": "https://www.infobae.com/resizer/v2/SC7DRIC4TFDNLBC2VQ4IJDAMCU.png?auth=7860efc33bd930059e5e472110478d5f775b5bd78296e521956dd7051a6df4d8&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/10/24/nueva-york-propone-frenar-los-bucles-sin-salida-en-la-atencion-al-cliente-automatizada/",
+          "image": "https://www.infobae.com/resizer/v2/EI2SV7PMD5GY7GQDW3NFDMVYHA.JPG?auth=28ec189ba65833c05bcde8ca99f0a4ff6c4d08d4a71b45a22a6917750f2583a1&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-10-24T20:50:11.536882+00:00"
+          "published": "2026-10-24T23:14:49.267617+00:00"
         },
         {
-          "id": "8b43b3b112c3",
-          "title": "Trump y la primera dama votan de manera anticipada en Palm Beach para las elecciones",
-          "summary": "El mandatario estadounidense y su esposa emitieron su voto anticipado en Palm Beach, instando a la participación electoral en Florida. Trump llamó a los ciudadanos de Florida y Michigan a votar temprano, subrayando la importancia de entrega",
-          "url": "https://www.clarin.com/estados-unidos/trump-y-la-primera-dama-votan-de-manera-anticipada-en-palm-beach-para-las-elecciones_0_CSQaLUU1EA.html",
-          "image": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+          "id": "10608314bf4b",
+          "title": "Premios al cretinismo",
+          "summary": "Increíble e hipócrita lo de Steve Witkoff ante Putin: “El presidente Trump es un humanitario. Usted también”.",
+          "url": "https://www.clarin.com/opinion/premios-cretinismo_0_Kws6pCabPm.html",
+          "image": "https://www.clarin.com/img/2026/10/16/ZlvghUwDN_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-10-24T20:20:13+00:00"
+          "published": "2026-10-24T23:01:45+00:00"
+        },
+        {
+          "id": "3509ab550250",
+          "title": "Carlos Rodríguez: \"No había condiciones para sostener la convertibilidad en los '90, pero en esa época creía que sí\"",
+          "summary": "El relato del secretario de Política Económica de la segunda presidencia de Carlos Menem ocurrió en una entrevista exclusiva para Ámbito, que se podrá leer completa en una edición especial impresa por el 50° aniversario de la inauguración d",
+          "url": "https://www.ambito.com/politica/carlos-rodriguez-no-habia-condiciones-sostener-la-convertibilidad-los-90-pero-esa-epoca-creia-que-si-n6337543",
+          "image": "https://media.ambito.com/p/56449d6e39238230dafb62c6d12d2db6/adjuntos/239/imagenes/043/726/0043726514/1200x675/smart/carlos-rodriguez-y-roque-fernandez.jpg",
+          "source": "Ámbito",
+          "published": "2026-10-24T22:01:00+00:00"
+        },
+        {
+          "id": "fc7a8e0cc5ca",
+          "title": "Lula vs. Flavio Bolsonaro. Qué dicen las últimas encuestas en Brasil antes de la elección más pareja de su historia",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/el-mundo/balotaje-en-brasil-lula-y-flavio-bolsonaro-se-enfrentan-en-la-eleccion-mas-pareja-en-un-pais-partido-nid24102026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/flavio-bolsonaro-y-luiz-inacio-lula-da-silva-WL5WP6O6GJAFLAGP3QRZ3BLGGQ.JPG?auth=2b0bd2aa4fb08089dd31f48421650daf43a2fca65c252127471348ec6c5c9763&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-10-24T23:14:49.430919+00:00"
+        },
+        {
+          "id": "41fb0c5efe3b",
+          "title": "Donald Trump votó por adelantado en Florida para las elecciones de medio término en Estados Unidos",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/10/24/donald-trump-voto-por-adelantado-en-florida-para-las-elecciones-de-medio-termino-en-estados-unidos/",
+          "image": "https://www.infobae.com/resizer/v2/XF6NIR4UYJAHTNJRTVIUIJVSVQ.JPG?auth=c589df846b8b703be1bccf8ec8ea11c2a983b973d290a3498c7dfcb1a0e9130b&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-10-24T23:14:49.267416+00:00"
+        },
+        {
+          "id": "7cd83e5402dd",
+          "title": "Hoy es la Luna llena en Tauro 2026: qué energía trae y cuáles son los signos que la sentirán con más fuerza",
+          "summary": "El plenilunio pone el foco en la estabilidad, los vínculos y los recursos económicos. Predicciones para los doce signos del zodiaco, según la astróloga Giuliana Piloni.",
+          "url": "https://www.clarin.com/astrologia/hoy-luna-llena-tauro-2026-energia-trae-signos-sentiran-fuerza_0_3uTnBBjoyw.html",
+          "image": "https://www.clarin.com/img/2026/02/02/oJa7JoOGQ_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-10-24T23:01:45+00:00"
+        },
+        {
+          "id": "19ef059a39b2",
+          "title": "Javier Milei negó una disputa interna con Patricia Bullrich, pero evitó hablar de una fórmula conjunta: \"No es el momento\"",
+          "summary": "En el últimas semanas la exministra de Seguridad dejó mensajes enigmáticos e hizo publico diferentes con la Casa Rosada. El Presidente habló sobre los rumores y la posibilidad de compartir con ella una fórmula en las elecciones del 2027.",
+          "url": "https://www.ambito.com/politica/javier-milei-nego-una-disputa-interna-patricia-bullrich-es-un-soldado-este-gobierno-n6337546",
+          "image": "https://media.ambito.com/p/82dfd7dfc65ca41994d85ee30e0fa779/adjuntos/239/imagenes/043/174/0043174253/1200x675/640x497:660x517/javier-milei-patricia-bullrich.jpg",
+          "source": "Ámbito",
+          "published": "2026-10-24T21:00:00+00:00"
+        },
+        {
+          "id": "78a9b671de03",
+          "title": "De Copacabana a Barra. Los cierres de campaña de Lula y Flavio Bolsonaro en Río de Janeiro: cánticos, banderas y altísima expectativa",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/el-mundo/cierres-de-campana-lula-y-flavio-bolsonaro-se-disputan-las-calles-de-rio-de-janeiro-a-horas-de-una-nid24102026/",
+          "image": "",
+          "source": "La Nación",
+          "published": "2026-10-24T23:14:49.430615+00:00"
+        },
+        {
+          "id": "6d45f46c5788",
+          "title": "El alcalde Zohran Mamdani vota de manera anticipada para las elecciones de medio mandato en Nueva York",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/10/24/el-alcalde-zohran-mamdani-vota-de-manera-anticipada-para-las-elecciones-de-medio-mandato-en-nueva-york/",
+          "image": "https://www.infobae.com/resizer/v2/4JKQNCBHK5EBXFYGNJOGPJKWKE.jpeg?auth=2eda4a776b629ce71ca096a3f58697454b8e2893a738fb2d60a684fadd451ea8&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-10-24T23:14:49.267234+00:00"
+        },
+        {
+          "id": "7350fc44f508",
+          "title": "Un viaje, casi un milagro",
+          "summary": "De una forma casi imperceptible, se va tejiendo un sutil entramado de afecto y complicidades que pone en evidencia no lo que nos separa sino aquello que nos hermana.",
+          "url": "https://www.clarin.com/opinion/viaje-milagro_0_yQm0UQJM58.html",
+          "image": "https://www.clarin.com/img/2026/10/22/trkOkaPoU_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-10-24T23:01:44+00:00"
         },
         {
           "id": "3f8c9c0b6575",
@@ -40,78 +112,6 @@
           "image": "https://media.ambito.com/p/47315b91404bbc21527dac8fc9f890ba/adjuntos/239/imagenes/043/312/0043312422/1200x675/808x256:828x276/javier-milei-benjamin-netanyahu-2026.jpeg",
           "source": "Ámbito",
           "published": "2026-10-24T19:44:00+00:00"
-        },
-        {
-          "id": "91adbd41483b",
-          "title": "Casi mil detenidos. Otro sábado de protestas en Francia: al menos 400.000 manifestantes, ciudades blindadas y algunos incidentes",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/el-mundo/francia-y-una-nueva-protesta-contra-el-gobierno-calles-tomadas-locales-cerrados-y-70000-policias-nid24102026/",
-          "image": "",
-          "source": "La Nación",
-          "published": "2026-10-24T20:50:11.816842+00:00"
-        },
-        {
-          "id": "4ee4e0f5abe2",
-          "title": "Estados Unidos tendrá un cambio de hora justo después de Halloween 2026: esto es lo que debes saber",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/10/24/estados-unidos-tendra-un-cambio-de-hora-justo-despues-de-halloween-2026-esto-es-lo-que-debes-saber/",
-          "image": "https://www.infobae.com/resizer/v2/ZLZDIP4TAZAS5OR6YVN4XW36TA.png?auth=a921db6e4caba7ddf628ce3d0cd89cd8a50bfadeb60b9d7f18591273dab98474&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-10-24T20:50:11.536641+00:00"
-        },
-        {
-          "id": "ed8b8687a887",
-          "title": "Excursionistas, campeón de la Primera B: goleó a Italiano y jugará en la Primera Nacional por primera vez en su rica historia",
-          "summary": "El club fundado en febrero de 1910 desató la fiesta de una multitud en el Bajo Belgrano. Resolvió el partido rápido y el triunfo lo hizo inalcanzable para Arsenal, que quedó segundo. La historia de una institución famosa por René Houseman y",
-          "url": "https://www.clarin.com/deportes/excursionistas-campeon-primera-b-goleo-italiano-jugara-primera-nacional-primera-vez-rica-historia_0_A1NFn0ljUV.html",
-          "image": "https://www.clarin.com/img/2026/10/24/yK0VDf9W1_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-10-24T19:52:49+00:00"
-        },
-        {
-          "id": "59fe3465a35b",
-          "title": "Lula da Silva y Flávio Bolsonaro disputaron las calles en el cierre de campaña del balotaje",
-          "summary": "A un día del balotaje, los candidatos movilizaron a sus seguidores en Río de Janeiro y Belo Horizonte. La última encuesta de Datafolha mostró un empate técnico entre ambos, con el 50% de los votos válidos proyectados para cada uno.",
-          "url": "https://www.ambito.com/mundo/lula-da-silva-y-flavio-bolsonaro-disputaron-las-calles-el-cierre-campana-del-balotaje-n6337530",
-          "image": "https://media.ambito.com/p/f1da2bdef4b2915a61406c55295d9243/adjuntos/239/imagenes/043/726/0043726448/1200x675/589x425:609x445/lula-bolsonaro.jpg",
-          "source": "Ámbito",
-          "published": "2026-10-24T18:27:43+00:00"
-        },
-        {
-          "id": "c69743208067",
-          "title": "Relato en crisis. Javier Milei contra los muertos del día 20",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/ideas/javier-milei-contra-los-muertos-del-dia-20-nid23102026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/-RGJSPGPQ7BHHTMVAQ2AYXOUVO4.JPG?auth=2edf6ca06a92102bce0041cb3846790ef08f2f09edf930feb513ad95a3baeaee&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-10-24T20:50:11.816568+00:00"
-        },
-        {
-          "id": "4865bedd9c5e",
-          "title": "Nueva York propone frenar los “bucles sin salida” en la atención al cliente automatizada",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/10/24/nueva-york-propone-frenar-los-bucles-sin-salida-en-la-atencion-al-cliente-automatizada/",
-          "image": "https://www.infobae.com/resizer/v2/EI2SV7PMD5GY7GQDW3NFDMVYHA.JPG?auth=28ec189ba65833c05bcde8ca99f0a4ff6c4d08d4a71b45a22a6917750f2583a1&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-10-24T20:50:11.536412+00:00"
-        },
-        {
-          "id": "74b310defb29",
-          "title": "Murió Carlos Riganti, el histórico baterista de Alas, a los 75 años",
-          "summary": "El músico fue una de los referentes y pioneros del rock progresivo argentino en la década del 70. Su esposa, Viviana, confirmó la noticia a través de un comunicado en redes sociales. Las emotivas despedidas de Charly Alberti, Oscar Giunta y",
-          "url": "https://www.clarin.com/espectaculos/murio-carlos-riganti-historico-baterista-alas-75-anos_0_zjPsl7HnT7.html",
-          "image": "https://www.clarin.com/img/2026/10/24/8to_QU3P5_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-10-24T19:51:08+00:00"
-        },
-        {
-          "id": "f7f2b14350ce",
-          "title": "El Gobierno afirmó que la Argentina es el país del Mercosur \"más beneficiado\" por el acuerdo con la Unión Europea",
-          "summary": "Así lo sostuvo el canciller Pablo Quirno, al compartir un cuadro comparativo en el que destacó que \"casi el 60% de las exportaciones fueron bajo este convenio\".",
-          "url": "https://www.ambito.com/politica/el-gobierno-afirmo-que-la-argentina-es-el-pais-del-mercosur-mas-beneficiado-el-acuerdo-la-union-europea-n6337517",
-          "image": "",
-          "source": "Ámbito",
-          "published": "2026-10-24T17:24:00+00:00"
         }
       ]
     },
@@ -279,20 +279,20 @@
     },
     {
       "name": "Cripto",
-      "buy": 1643.42,
-      "sell": 1646.76
+      "buy": 1640.96,
+      "sell": 1645.32
     }
   ],
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 14.7,
-    "apparent": 13.9,
+    "temperature": 13.4,
+    "apparent": 12.2,
     "humidity": 94,
-    "precipitation": 0.2,
-    "wind": 13.0,
-    "condition": "Llovizna",
-    "icon": "☂",
+    "precipitation": 0.0,
+    "wind": 13.7,
+    "condition": "Nublado",
+    "icon": "☁",
     "days": [
       {
         "date": "2026-10-24T00:00:00",
@@ -318,6 +318,6 @@
     ]
   },
   "errors": [],
-  "updated_at": "2026-10-24T17:50:12.788276-03:00",
-  "next_update_at": "2026-10-24T18:17:00-03:00"
+  "updated_at": "2026-10-24T20:14:50.347255-03:00",
+  "next_update_at": "2026-10-24T20:17:00-03:00"
 }
