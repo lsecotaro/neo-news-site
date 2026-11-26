@@ -6,112 +6,112 @@
       "eyebrow": "Radar nacional",
       "articles": [
         {
-          "id": "f71384a23649",
-          "title": "El fútbol es lo último. La Conmebol decidió clonar el espanto y renovó el alquiler de la Copa América: \"Un antes y un después\"",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/la-conmebol-decidio-clonar-el-espanto-y-renovo-el-alquiler-de-la-copa-america-nid25112026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/alejandro-dominguez-le-entrega-la-copa-a-messi-en-6WBU2LH2HNBZDHVXZJKXV7MHVY.JPG?auth=69134f127753341eef3e6c4163a76d5f635c7ac766517f68e0eef04cac126070&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-11-25T22:32:22.743148+00:00"
-        },
-        {
-          "id": "525f99bff411",
-          "title": "Una avioneta con motor averiado cayó en un barrio residencial de Louisville y dejó dos heridos graves",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/11/25/una-avioneta-con-motor-averiado-cayo-en-un-barrio-residencial-de-louisville-y-dejo-dos-heridos-graves/",
-          "image": "https://www.infobae.com/resizer/v2/VG6B4XW2JFDRVMYWXXATE3Y2J4.png?auth=f711d4d44289987b1a097d1287abbdd391e2ef27a7e70e74abbecb91a0d74dc9&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-11-25T22:32:22.578604+00:00"
-        },
-        {
-          "id": "904329e4596f",
-          "title": "Haruki Murakami, autor japonés, y la revelación que cambió su vida: “Quizá podría intentar escribir una novela”",
-          "summary": "Tuvo una epifanía mientras veía un partido de béisbol. En esa época era el dueño de un bar de jazz en los suburbios de Tokio.",
-          "url": "https://www.clarin.com/internacional/haruki-murakami-autor-japones-revelacion-cambio-vida-podria-intentar-escribir-novela_0_qF7gjqSH15.html",
-          "image": "https://www.clarin.com/img/2023/10/20/HyV0OZvGz_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-11-25T21:47:32+00:00"
-        },
-        {
-          "id": "8aecf90d1bb5",
-          "title": "Tregua en los mercados: el riesgo país cedió 2,6% tras superar los 1.100 puntos y los ADRs rebotaron hasta 6%",
-          "summary": "El riesgo país marcó durante esta rueda un nuevo máximo post elecciones, pero durante la tarde revirtió el incremento y bajó. El mercado continúa condicionado por la volatilidad internacional y la presión sobre la deuda soberana.",
-          "url": "https://www.ambito.com/finanzas/el-riesgo-pais-ya-supera-los-1100-puntos-y-la-sangria-los-bonos-no-se-detiene-n6349109",
-          "image": "https://media.ambito.com/p/f45bfd0117adff94d7f2bae73e1aa64f/adjuntos/239/imagenes/043/713/0043713924/1200x675/smart/mercados.jpg",
-          "source": "Ámbito",
-          "published": "2026-11-25T21:52:00+00:00"
-        },
-        {
-          "id": "769ecac02d60",
-          "title": "Fuerte volatilidad. Cuáles son los tres frentes de tensión que complicaron al Gobierno y afectaron al mercado",
-          "summary": "",
-          "url": "https://www.lanacion.com.ar/economia/dolar/fuerte-volatilidad-cuales-son-los-tres-frentes-de-tension-que-complicaron-al-gobierno-y-afectaron-al-nid25112026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/a-un-ano-de-las-elecciones-crece-la-incertidumbre-QS4VXBWPG5AHPLMDSPJR3CDMKU.jpg?auth=188f368ab54aea3a299cd7b2211fd5384c6cb7bc27438d843122711f8b7188da&width=302&height=201&quality=70&smart=true",
-          "source": "La Nación",
-          "published": "2026-11-25T22:32:22.742886+00:00"
-        },
-        {
-          "id": "1cf7bd8959d1",
-          "title": "Murió a los 101 años Martha Firestone Ford, heredera de Firestone y figura histórica de los Detroit Lions",
-          "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/11/25/murio-a-los-101-anos-martha-firestone-ford-heredera-de-firestone-y-figura-historica-de-los-detroit-lions/",
-          "image": "https://www.infobae.com/resizer/v2/DCXXHIIO4ZGA5J6RLMOUYIQQXM.jpg?auth=870ce8d3bedaad6cdf02b261eaa70b4477705f2fbe2c33d8320ef8a2921a94a5&smart=true&width=350&height=197&quality=85",
-          "source": "Infobae",
-          "published": "2026-11-25T22:32:22.578403+00:00"
-        },
-        {
-          "id": "0b7555523480",
-          "title": "Alpine, sancionado por la FIA: el motivo, la respuesta del equipo de Colapinto y las conclusiones del informe",
-          "summary": "A través de un comunicado, la escudería francesa explicó la situación que refiere a la temporada 2025. El viernes empezará la penúltima fecha en Qatar.",
-          "url": "https://www.clarin.com/deportes/alpine-sancionado-fia-motivo-respuesta-equipo-colapinto-conclusiones-informe_0_oSq1vvBmrE.html",
-          "image": "https://www.clarin.com/img/2026/11/21/DA8WNyrRc_1200x630__1.jpg",
-          "source": "Clarín",
-          "published": "2026-11-25T21:45:49+00:00"
-        },
-        {
-          "id": "645b2343e373",
-          "title": "Elecciones 2027: La Libertad Avanza acelera en Córdoba y desata la furia de los radicales",
-          "summary": "El diputado Gabriel Bornoroni prepara para el 12 de diciembre un acto con aire de lanzamiento, que contaría con la presencia de figuras nacionales de peso. Sería un respaldo que la Casa Rosada no le dio a su candidato en Tucumán, Lisandro C",
-          "url": "https://www.ambito.com/ambito-nacional/elecciones-2027-la-libertad-avanza-acelera-cordoba-y-desata-la-furia-los-radicales-n6349371",
-          "image": "https://media.ambito.com/p/c15647e75c5ce82486737b6e13fbb544/adjuntos/239/imagenes/043/797/0043797142/1200x675/smart/borno.jpg",
-          "source": "Ámbito",
-          "published": "2026-11-25T21:46:00+00:00"
-        },
-        {
           "id": "b5c2db164b48",
-          "title": "El fantasma del fraude. Elecciones en España: por qué la oposición teme un fraude de Pedro Sánchez y cómo respondió el presidente socialista",
+          "title": "Campaña caliente en España. Por qué la oposición teme un fraude de Pedro Sánchez y cómo respondió el presidente socialista",
           "summary": "",
           "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-espana-por-que-la-oposicion-desconfia-de-pedro-sanchez-y-agita-el-fantasma-del-fraude-nid25112026/",
-          "image": "https://www.lanacion.com.ar/resizer/v2/el-presidente-pedro-sanchez-izq-el-lider-del-pp-QAULHWTUVFDCRK5FXB3LTZAVNQ.JPG?auth=cc9b23405fba234a7a5ded7a5cf3622a8cd677e5ee24bcb481a2117882d5f807&width=302&height=201&quality=70&smart=true",
+          "image": "https://www.lanacion.com.ar/resizer/v2/alberto-nunez-feijoo-pedro-sanchez-y-santiago-H465LL7D5FFRHBZKYCQ5U2EOXU.jpg?auth=35fdb8c31c30f1c4d9588525ce02a0d6329515ee01eb043cb45586d09ae5cb42&width=302&height=201&quality=70&smart=true",
           "source": "La Nación",
-          "published": "2026-11-25T22:32:22.742635+00:00"
+          "published": "2026-11-26T05:04:47.514612+00:00"
         },
         {
-          "id": "2ec3e03858ab",
-          "title": "Una coalición de 22 estados demandó al Departamento de Vivienda por una regla que dejará sin ayuda a hogares con estatus migratorio mixto",
+          "id": "2e78fa5e9131",
+          "title": "Los bancos de alimentos de Texas llegan a Thanksgiving sin suficientes pavos por el aumento de la demanda",
           "summary": "",
-          "url": "https://www.infobae.com/estados-unidos/2026/11/25/una-coalicion-de-22-estados-demando-al-departamento-de-vivienda-por-una-regla-que-dejara-sin-ayuda-a-hogares-con-estatus-migratorio-mixto/",
-          "image": "https://www.infobae.com/resizer/v2/L3HRTLKGJBFNJIUF2ZAPTU5WMA.JPG?auth=12dfb9e48b7cf5079bf0864ee2306262e338b90ad6be4ae2d82c9cbf00ce5de8&smart=true&width=350&height=197&quality=85",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/26/los-bancos-de-alimentos-de-texas-llegan-a-thanksgiving-sin-suficientes-pavos-por-el-aumento-de-la-demanda/",
+          "image": "https://www.infobae.com/resizer/v2/5VKVFEP5I5EPTMLSONBDO5HV6M.JPG?auth=cc494a0e0b6eac305c0a45a4c4b3f741be5b3f8ddc7b409cca2994e5b4a66281&smart=true&width=350&height=197&quality=85",
           "source": "Infobae",
-          "published": "2026-11-25T22:32:22.578175+00:00"
+          "published": "2026-11-26T05:04:47.367352+00:00"
         },
         {
-          "id": "5da51a866b03",
-          "title": "El enviado de EEUU Kushner advierte contra una escalada de la guerra en Ucrania",
-          "summary": "El mediador estadounidense Jared Kushner advierte sobre el riesgo de una escalada en el conflicto ucraniano, señalando la tensión por el apoyo europeo a Ucrania. Kushner critica la hipocresía europea por financiar a Rusia a través de la com",
-          "url": "https://www.clarin.com/estados-unidos/el-enviado-de-eeuu-kushner-advierte-contra-una-escalada-de-la-guerra-en-ucrania_0_x2MXoKc0zM.html",
-          "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+          "id": "7d68056147b4",
+          "title": "Aeropuerto de Miami suspende despegues por un avión de carga que se salió de la pista",
+          "summary": "El tráfico aéreo en Miami fue interrumpido tras un incidente con una aeronave de carga al aterrizar, según comunicó la FAA. Las salidas fueron suspendidas mientras se evalúa la situación, sin reportes de lesionados hasta el momento.",
+          "url": "https://www.clarin.com/estados-unidos/aeropuerto-de-miami-suspende-despegues-por-un-avion-de-carga-que-se-salio-de-la-pista_0_GI2q52tcRM.html",
+          "image": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
           "source": "Clarín",
-          "published": "2026-11-25T21:40:14+00:00"
+          "published": "2026-11-26T02:10:13+00:00"
         },
         {
-          "id": "e3ad86460db8",
-          "title": "Luis Caputo reveló que pidió a China usar una parte del swap y detalló cómo pagará la deuda de enero",
-          "summary": "En medio de la escalada del dólar y del riesgo país, que alcanzó un máximo anual de 1.131 puntos básicos, el ministro de Economía buscó despejar las dudas sobre el programa financiero de 2027. Además, confirmó que el Tesoro le comprará u$s1",
-          "url": "https://www.ambito.com/finanzas/luis-caputo-revelo-que-pidio-china-usar-una-parte-del-swap-y-detallo-como-pagara-la-deuda-enero-n6349364",
-          "image": "https://media.ambito.com/p/2f6b4b9e31e1607d0a76f46bb300a86c/adjuntos/239/imagenes/043/744/0043744646/1200x675/1157x594:1177x614/luis-caputo-uia-2026-7.jpeg",
+          "id": "50d11d4ea913",
+          "title": "El Gobierno busca revancha en Diputados e intentará aprobar el Presupuesto 2027 sin nuevos cambios",
+          "summary": "Después de haber perdido una convocatoria por falta de quorum, insistirá con la reforma de la Carta Orgánica del Banco Central, más una agenda de acuerdos diplomáticos y judiciales.",
+          "url": "https://www.ambito.com/politica/el-gobierno-busca-revancha-diputados-e-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n6349417",
+          "image": "https://media.ambito.com/p/4a3b4cf13c791fe98795e9c6257adf14/adjuntos/239/imagenes/043/605/0043605542/1200x675/smart/martin-menem-diputados-sesion.jpg",
           "source": "Ámbito",
-          "published": "2026-11-25T21:33:00+00:00"
+          "published": "2026-11-26T03:00:00+00:00"
+        },
+        {
+          "id": "f3b4b7e320d5",
+          "title": "El hambre intacta. Boca juega como si no hubiera ganado nada y alimenta el sueño de un cierre de año perfecto",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/deportes/futbol/boca-a-cuartos-del-clausura-disfruta-de-sus-titulos-pero-juega-como-si-no-hubiese-ganado-nada-nid25112026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/leandro-paredes-figura-de-la-noche-celebra-el-1-0-NSBK4LGBUBAVNMZDH6O2CSGWDY.jpg?auth=76b4d7a76234b5961078b473a098c367badce4774afa65fbd89e7db22a2283e7&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-11-26T05:04:47.514362+00:00"
+        },
+        {
+          "id": "a86b50924856",
+          "title": "La economía de Estados Unidos creció 4,3%: qué significa para el bolsillo de las familias que el consumo real haya caído en octubre",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/26/la-economia-de-estados-unidos-crecio-43-que-significa-para-el-bolsillo-de-las-familias-que-el-consumo-real-haya-caido-en-octubre/",
+          "image": "https://www.infobae.com/resizer/v2/B6EZN53RL5FOXGLU5PW5LTP5TQ?auth=13f4dcbcf366f03046d191d0b5efe295385875aba9fe98138519b2520189a8fb&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-11-26T05:04:47.367139+00:00"
+        },
+        {
+          "id": "44e91c6671f7",
+          "title": "Fuente AP: Marlins incorporan a Gary Sánchez en acuerdo por 1 año y hasta 6,5 millones",
+          "summary": "Miami incorpora al receptor dominicano, quien firmó por un año. Sánchez, exjugador de Milwaukee, podría ganar hasta 6,5 millones. El veterano, con experiencia en seis equipos, llega como suplente. Fue dos veces All-Star y suma 201 jonrones ",
+          "url": "https://www.clarin.com/estados-unidos/fuente-ap-marlins-incorporan-a-gary-sanchez-en-acuerdo-por-1-ano-y-hasta-6-5-millones_0_wl9LfbEzC4.html",
+          "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-11-26T02:10:05+00:00"
+        },
+        {
+          "id": "f8fb2b699704",
+          "title": "Juan Ignacio Politi de Grupo Almarena: \"Hay una oportunidad en los activos reales, que están subvaluados respecto de los financieros\"",
+          "summary": "El CEO de Grupo Almarena explica por qué la compañía decidió integrar el desarrollo inmobiliario con la operación hotelera y la administración de la renta. Tras colocar u$s128,5 millones a través de un fideicomiso financiero, busca nuevas o",
+          "url": "https://www.ambito.com/negocios/juan-ignacio-politi-grupo-almarena-hay-una-oportunidad-los-activos-reales-que-estan-subvaluados-respecto-los-financieros-n6345036",
+          "image": "https://media.ambito.com/p/50e27aea08ee04babbf8903f649270ca/adjuntos/239/imagenes/043/717/0043717906/1200x675/smart/el-ceo-grupo-almarena-juan-ignacio-politi-3.jpeg",
+          "source": "Ámbito",
+          "published": "2026-11-26T03:00:00+00:00"
+        },
+        {
+          "id": "a6af7d0915a0",
+          "title": "Gira mundial. El juez retó a Chiqui Tapia y le subió el monto que debe pagar para salir del país",
+          "summary": "",
+          "url": "https://www.lanacion.com.ar/politica/el-juez-reto-a-chiqui-tapia-y-le-subio-el-monto-que-debe-pagar-para-salir-del-pais-nid25112026/",
+          "image": "https://www.lanacion.com.ar/resizer/v2/claudio-tapia-en-el-campo-de-entrenamiento-de-JHGJAJVQ7BD4ZEP2MVS2CP76FM.JPG?auth=a636c30d9a1031ab8c87d6e7ddf6776bbb36d8ea926cb26906d34eff03dcf56b&width=302&height=201&quality=70&smart=true",
+          "source": "La Nación",
+          "published": "2026-11-26T05:04:47.514102+00:00"
+        },
+        {
+          "id": "67696d30b0f2",
+          "title": "El CEO de Anthropic se enojó porque lo acusan de querer que la humanidad le ceda decisiones a la IA",
+          "summary": "",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/26/el-ceo-de-anthropic-se-enojo-porque-lo-acusan-de-querer-que-la-humanidad-le-ceda-decisiones-a-la-ia/",
+          "image": "https://www.infobae.com/resizer/v2/ADHSBA3OSJA4BENIL6XGDB7Q6Y.png?auth=354631b8d96c014e2e9a1830b574a8ea6ebc2809a567b02d0f661c66e76c64ec&smart=true&width=350&height=197&quality=85",
+          "source": "Infobae",
+          "published": "2026-11-26T05:04:47.366837+00:00"
+        },
+        {
+          "id": "be49f82b9cc7",
+          "title": "Una cerca de 4.000 dólares desató un conflicto entre vecinos: los acuerdos que conviene dejar por escrito",
+          "summary": "Construir una división de madera o metálica entre dos propiedades puede parecer una cuestión sencilla. Pero, para evitar controversias, hay que dejar por escrito una serie de condiciones.",
+          "url": "https://www.clarin.com/estados-unidos/cerca-4000-dolares-desato-conflicto-vecinos-acuerdos-conviene-dejar-escrito_0_8ALqEXbHLW.html",
+          "image": "https://www.clarin.com/img/2026/11/13/ghwLF0iQ3_1200x630__1.jpg",
+          "source": "Clarín",
+          "published": "2026-11-26T02:05:56+00:00"
+        },
+        {
+          "id": "ecf15e13907d",
+          "title": "Acciones argentinas se hunden hasta 60,5% en 2026: qué dicen los balances y qué oportunidades abre la caída para 2027",
+          "summary": "Los balances del tercer trimestre expusieron una marcada divergencia entre la expansión del sector energético y las dificultades de los bancos y la industria para recomponer su rentabilidad. Tras el fuerte castigo bursátil de las acciones a",
+          "url": "https://www.ambito.com/finanzas/acciones-argentinas-se-hunden-605-2026-que-dicen-los-balances-y-que-oportunidades-abre-la-caida-2027-n6349372",
+          "image": "https://media.ambito.com/p/48f3b08f002212915372c97343e46373/adjuntos/239/imagenes/043/797/0043797138/1200x675/smart/balanza-industrial-bomba-petrolera-y-banco.png",
+          "source": "Ámbito",
+          "published": "2026-11-26T03:00:00+00:00"
         }
       ]
     },
@@ -121,13 +121,31 @@
       "eyebrow": "Mercados & economía",
       "articles": [
         {
-          "id": "6156a4dafb88",
-          "title": "En medio de la tensión cambiaria, el BCRA dejó las compras en pausa por tercera rueda consecutiva",
-          "summary": "La autoridad monetaria volvió a mantenerse al margen del mercado oficial, mientras el dólar mayorista acumuló siete subas consecutivas y alcanzó nuevos máximos históricos. Las reservas apenas aumentaron u$s4 millones y el volumen negociado ",
-          "url": "https://www.ambito.com/finanzas/en-medio-la-tension-cambiaria-el-bcra-dejo-las-compras-pausa-tecera-rueda-consecutiva-n6349347",
-          "image": "",
+          "id": "cfef980b5599",
+          "title": "El salto del riesgo país complica el programa financiero 2027 y obliga a Luis Caputo a dar señales de certidumbre",
+          "summary": "El ministro de Economía detalló cómo afrontará los vencimientos de enero por más de u$s4.400 millones. Sin embargo, los analistas advierten sobre las dificultades para obtener el financiamiento necesario para cumplir con los compromisos de ",
+          "url": "https://www.ambito.com/finanzas/el-salto-del-riesgo-pais-complica-el-programa-financiero-2027-y-obliga-luis-caputo-dar-senales-certidumbre-n6349259",
+          "image": "https://media.ambito.com/p/c0e04347430d10301d47b1cf80e5a3ba/adjuntos/239/imagenes/043/784/0043784373/1200x675/smart/milei-y-caputo.png",
           "source": "Ámbito Finanzas",
-          "published": "2026-11-25T21:06:00+00:00"
+          "published": "2026-11-26T00:00:00+00:00"
+        },
+        {
+          "id": "78f77741407f",
+          "title": "Wall Street, en una montaña rusa: el Nasdaq recortó pérdidas tras desplomarse casi 5% y el Dow Jones cerró en alza",
+          "summary": "El Nasdaq llegó a desplomarse casi un 5% durante la rueda, pero recuperó gran parte de las pérdidas, mientras que el Dow Jones cerró en terreno positivo. Las dudas sobre la rentabilidad de la inteligencia artificial, la amenaza de nuevos ar",
+          "url": "https://www.ambito.com/finanzas/la-sangria-los-mercados-no-se-detiene-los-futuros-wall-street-adelantan-caidas-casi-3-n6349052",
+          "image": "https://media.ambito.com/p/d33bfcf4405c95b1be237b8177384a07/adjuntos/239/imagenes/040/944/0040944942/1200x675/smart/mercados-acciones-finanzas-inversiones-wall-street.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-11-25T22:28:00+00:00"
+        },
+        {
+          "id": "8aecf90d1bb5",
+          "title": "Tregua en los mercados: el riesgo país cedió 2,6% tras superar los 1.100 puntos y los ADRs rebotaron hasta 6%",
+          "summary": "El riesgo país marcó durante esta rueda un nuevo máximo post elecciones, pero durante la tarde revirtió el incremento y bajó. El mercado continúa condicionado por la volatilidad internacional y la presión sobre la deuda soberana.",
+          "url": "https://www.ambito.com/finanzas/el-riesgo-pais-ya-supera-los-1100-puntos-y-la-sangria-los-bonos-no-se-detiene-n6349109",
+          "image": "https://media.ambito.com/p/f45bfd0117adff94d7f2bae73e1aa64f/adjuntos/239/imagenes/043/713/0043713924/1200x675/smart/mercados.jpg",
+          "source": "Ámbito Finanzas",
+          "published": "2026-11-25T21:52:00+00:00"
         }
       ]
     },
@@ -259,38 +277,38 @@
   "weather": {
     "provider": "Open-Meteo",
     "location": "Zelaya, Buenos Aires",
-    "temperature": 24.4,
-    "apparent": 22.8,
-    "humidity": 38,
+    "temperature": 17.5,
+    "apparent": 14.2,
+    "humidity": 49,
     "precipitation": 0.0,
-    "wind": 8.9,
+    "wind": 17.0,
     "condition": "Despejado",
     "icon": "☀",
     "days": [
       {
-        "date": "2026-11-25T00:00:00",
-        "condition": "Despejado",
-        "max": 28.7,
-        "min": 14.9,
-        "rain_probability": 0
-      },
-      {
         "date": "2026-11-26T00:00:00",
         "condition": "Nublado",
-        "max": 26.6,
+        "max": 27.1,
         "min": 14.8,
-        "rain_probability": 2
+        "rain_probability": 0
       },
       {
         "date": "2026-11-27T00:00:00",
         "condition": "Nublado",
-        "max": 30.3,
-        "min": 15.3,
-        "rain_probability": 2
+        "max": 30.5,
+        "min": 15.8,
+        "rain_probability": 0
+      },
+      {
+        "date": "2026-11-28T00:00:00",
+        "condition": "Nublado",
+        "max": 32.2,
+        "min": 17.9,
+        "rain_probability": 0
       }
     ]
   },
   "errors": [],
-  "updated_at": "2026-11-25T19:32:22.914136-03:00",
-  "next_update_at": "2026-11-25T20:17:00-03:00"
+  "updated_at": "2026-11-26T02:04:47.693944-03:00",
+  "next_update_at": "2026-11-26T02:17:00-03:00"
 }
